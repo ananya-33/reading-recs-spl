@@ -307,9 +307,13 @@ test('tablet and phone use transparent taller artwork; desktop keeps the origina
   const page = await open(t);
   for (const [width, height] of [[320, 568], [390, 844], [768, 1024], [1024, 768], [1025, 768], [1280, 720]]) {
     await page.setViewportSize({ width, height });
+    const taller = width <= 1024;
+    await page.waitForFunction(filename => {
+      const image = document.querySelector('.shelf-art');
+      return image.currentSrc.endsWith(filename) && image.complete && image.naturalWidth > 0;
+    }, taller ? 'bookshelf-tall.png' : 'bookshelf-preview.png');
     await page.locator('.shelf-art').evaluate(image => image.decode());
     await page.evaluate(() => document.fonts.ready);
-    const taller = width <= 1024;
     const image = page.locator('.shelf-art');
     assert.match(await image.evaluate(element => element.currentSrc), taller ? /bookshelf-tall\.png$/ : /bookshelf-preview\.png$/);
     const shelf = await page.locator('.shelf').boundingBox();
