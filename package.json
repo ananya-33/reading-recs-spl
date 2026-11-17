@@ -1,0 +1,16 @@
+{
+  "name": "reading-recs-spl",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "import": "node scripts/import.mjs",
+    "match": "node scripts/match.mjs",
+    "refresh": "node scripts/refresh.mjs",
+    "test": "node --test"
+  },
+  "dependencies": {
+    "csv-parse": "7.0.3",
+    "playwright": "1.65.0"
+  }
+}

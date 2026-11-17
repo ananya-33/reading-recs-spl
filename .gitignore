@@ -1,0 +1,29 @@
+# Personal imports and credentials
+*.csv
+# Sanitized website snapshots are public by approval; raw imports and audits stay local.
+public/data/*.tmp
+.local/
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.pfx
+*.p12
+auth.json
+storage-state*.json
+playwright/.auth/
+
+# Dependencies, build output, and test artifacts
+node_modules/
+dist/
+coverage/
+playwright-report/
+test-results/
+*.log
+
+# Local editor and operating system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

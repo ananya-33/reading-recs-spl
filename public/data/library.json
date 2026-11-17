@@ -1,0 +1,2948 @@
+{
+  "schemaVersion": 1,
+  "importedAt": "2026-11-12T21:05:50.374Z",
+  "books": [
+    {
+      "id": "244714079",
+      "title": "Public Access Afterworld",
+      "author": "Jane Schoenbrun",
+      "isbn13": "9780593978382",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "245120325",
+      "title": "Under Story",
+      "author": "Chloe Benjamin",
+      "isbn13": "9780593545218",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "241375385",
+      "title": "White Elephant",
+      "author": "Jeyamohan",
+      "isbn13": "9780374619428",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "55172725",
+      "title": "Outline",
+      "author": "Rachel Cusk",
+      "isbn13": null,
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "245886309",
+      "title": "American Hagwon",
+      "author": "Min Jin Lee",
+      "isbn13": "9781538752036",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "249223289",
+      "title": "Milkiverse",
+      "author": "Kelly Murashige",
+      "isbn13": "9781641298650",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "255420470",
+      "title": "There Is No Anti Memetics Division",
+      "author": "qntm",
+      "isbn13": null,
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "206318521",
+      "title": "Just Kids",
+      "author": "Patti Smith",
+      "isbn13": "9780066211312",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "218359661",
+      "title": "Mendell Station",
+      "author": "J.B. Hwang",
+      "isbn13": "9781639736188",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "222376906",
+      "title": "Wild Reverence",
+      "author": "Rebecca Ross",
+      "isbn13": "9781250373359",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "240019879",
+      "title": "Sublimation",
+      "author": "Isabel J. Kim",
+      "isbn13": "9781250376794",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "222652",
+      "title": "The Quantum and the Lotus: A Journey to the Frontiers Where Science and Buddhism Meet",
+      "author": "Matthieu Ricard",
+      "isbn13": "9781400080793",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "235260861",
+      "title": "John of John",
+      "author": "Douglas Stuart",
+      "isbn13": "9780802167194",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "243042918",
+      "title": "If Books Could Kill",
+      "author": "Kate Eberle",
+      "isbn13": "9780143139102",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "242764839",
+      "title": "Our Knives Will Save Us: Dispatches from a White Mountain Apache Chef",
+      "author": "Nephi Craig",
+      "isbn13": "9780593831908",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "234943561",
+      "title": "Cleopatra",
+      "author": "Saara El-Arifi",
+      "isbn13": "9780593875643",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "17841",
+      "title": "Foucault’s Pendulum",
+      "author": "Umberto Eco",
+      "isbn13": "9780156032971",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "276767",
+      "title": "The Word for World Is Forest",
+      "author": "Ursula K. Le Guin",
+      "isbn13": null,
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "221490953",
+      "title": "Lost in Curiosity: Field Notes from Scientists' Adventures into the Unknown",
+      "author": "Roberta Kwok",
+      "isbn13": "9781728275970",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "243502731",
+      "title": "The Sea Hides Its Dead",
+      "author": "Megan Bontrager",
+      "isbn13": "9780316588010",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "8701960",
+      "title": "The Information: A History, a Theory, a Flood",
+      "author": "James Gleick",
+      "isbn13": "9780375423727",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "218569830",
+      "title": "The Intermediaries: A Weimar Story",
+      "author": "Brandy Schillace",
+      "isbn13": "9781324036319",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "231127175",
+      "title": "Lost Lambs",
+      "author": "Madeline Cash",
+      "isbn13": "9780374619237",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "243596291",
+      "title": "Fruit Fly",
+      "author": "Josh Silver",
+      "isbn13": "9798892426374",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "55748103",
+      "title": "No Gods, No Monsters (Convergence Saga, #1)",
+      "author": "Cadwell Turnbull",
+      "isbn13": "9781982603724",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "54860585",
+      "title": "Razorblade Tears",
+      "author": "S.A. Cosby",
+      "isbn13": null,
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "586852",
+      "title": "The Wall",
+      "author": "Marlen Haushofer",
+      "isbn13": "9781573440943",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "62039176",
+      "title": "Hangman",
+      "author": "Maya Binyam",
+      "isbn13": "9780374610074",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "231126885",
+      "title": "We Burned So Bright",
+      "author": "T.J. Klune",
+      "isbn13": "9781250881236",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "29751398",
+      "title": "The Power",
+      "author": "Naomi Alderman",
+      "isbn13": "9780670919987",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "238226942",
+      "title": "Yesteryear",
+      "author": "Caro Claire Burke",
+      "isbn13": null,
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "25852784",
+      "title": "Evicted: Poverty and Profit in the American City",
+      "author": "Matthew Desmond",
+      "isbn13": "9780553447439",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "56269278",
+      "title": "The Trees",
+      "author": "Percival Everett",
+      "isbn13": "9781644450642",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "208580627",
+      "title": "Brightly Shining",
+      "author": "Ingvild H. Rishøi",
+      "isbn13": "9780802163493",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "242678102",
+      "title": "Homebound",
+      "author": "Portia Elan",
+      "isbn13": "9781668201732",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "239151029",
+      "title": "Underlake",
+      "author": "Erin L. McCoy",
+      "isbn13": "9780385552073",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "236772855",
+      "title": "Under Water",
+      "author": "Tara Menon",
+      "isbn13": "9798217048311",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "232206245",
+      "title": "Escape!",
+      "author": "Stephen Fishbach",
+      "isbn13": "9798217048151",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "241126782",
+      "title": "Land",
+      "author": "Maggie O'Farrell",
+      "isbn13": "9780593320648",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "58416952",
+      "title": "The Will of the Many (Hierarchy, #1)",
+      "author": "James Islington",
+      "isbn13": "9781982141196",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "235629842",
+      "title": "Unread: A Memoir of Learning (and Loving) to Read on TikTok",
+      "author": "Oliver James",
+      "isbn13": "9781454959403",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "235993046",
+      "title": "The Caretaker",
+      "author": "Marcus Kliewer",
+      "isbn13": "9781982198817",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "241683548",
+      "title": "Exit Party",
+      "author": "Emily St. John Mandel",
+      "isbn13": "9781035081318",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "233717212",
+      "title": "Operation Bounce House",
+      "author": "Matt Dinniman",
+      "isbn13": "9780593820308",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "208840291",
+      "title": "The Serviceberry: Abundance and Reciprocity in the Natural World",
+      "author": "Robin Wall Kimmerer",
+      "isbn13": "9781668072240",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "222376536",
+      "title": "The Definitions",
+      "author": "Matt Greene",
+      "isbn13": "9781250399342",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "226743876",
+      "title": "Lightbreakers",
+      "author": "Aja Gabel",
+      "isbn13": "9780593329702",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "231299870",
+      "title": "Tourist Season (The Seasons of Carnage Trilogy, #1)",
+      "author": "Brynne Weaver",
+      "isbn13": "9781638932109",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "18952341",
+      "title": "The Grace of Kings (The Dandelion Dynasty, #1)",
+      "author": "Ken Liu",
+      "isbn13": "9781481424271",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "52372",
+      "title": "On Photography",
+      "author": "Susan Sontag",
+      "isbn13": "9780141187167",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "58908440",
+      "title": "Everybody's Protest Novel",
+      "author": "James Baldwin",
+      "isbn13": null,
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "16634",
+      "title": "The Glass Bead Game",
+      "author": "Hermann Hesse",
+      "isbn13": "9780312278496",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "228953449",
+      "title": "Seeing Other People",
+      "author": "Emily Wibberley",
+      "isbn13": "9780593954263",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "215805843",
+      "title": "The Snares",
+      "author": "Rav Grewal-Kök",
+      "isbn13": "9780593446034",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "42121525",
+      "title": "Migrations",
+      "author": "Charlotte McConaghy",
+      "isbn13": "9781250204028",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "70582",
+      "title": "War for the Oaks",
+      "author": "Emma Bull",
+      "isbn13": "9780765349156",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "211479192",
+      "title": "Water Moon",
+      "author": "Samantha Sotto Yambao",
+      "isbn13": "9780593724996",
+      "seasons": []
+    },
+    {
+      "id": "218569826",
+      "title": "Is a River Alive?",
+      "author": "Robert Macfarlane",
+      "isbn13": "9780393242133",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "214152211",
+      "title": "The Bright Years",
+      "author": "Sarah Damoff",
+      "isbn13": "9781668061442",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "58730649",
+      "title": "Cold Enough for Snow",
+      "author": "Jessica Au",
+      "isbn13": "9781913097769",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "59127770",
+      "title": "The Privatization of Everything: How the Plunder of Public Goods Transformed America and How We Can Fight Back",
+      "author": "Donald Cohen",
+      "isbn13": "9781620976531",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "222658339",
+      "title": "The Wilderness",
+      "author": "Angela Flournoy",
+      "isbn13": "9780063318779",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "197108968",
+      "title": "The Family Experiment (Dark Future, #5)",
+      "author": "John Marrs",
+      "isbn13": "9781335000361",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "211934958",
+      "title": "Brother Brontë",
+      "author": "Fernando A. Flores",
+      "isbn13": "9780374604165",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "60246552",
+      "title": "Septology",
+      "author": "Jon Fosse",
+      "isbn13": "9781804270066",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "17934530",
+      "title": "Annihilation (Southern Reach, #1)",
+      "author": "Jeff Vandermeer",
+      "isbn13": "9780374104092",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "197055873",
+      "title": "An African History of Africa: From the Dawn of Humanity to Independence",
+      "author": "Zeinab Badawi",
+      "isbn13": "9780753560150",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "216488999",
+      "title": "The Incandescent",
+      "author": "Emily Tesh",
+      "isbn13": "9780356525648",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "211004841",
+      "title": "The Hymn to Dionysus",
+      "author": "Natasha Pulley",
+      "isbn13": "9781639732364",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "211953309",
+      "title": "A Gorgeous Excitement",
+      "author": "Cynthia Weiner",
+      "isbn13": "9780593798843",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "256008",
+      "title": "Lonesome Dove (Lonesome Dove, #1)",
+      "author": "Larry McMurtry",
+      "isbn13": "9780671683900",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "52579213",
+      "title": "A Series of Fortunate Events: Chance and the Making of the Planet, Life, and You",
+      "author": "Sean B. Carroll",
+      "isbn13": "9780691201757",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "13586980",
+      "title": "The Coup: 1953, the CIA, and the Roots of Modern U.S.-Iranian Relations",
+      "author": "Ervand Abrahamian",
+      "isbn13": "9781595588265",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "775985",
+      "title": "The Black Jacobins: Toussaint L'Ouverture and the San Domingo Revolution",
+      "author": "C.L.R. James",
+      "isbn13": "9780679724674",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "40915764",
+      "title": "White Malice: The CIA and the Covert Recolonization of Africa",
+      "author": "Susan Williams",
+      "isbn13": "9781541768291",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "208430658",
+      "title": "Blood Over Bright Haven",
+      "author": "M.L. Wang",
+      "isbn13": "9780593873359",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "40180098",
+      "title": "The Overstory",
+      "author": "Richard Powers",
+      "isbn13": "9780393356687",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "43412959",
+      "title": "The Offing",
+      "author": "Benjamin Myers",
+      "isbn13": "9781526611314",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "210223811",
+      "title": "Katabasis",
+      "author": "R.F. Kuang",
+      "isbn13": null,
+      "seasons": []
+    },
+    {
+      "id": "203648169",
+      "title": "Apartment Women",
+      "author": "Gu Byeong-mo",
+      "isbn13": "9781335050076",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "204169220",
+      "title": "I Made It Out of Clay",
+      "author": "Beth Kander",
+      "isbn13": "9780778368120",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "199798813",
+      "title": "Black Pill: How I Witnessed the Darkest Corners of the Internet Come to Life, Poison Society, and Capture American Politics",
+      "author": "Elle Reeve",
+      "isbn13": "9781982198886",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "201751300",
+      "title": "The Bookshop: A History of the American Bookstore",
+      "author": "Evan Friss",
+      "isbn13": "9780593299920",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "3985",
+      "title": "The Amazing Adventures of Kavalier & Clay",
+      "author": "Michael Chabon",
+      "isbn13": "9780312282998",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "24800",
+      "title": "House of Leaves",
+      "author": "Mark Z. Danielewski",
+      "isbn13": null,
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "199396641",
+      "title": "The DallerGut Dream Department Store (DallerGut Dream Department Store, #1)",
+      "author": "Miye Lee",
+      "isbn13": "9781335081179",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "182733784",
+      "title": "Nuclear War: A Scenario",
+      "author": "Annie Jacobsen",
+      "isbn13": "9780593476093",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "203020280",
+      "title": "Cue the Sun! The Invention of Reality TV",
+      "author": "Emily Nussbaum",
+      "isbn13": "9780525508991",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "208584952",
+      "title": "Rental House",
+      "author": "Weike Wang",
+      "isbn13": "9780593545546",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "195391751",
+      "title": "The Anthropologists",
+      "author": "Aysegül Savas",
+      "isbn13": "9781639733064",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "14891",
+      "title": "A Tree Grows in Brooklyn",
+      "author": "Betty Smith",
+      "isbn13": "9780061120077",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "195790789",
+      "title": "888 Love and the Divine Burden of Numbers",
+      "author": "Abraham Chang",
+      "isbn13": "9781250910783",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "75596597",
+      "title": "Judgment at Tokyo: World War II on Trial and the Making of Modern Asia",
+      "author": "Gary J. Bass",
+      "isbn13": "9781101947111",
+      "seasons": []
+    },
+    {
+      "id": "55868456",
+      "title": "The Spear Cuts Through Water",
+      "author": "Simon Jimenez",
+      "isbn13": "9780593156599",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "36950075",
+      "title": "The World in a Grain: The Story of Sand and How It Transformed Civilization",
+      "author": "Vince Beiser",
+      "isbn13": "9780399576423",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "36374016",
+      "title": "Don't Make Me Pull Over!: An Informal History of the Family Road Trip",
+      "author": "Richard Ratay",
+      "isbn13": "9781501188749",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "55303672",
+      "title": "Picnic in the Ruins",
+      "author": "Todd Robert Petersen",
+      "isbn13": "9781640093225",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "34927828",
+      "title": "The Great Alone",
+      "author": "Kristin Hannah",
+      "isbn13": "9780312577230",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "61423989",
+      "title": "A Fever in the Heartland: The Ku Klux Klan's Plot to Take Over America, and the Woman Who Stopped Them",
+      "author": "Timothy Egan",
+      "isbn13": "9780735225268",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "18775418",
+      "title": "Do Not Sell at Any Price: The Wild, Obsessive Hunt for the World's Rarest 78rpm Records",
+      "author": "Amanda Petrusich",
+      "isbn13": "9781451667059",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "6361913",
+      "title": "Provenance: How a Con Man and a Forger Rewrote the History of Modern Art",
+      "author": "Laney Salisbury",
+      "isbn13": "9781594202209",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "45046690",
+      "title": "The Address Book: What Street Addresses Reveal About Identity, Race, Wealth, and Power",
+      "author": "Deirdre Mask",
+      "isbn13": "9781250134769",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "40538681",
+      "title": "Midnight in Chernobyl: The Untold Story of the World's Greatest Nuclear Disaster",
+      "author": "Adam Higginbotham",
+      "isbn13": "9781501134616",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "8171378",
+      "title": "The Warmth of Other Suns: The Epic Story of America's Great Migration",
+      "author": "Isabel Wilkerson",
+      "isbn13": "9780679444329",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "61423996",
+      "title": "Quantum Physics Made Me Do It: A Simple Guide to the Fundamental Nature of Everything",
+      "author": "Jeremie Harris",
+      "isbn13": "9780735244139",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "62790909",
+      "title": "The Palestine Laboratory: How Israel Exports the Technology of Occupation Around the World",
+      "author": "Antony Loewenstein",
+      "isbn13": "9781922310408",
+      "seasons": []
+    },
+    {
+      "id": "22245334",
+      "title": "The Utopia of Rules: On Technology, Stupidity, and the Secret Joys of Bureaucracy",
+      "author": "David Graeber",
+      "isbn13": "9781612193748",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "392563",
+      "title": "The Rest Is Noise: Listening to the Twentieth Century",
+      "author": "Alex Ross",
+      "isbn13": "9780374249397",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "29635590",
+      "title": "Fallen Glory: The Lives and Deaths of History's Greatest Buildings",
+      "author": "James Crawford",
+      "isbn13": "9781250118295",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "198276006",
+      "title": "I Cheerfully Refuse",
+      "author": "Leif Enger",
+      "isbn13": "9780802162939",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "62929342",
+      "title": "Real Americans",
+      "author": "Rachel Khong",
+      "isbn13": "9780593537251",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "173754979",
+      "title": "James",
+      "author": "Percival Everett",
+      "isbn13": "9780385550369",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "62039259",
+      "title": "Open Throat",
+      "author": "Henry Hoke",
+      "isbn13": "9780374609870",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "31522415",
+      "title": "What It Means When a Man Falls from the Sky",
+      "author": "Lesley Nneka Arimah",
+      "isbn13": "9780735211025",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "195177497",
+      "title": "Floating Hotel",
+      "author": "Grace Curtis",
+      "isbn13": "9780756419318",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "199798179",
+      "title": "The Ministry of Time",
+      "author": "Kaliane Bradley",
+      "isbn13": "9781668045145",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "50892360",
+      "title": "Black Sun (Between Earth and Sky, #1)",
+      "author": "Rebecca Roanhorse",
+      "isbn13": "9781534437678",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "28251250",
+      "title": "White Noise",
+      "author": "Don DeLillo",
+      "isbn13": "9780143129554",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "49098225",
+      "title": "Another Now: Dispatches from an Alternative Present",
+      "author": "Yanis Varoufakis",
+      "isbn13": "9781847925633",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "60784614",
+      "title": "Cobalt Red: How the Blood of the Congo Powers Our Lives",
+      "author": "Siddharth Kara",
+      "isbn13": "9781250284303",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "63946826",
+      "title": "Time's Echo: The Second World War, the Holocaust, and the Music of Remembrance",
+      "author": "Jeremy Eichler",
+      "isbn13": "9780525521716",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "61966364",
+      "title": "Fire Weather: A True Story from a Hotter World",
+      "author": "John Vaillant",
+      "isbn13": "9781524732851",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "60657589",
+      "title": "Emily Wilde's Encyclopaedia of Faeries (Emily Wilde, #1)",
+      "author": "Heather Fawcett",
+      "isbn13": "9780593500132",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "101160753",
+      "title": "The Six: The Untold Story of America's First Women Astronauts",
+      "author": "Loren Grush",
+      "isbn13": "9781982172800",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "122993405",
+      "title": "Same Bed Different Dreams",
+      "author": "Ed Park",
+      "isbn13": "9780812998979",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "66933",
+      "title": "The Wretched of the Earth",
+      "author": "Frantz Fanon",
+      "isbn13": "9780802141323",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "52045757",
+      "title": "Minor Detail",
+      "author": "Adania Shibli",
+      "isbn13": "9781913097172",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "59721793",
+      "title": "They're Going to Love You",
+      "author": "Meg Howrey",
+      "isbn13": "9780385548779",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "71872930",
+      "title": "North Woods",
+      "author": "Daniel Mason",
+      "isbn13": null,
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "85323183",
+      "title": "Mobility",
+      "author": "Lydia Kiesling",
+      "isbn13": "9781638930563",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "61796648",
+      "title": "The Crow Valley Karaoke Championships",
+      "author": "Ali Bryan",
+      "isbn13": "9781250863430",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "49878332",
+      "title": "Master Class",
+      "author": "Christina Dalcher",
+      "isbn13": "9780440000839",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "65678550",
+      "title": "The Heaven & Earth Grocery Store",
+      "author": "James McBride",
+      "isbn13": "9780593422946",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "31670196",
+      "title": "Scale: The Universal Laws of Growth, Innovation, Sustainability, and the Pace of Life in Organisms, Cities, Economies, and Companies",
+      "author": "Geoffrey B. West",
+      "isbn13": "9781594205583",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "38474",
+      "title": "Another Country",
+      "author": "James Baldwin",
+      "isbn13": "9780141186375",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "61399138",
+      "title": "Something Wild & Wonderful (Nashville Love, #2)",
+      "author": "Anita Kelly",
+      "isbn13": "9781538754887",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "62926938",
+      "title": "The Seven Year Slip",
+      "author": "Ashley Poston",
+      "isbn13": null,
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "15839976",
+      "title": "Red Rising (Red Rising Saga, #1)",
+      "author": "Pierce Brown",
+      "isbn13": null,
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "43263680",
+      "title": "Ninth House (Ninth House Trilogy, #1)",
+      "author": "Leigh Bardugo",
+      "isbn13": "9781250313072",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "53968496",
+      "title": "The Prison Healer (The Prison Healer, #1)",
+      "author": "Lynette Noni",
+      "isbn13": "9780358434559",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "32718027",
+      "title": "The City of Brass (The Daevabad Trilogy, #1)",
+      "author": "S.A. Chakraborty",
+      "isbn13": "9780062678102",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "53921926",
+      "title": "The Bridge Kingdom (The Bridge Kingdom, #1)",
+      "author": "Danielle L. Jensen",
+      "isbn13": null,
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "63325333",
+      "title": "The Phoenix King (The Ravence Trilogy, #1)",
+      "author": "Aparna Verma",
+      "isbn13": "9781668627983",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "36442813",
+      "title": "The Order of Time",
+      "author": "Carlo Rovelli",
+      "isbn13": "9780735216105",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "11094651",
+      "title": "The Big Roads: The Untold Story of the Engineers, Visionaries, and Trailblazers Who Created the American Superhighways",
+      "author": "Earl Swift",
+      "isbn13": "9780618812417",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "134218",
+      "title": "Home: A Short History of an Idea",
+      "author": "Witold Rybczynski",
+      "isbn13": "9780140102314",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "1329610",
+      "title": "Hotel: An American History",
+      "author": "Andrew K. Sandoval-Strausz",
+      "isbn13": "9780300106169",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "17994",
+      "title": "The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography",
+      "author": "Simon Singh",
+      "isbn13": "9780385495325",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "7962457",
+      "title": "Quadrivium: The Four Classical Liberal Arts of Number, Geometry, Music, & Cosmology",
+      "author": "John Martineau",
+      "isbn13": "9780802778130",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "124950295",
+      "title": "Out on a Limb (Out, #1)",
+      "author": "Hannah Bonam-Young",
+      "isbn13": "9781778027789",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "24473763",
+      "title": "Radiance (Wraith Kings, #1)",
+      "author": "Grace Draven",
+      "isbn13": null,
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "60714999",
+      "title": "The Serpent and the Wings of Night (Crowns of Nyaxia, #1)",
+      "author": "Carissa Broadbent",
+      "isbn13": null,
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "45100",
+      "title": "Ship of Magic (Liveship Traders, #1)",
+      "author": "Robin Hobb",
+      "isbn13": "9780006498858",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "62031",
+      "title": "The City of Dreaming Books (Zamonia, #4)",
+      "author": "Walter Moers",
+      "isbn13": "9780099490579",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "57191885",
+      "title": "The Witch Collector (Witch Walker, #1)",
+      "author": "Charissa Weaks",
+      "isbn13": "9781648980442",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "63119009",
+      "title": "The Crown of Oaths and Curses (The Mortal Fates #1)",
+      "author": "J. Bree",
+      "isbn13": null,
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "33584810",
+      "title": "The Patch: The People, Pipelines, and Politics of the Oil Sands",
+      "author": "Chris Turner",
+      "isbn13": "9781501115097",
+      "seasons": []
+    },
+    {
+      "id": "27774758",
+      "title": "An Ember in the Ashes (An Ember in the Ashes, #1)",
+      "author": "Sabaa Tahir",
+      "isbn13": null,
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "60784546",
+      "title": "Divine Rivals (Letters of Enchantment, #1)",
+      "author": "Rebecca Ross",
+      "isbn13": "9781250857439",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "61431922",
+      "title": "Fourth Wing (The Empyrean, #1)",
+      "author": "Rebecca Yarros",
+      "isbn13": "9781649374042",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "49826643",
+      "title": "Daughter of No Worlds (The War of Lost Hearts, #1)",
+      "author": "Carissa Broadbent",
+      "isbn13": null,
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "61612864",
+      "title": "The Book That Wouldn’t Burn (The Library Trilogy, #1)",
+      "author": "Mark Lawrence",
+      "isbn13": "9780593437919",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "36692478",
+      "title": "There There",
+      "author": "Tommy Orange",
+      "isbn13": null,
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "43459659",
+      "title": "The Undefeated",
+      "author": "Una McCormack",
+      "isbn13": null,
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "58437788",
+      "title": "Sofi and the Bone Song",
+      "author": "Adrienne Tooley",
+      "isbn13": "9781534484368",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "20758104",
+      "title": "The Knife of Never Letting Go (Chaos Walking, #1)",
+      "author": "Patrick Ness",
+      "isbn13": "9780763676186",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "65213204",
+      "title": "Yours for the Taking",
+      "author": "Gabrielle Korn",
+      "isbn13": "9781250283368",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "40163119",
+      "title": "Say Nothing: A True Story of Murder and Memory in Northern Ireland",
+      "author": "Patrick Radden Keefe",
+      "isbn13": "9780385521314",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "37570595",
+      "title": "Friday Black",
+      "author": "Nana Kwame Adjei-Brenyah",
+      "isbn13": "9781328911247",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "56179360",
+      "title": "Light from Uncommon Stars",
+      "author": "Ryka Aoki",
+      "isbn13": "9781250789068",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "48614638",
+      "title": "The New Age of Empire: How Racism and Colonialism Still Rule the World",
+      "author": "Kehinde Andrews",
+      "isbn13": "9781645036920",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "52692515",
+      "title": "There's No Such Thing as an Easy Job",
+      "author": "Kikuko Tsumura",
+      "isbn13": "9781526622242",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "158674",
+      "title": "Nervous Conditions",
+      "author": "Tsitsi Dangarembga",
+      "isbn13": "9781580051347",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "33142013",
+      "title": "The Things We Learn When We're Dead",
+      "author": "Charlie Laidlaw",
+      "isbn13": "9781786150356",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "45304101",
+      "title": "The Great Believers",
+      "author": "Rebecca Makkai",
+      "isbn13": "9780735223530",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "17707648",
+      "title": "The Hen Who Dreamed She Could Fly",
+      "author": "Sun-mi Hwang",
+      "isbn13": "9780143123200",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "15997",
+      "title": "Paradise Lost",
+      "author": "John Milton",
+      "isbn13": "9780140424393",
+      "seasons": []
+    },
+    {
+      "id": "79550",
+      "title": "The Summer Book",
+      "author": "Tove Jansson",
+      "isbn13": "9780954221713",
+      "seasons": []
+    },
+    {
+      "id": "35888337",
+      "title": "BoJack Horseman: The Art Before the Horse",
+      "author": "Chris McDonnell",
+      "isbn13": "9781419727733",
+      "seasons": []
+    },
+    {
+      "id": "40599469",
+      "title": "One Summer Day in Rome",
+      "author": "Mark Lamprell",
+      "isbn13": null,
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "16328",
+      "title": "The Murder of Roger Ackroyd (Hercule Poirot, #4)",
+      "author": "Agatha Christie",
+      "isbn13": "9781579126278",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "16297",
+      "title": "Cards on the Table (Hercule Poirot, #15)",
+      "author": "Agatha Christie",
+      "isbn13": "9780425205952",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "50033",
+      "title": "Dandelion Wine",
+      "author": "Ray Bradbury",
+      "isbn13": "9780671037703",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "44451608",
+      "title": "Better Buses, Better Cities: How to Plan, Run, and Win the Fight for Effective Transit",
+      "author": "Steven Higashide",
+      "isbn13": "9781642830149",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "340537",
+      "title": "Dispossessing the Wilderness: Indian Removal and the Making of the National Parks",
+      "author": "Mark David Spence",
+      "isbn13": "9780195142433",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "62080151",
+      "title": "The Endless Vessel",
+      "author": "Charles Soule",
+      "isbn13": "9780063043046",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "61340227",
+      "title": "The Language of Trees: A Rewilding of Literature and Landscape",
+      "author": "Katie Holten",
+      "isbn13": "9781953534682",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "61108472",
+      "title": "Palo Alto: A History of California, Capitalism, and the World",
+      "author": "Malcolm Harris",
+      "isbn13": "9780316592031",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "35068705",
+      "title": "The Poppy War (The Poppy War, #1)",
+      "author": "R.F. Kuang",
+      "isbn13": "9780062662590",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "10564612",
+      "title": "A History of Western Musical Aesthetics",
+      "author": "Edward Lippman",
+      "isbn13": "9780803279513",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "423972",
+      "title": "More Brilliant Than the Sun: Adventures in Sonic Fiction",
+      "author": "Kodwo Eshun",
+      "isbn13": "9780704380257",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "58890783",
+      "title": "Either/Or",
+      "author": "Elif Batuman",
+      "isbn13": "9780525557593",
+      "seasons": []
+    },
+    {
+      "id": "8682",
+      "title": "Jitterbug Perfume",
+      "author": "Tom Robbins",
+      "isbn13": "9781842430354",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "30199414",
+      "title": "Marlena",
+      "author": "Julie Buntin",
+      "isbn13": "9781627797641",
+      "seasons": []
+    },
+    {
+      "id": "58527403",
+      "title": "Magnolia Parks (Magnolia Parks Universe, #1)",
+      "author": "Jessa Hastings",
+      "isbn13": "9781737281191",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "61049",
+      "title": "Autobiography of Red: A Novel in Verse",
+      "author": "Anne Carson",
+      "isbn13": "9780375701290",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "473846",
+      "title": "Can You Hear the Nightbird Call?",
+      "author": "Anita Rau Badami",
+      "isbn13": "9780676976052",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "58386745",
+      "title": "Neruda on the Park",
+      "author": "Cleyvis Natera",
+      "isbn13": "9780593358481",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "62919394",
+      "title": "Ripe",
+      "author": "Sarah Rose Etter",
+      "isbn13": "9781668011638",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "58659343",
+      "title": "Our Wives Under the Sea",
+      "author": "Julia Armfield",
+      "isbn13": "9781529017229",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "61237011",
+      "title": "Madame Restell: The Life, Death, and Resurrection of Old New York's Most Fabulous, Fearless, and Infamous Abortionist",
+      "author": "Jennifer Wright",
+      "isbn13": "9780306826795",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "31409135",
+      "title": "The Radium Girls: The Dark Story of America’s Shining Women",
+      "author": "Kate Moore",
+      "isbn13": "9781492649359",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "62337617",
+      "title": "Who Gets Believed?: When the Truth Isn't Enough",
+      "author": "Dina Nayeri",
+      "isbn13": "9781646220724",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "61387972",
+      "title": "Sea Change",
+      "author": "Gina Chung",
+      "isbn13": "9780593469347",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "60784308",
+      "title": "The Crane Husband",
+      "author": "Kelly Barnhill",
+      "isbn13": "9781250850973",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "60194141",
+      "title": "The Escape Artist: The Man Who Broke Out of Auschwitz to Warn the World",
+      "author": "Jonathan Freedland",
+      "isbn13": "9780063112339",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "59607081",
+      "title": "The Passengers",
+      "author": "Will Ashon",
+      "isbn13": "9780571364145",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "59432505",
+      "title": "Scary Monsters",
+      "author": "Michelle de Kretser",
+      "isbn13": "9781646221097",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "59807975",
+      "title": "Even Though I Knew the End",
+      "author": "C.L. Polk",
+      "isbn13": "9781250849458",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "10054335",
+      "title": "Rules of Civility",
+      "author": "Amor Towles",
+      "isbn13": null,
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "61189711",
+      "title": "A Kingdom of Stars and Shadows (Stars and Shadows, #1)",
+      "author": "Holly Renee",
+      "isbn13": null,
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "32569560",
+      "title": "The Windfall",
+      "author": "Diksha Basu",
+      "isbn13": "9781524774110",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "40916679",
+      "title": "A Good Girl's Guide to Murder (A Good Girl's Guide to Murder, #1)",
+      "author": "Holly Jackson",
+      "isbn13": "9781405293181",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "59149236",
+      "title": "Translating Myself and Others",
+      "author": "Jhumpa Lahiri",
+      "isbn13": "9780691231167",
+      "seasons": []
+    },
+    {
+      "id": "4981",
+      "title": "Slaughterhouse-Five",
+      "author": "Kurt Vonnegut Jr.",
+      "isbn13": null,
+      "seasons": []
+    },
+    {
+      "id": "60206505",
+      "title": "Seven Empty Houses",
+      "author": "Samanta Schweblin",
+      "isbn13": "9780525541394",
+      "seasons": []
+    },
+    {
+      "id": "166997",
+      "title": "Stoner",
+      "author": "John Williams",
+      "isbn13": "9781590171998",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "11298",
+      "title": "A Wild Sheep Chase (The Rat, #3)",
+      "author": "Haruki Murakami",
+      "isbn13": "9780375718946",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "54776198",
+      "title": "The Portrait of a Mirror",
+      "author": "A. Natasha Joukovsky",
+      "isbn13": "9781419752162",
+      "seasons": []
+    },
+    {
+      "id": "55649652",
+      "title": "Meeting in Positano: A Novel",
+      "author": "Goliarda Sapienza",
+      "isbn13": "9781635420449",
+      "seasons": []
+    },
+    {
+      "id": "59808133",
+      "title": "Lavender House (Evander Mills, #1)",
+      "author": "Lev A.C. Rosen",
+      "isbn13": "9781250834225",
+      "seasons": []
+    },
+    {
+      "id": "60353768",
+      "title": "The Marriage Portrait",
+      "author": "Maggie O'Farrell",
+      "isbn13": null,
+      "seasons": []
+    },
+    {
+      "id": "61272658",
+      "title": "Murder Your Employer (The McMasters Guide to Homicide, #1)",
+      "author": "Rupert Holmes",
+      "isbn13": "9781451648218",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "21206786",
+      "title": "How Much Land Does a Man Need?",
+      "author": "Leo Tolstoy",
+      "isbn13": null,
+      "seasons": []
+    },
+    {
+      "id": "35796008",
+      "title": "Dance of Thieves (Dance of Thieves, #1)",
+      "author": "Mary E. Pearson",
+      "isbn13": "9781250159014",
+      "seasons": []
+    },
+    {
+      "id": "18693644",
+      "title": "The Hundred-Year House",
+      "author": "Rebecca Makkai",
+      "isbn13": "9780525426684",
+      "seasons": []
+    },
+    {
+      "id": "44107480",
+      "title": "Lovely War",
+      "author": "Julie Berry",
+      "isbn13": null,
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "56437694",
+      "title": "Off the Edge: Flat Earthers, Conspiracy Culture, and Why People Will Believe Anything",
+      "author": "Kelly Weill",
+      "isbn13": "9781643750682",
+      "seasons": []
+    },
+    {
+      "id": "52735921",
+      "title": "Kingdom of the Wicked (Kingdom of the Wicked, #1)",
+      "author": "Kerri Maniscalco",
+      "isbn13": "9780316428460",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "56646330",
+      "title": "Assembly",
+      "author": "Natasha Brown",
+      "isbn13": "9780316268264",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "54173267",
+      "title": "Happy Hour",
+      "author": "Marlowe Granados",
+      "isbn13": "9781989919002",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "291",
+      "title": "The Broken Wings",
+      "author": "Kahlil Gibran",
+      "isbn13": "9780806501901",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "61101765",
+      "title": "We Could be Villains",
+      "author": "Megan McCullough",
+      "isbn13": null,
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "43763",
+      "title": "Interview with the Vampire (The Vampire Chronicles, #1)",
+      "author": "Anne Rice",
+      "isbn13": "9780345476876",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "42366547",
+      "title": "The Disaster Tourist",
+      "author": "Yun Ko-eun",
+      "isbn13": "9781640094161",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "164154",
+      "title": "A Canticle for Leibowitz (St. Leibowitz, #1)",
+      "author": "Walter M. Miller Jr.",
+      "isbn13": "9780060892999",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "26854212",
+      "title": "The Music Shop",
+      "author": "Rachel Joyce",
+      "isbn13": null,
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "61030718",
+      "title": "Liar, Dreamer, Thief",
+      "author": "Maria Dong",
+      "isbn13": "9781538723562",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "59576064",
+      "title": "All This Could Be Different",
+      "author": "Sarah Thankam Mathews",
+      "isbn13": "9780593489123",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "60018643",
+      "title": "How to Read Now",
+      "author": "Elaine Castillo",
+      "isbn13": "9780593489635",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "41104077",
+      "title": "Invisible Women: Data Bias in a World Designed for Men",
+      "author": "Caroline Criado Pérez",
+      "isbn13": "9781419729072",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "26032825",
+      "title": "The Cruel Prince (The Folk of the Air, #1)",
+      "author": "Holly Black",
+      "isbn13": "9780316310277",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "54621096",
+      "title": "The Appeal (The Appeal, #1)",
+      "author": "Janice Hallett",
+      "isbn13": "9781788165297",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "9317452",
+      "title": "Rivers of London (Rivers of London, #1)",
+      "author": "Ben Aaronovitch",
+      "isbn13": "9780575097568",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "61054804",
+      "title": "The Cloisters",
+      "author": "Katy Hays",
+      "isbn13": "9781668004401",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "52366322",
+      "title": "Conditional Citizens: On Belonging in America",
+      "author": "Laila Lalami",
+      "isbn13": "9781524747169",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "60097451",
+      "title": "Motherthing",
+      "author": "Ainslie Hogarth",
+      "isbn13": "9780593467022",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "31945128",
+      "title": "Scarborough",
+      "author": "Catherine Hernandez",
+      "isbn13": "9781551526775",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "16131077",
+      "title": "The Shining Girls",
+      "author": "Lauren Beukes",
+      "isbn13": "9780316216852",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "853510",
+      "title": "Murder on the Orient Express (Hercule Poirot, #10)",
+      "author": "Agatha Christie",
+      "isbn13": "9780007119318",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "60147181",
+      "title": "The World Keeps Ending, and the World Goes On",
+      "author": "Franny Choi",
+      "isbn13": "9780063240087",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "60613406",
+      "title": "Dream States: Smart Cities, Technology, and the Pursuit of Urban Utopias",
+      "author": "John Lorinc",
+      "isbn13": "9781770566811",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "60243188",
+      "title": "Bliss Montage",
+      "author": "Ling Ma",
+      "isbn13": "9780374293512",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "58311285",
+      "title": "My Volcano",
+      "author": "John Elizabeth Stintzi",
+      "isbn13": "9781953387165",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "13538794",
+      "title": "Walkable City: How Downtown Can Save America, One Step at a Time",
+      "author": "Jeff Speck",
+      "isbn13": "9780374285814",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "60417443",
+      "title": "The Family Game",
+      "author": "Catherine Steadman",
+      "isbn13": "9780593158067",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "60149573",
+      "title": "Our Missing Hearts",
+      "author": "Celeste Ng",
+      "isbn13": "9780593492543",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "59678834",
+      "title": "The Manhattan Girls",
+      "author": "Gill Paul",
+      "isbn13": "9780063161757",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "60097452",
+      "title": "The Lemon",
+      "author": "S.E. Boyd",
+      "isbn13": "9780593490440",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "55209468",
+      "title": "Girls with Bright Futures",
+      "author": "Tracy Dobmeier",
+      "isbn13": "9781728216461",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "59387726",
+      "title": "Identitti",
+      "author": "Mithu M. Sanyal",
+      "isbn13": "9781662601293",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "45180612",
+      "title": "Woman of an Uncertain Age",
+      "author": "Priya Malhotra",
+      "isbn13": "9781949290905",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "55959443",
+      "title": "In Sensorium: Notes for My People",
+      "author": "Tanaïs",
+      "isbn13": "9780358381709",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "142492",
+      "title": "Vile Bodies",
+      "author": "Evelyn Waugh",
+      "isbn13": "9780316926119",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "6514",
+      "title": "The Bell Jar",
+      "author": "Sylvia Plath",
+      "isbn13": null,
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "11297",
+      "title": "Norwegian Wood",
+      "author": "Haruki Murakami",
+      "isbn13": null,
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "39927096",
+      "title": "Less (Arthur Less, #1)",
+      "author": "Andrew Sean Greer",
+      "isbn13": null,
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "55881109",
+      "title": "The King of Infinite Space",
+      "author": "Lyndsay Faye",
+      "isbn13": "9780525535898",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "58673067",
+      "title": "One Two Three",
+      "author": "Laurie Frankel",
+      "isbn13": "9781250236791",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "60753718",
+      "title": "The Midwife of Auschwitz (Women of War, #1)",
+      "author": "Anna Stuart",
+      "isbn13": "9781803142685",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "38787",
+      "title": "Pedro Páramo",
+      "author": "Juan Rulfo",
+      "isbn13": "9780802133908",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "50202953",
+      "title": "Piranesi",
+      "author": "Susanna Clarke",
+      "isbn13": null,
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "58690308",
+      "title": "Book Lovers",
+      "author": "Emily Henry",
+      "isbn13": "9780593334836",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "31196",
+      "title": "The Razor’s Edge",
+      "author": "W. Somerset Maugham",
+      "isbn13": "9781400034208",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "4406",
+      "title": "East of Eden",
+      "author": "John Steinbeck",
+      "isbn13": "9780142000656",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "29044",
+      "title": "The Secret History",
+      "author": "Donna Tartt",
+      "isbn13": "9781400031702",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "58146427",
+      "title": "We Had to Remove This Post",
+      "author": "Hanna Bervoets",
+      "isbn13": "9780358622369",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "55425310",
+      "title": "When the Reckoning Comes",
+      "author": "LaTanya McQueen",
+      "isbn13": "9780063035041",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "41150380",
+      "title": "The Escape Room",
+      "author": "Megan Goldin",
+      "isbn13": "9781250219657",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "52639051",
+      "title": "The Seed Keeper",
+      "author": "Diane Wilson",
+      "isbn13": "9781571311375",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "56930703",
+      "title": "The Puma Years",
+      "author": "Laura Coleman",
+      "isbn13": "9781542022200",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "50523477",
+      "title": "The Jasmine Throne (The Burning Kingdoms, #1)",
+      "author": "Tasha Suri",
+      "isbn13": "9780356515649",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "54980903",
+      "title": "Barbed Wire University: The Untold Story of the Interned Jewish Intellectuals Who Turned an Island Prison into the Most Remarkable School in the World",
+      "author": "Dave Hannigan",
+      "isbn13": "9781493057702",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "50887097",
+      "title": "Why Fish Don’t Exist: A Story of Loss, Love, and the Hidden Order of Life",
+      "author": "Lulu Miller",
+      "isbn13": null,
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "320",
+      "title": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "isbn13": null,
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "37781",
+      "title": "Things Fall Apart (The African Trilogy, #1)",
+      "author": "Chinua Achebe",
+      "isbn13": null,
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "7144",
+      "title": "Crime and Punishment",
+      "author": "Fyodor Dostoevsky",
+      "isbn13": null,
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "24530634",
+      "title": "Regret",
+      "author": "Mohammed Ikramullah",
+      "isbn13": "9780143423126",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "6288711",
+      "title": "Bitter Fruit : The Very Best Of Saadat Manto",
+      "author": "Saadat Hasan Manto",
+      "isbn13": "9780143102175",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "58530160",
+      "title": "Song of Draupadi",
+      "author": "Ira Mukhoty",
+      "isbn13": null,
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "33917",
+      "title": "The Namesake",
+      "author": "Jhumpa Lahiri",
+      "isbn13": "9780618485222",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "53414230",
+      "title": "Open Water",
+      "author": "Caleb Azumah Nelson",
+      "isbn13": "9780241448779",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "58536014",
+      "title": "Of Blood and Sweat: Black Lives and the Making of White Power and Wealth",
+      "author": "Clyde W. Ford",
+      "isbn13": "9780063038516",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "18114322",
+      "title": "The Grapes of Wrath",
+      "author": "John Steinbeck",
+      "isbn13": "9780670016907",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "156538",
+      "title": "North and South",
+      "author": "Elizabeth Gaskell",
+      "isbn13": "9780140620191",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "5107",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "isbn13": "9780316769174",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "14942",
+      "title": "Mrs. Dalloway",
+      "author": "Virginia Woolf",
+      "isbn13": "9780151009985",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "35068946",
+      "title": "That Time I Loved You",
+      "author": "Carrianne Leung",
+      "isbn13": "9781443452885",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "58772761",
+      "title": "Cult Classic",
+      "author": "Sloane Crosley",
+      "isbn13": "9780374603397",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "58284121",
+      "title": "Love & Saffron",
+      "author": "Kim Fay",
+      "isbn13": "9780593419335",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "57717410",
+      "title": "The 1619 Project: A New Origin Story",
+      "author": "Nikole Hannah-Jones",
+      "isbn13": "9780593230572",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "42201995",
+      "title": "The Stationery Shop",
+      "author": "Marjan Kamali",
+      "isbn13": "9781982107482",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "57850266",
+      "title": "The Upper World (The Upper World, #1)",
+      "author": "Femi Fadugba",
+      "isbn13": "9780063078598",
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "36510722",
+      "title": "Gods of Jade and Shadow",
+      "author": "Silvia Moreno-Garcia",
+      "isbn13": null,
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "54814839",
+      "title": "The Dictionary of Lost Words",
+      "author": "Pip Williams",
+      "isbn13": "9780593160190",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "59228051",
+      "title": "The Ballad of Perilous Graves",
+      "author": "Alex Jennings",
+      "isbn13": "9780759557192",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "11337",
+      "title": "The Bluest Eye",
+      "author": "Toni Morrison",
+      "isbn13": null,
+      "seasons": [
+        "autumn"
+      ]
+    },
+    {
+      "id": "18774964",
+      "title": "A Man Called Ove",
+      "author": "Fredrik Backman",
+      "isbn13": "9781476738017",
+      "seasons": [
+        "spring"
+      ]
+    },
+    {
+      "id": "58812994",
+      "title": "The Oracle of Night: The History and Science of Dreams",
+      "author": "Sidarta Ribeiro",
+      "isbn13": "9781524746919",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "662",
+      "title": "Atlas Shrugged",
+      "author": "Ayn Rand",
+      "isbn13": "9780452011878",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "168668",
+      "title": "Catch-22",
+      "author": "Joseph Heller",
+      "isbn13": "9780684833392",
+      "seasons": [
+        "winter"
+      ]
+    },
+    {
+      "id": "13623848",
+      "title": "The Song of Achilles",
+      "author": "Madeline Miller",
+      "isbn13": null,
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "55648820",
+      "title": "Seven Days in June",
+      "author": "Tia Williams",
+      "isbn13": null,
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "29589074",
+      "title": "Truly, Devious (Truly Devious, #1)",
+      "author": "Maureen Johnson",
+      "isbn13": null,
+      "seasons": []
+    },
+    {
+      "id": "54572129",
+      "title": "The Bohemians",
+      "author": "Jasmin Darznik",
+      "isbn13": "9780593129425",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "51102251",
+      "title": "Love in Colour: Mythical Tales from Around the World, Retold",
+      "author": "Bolu Babalola",
+      "isbn13": "9781472268860",
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "46264290",
+      "title": "The Hotel Where We Met",
+      "author": "Belinda Jones",
+      "isbn13": null,
+      "seasons": [
+        "summer"
+      ]
+    },
+    {
+      "id": "40595446",
+      "title": "A Woman of No Importance: The Untold Story of the American Spy Who Helped Win World War II",
+      "author": "Sonia Purnell",
+      "isbn13": "9780735225299",
+      "seasons": []
+    },
+    {
+      "id": "51152447",
+      "title": "Caste: The Origins of Our Discontents",
+      "author": "Isabel Wilkerson",
+      "isbn13": "9780593230251",
+      "seasons": []
+    },
+    {
+      "id": "58772722",
+      "title": "A Divine Language: Learning Algebra, Geometry, and Calculus at the Edge of Old Age",
+      "author": "Alec Wilkinson",
+      "isbn13": "9781250168573",
+      "seasons": []
+    },
+    {
+      "id": "41880609",
+      "title": "On Earth We're Briefly Gorgeous",
+      "author": "Ocean Vuong",
+      "isbn13": "9780525562023",
+      "seasons": []
+    },
+    {
+      "id": "34184307",
+      "title": "Code Girls: The Untold Story of the American Women Code Breakers Who Helped Win World War II",
+      "author": "Liza Mundy",
+      "isbn13": "9780316439893",
+      "seasons": []
+    },
+    {
+      "id": "58353827",
+      "title": "Terms and Conditions  (Dreamland Billionaires, #2)",
+      "author": "Lauren Asher",
+      "isbn13": null,
+      "seasons": []
+    },
+    {
+      "id": "57658071",
+      "title": "The Fine Print (Dreamland Billionaires, #1)",
+      "author": "Lauren Asher",
+      "isbn13": null,
+      "seasons": []
+    },
+    {
+      "id": "36001646",
+      "title": "Remnants of a Separation: A History of the Partition through Material Memory",
+      "author": "Aanchal Malhotra",
+      "isbn13": "9789352770137",
+      "seasons": []
+    },
+    {
+      "id": "23214311",
+      "title": "The Singing Guru: Legends and Adventures of Guru Nanak, the First Sikh (Sikh Saga)",
+      "author": "Kamla K. Kapur",
+      "isbn13": "9781608875030",
+      "seasons": []
+    },
+    {
+      "id": "59228212",
+      "title": "Ten Tomatoes that Changed the World: A History",
+      "author": "William Alexander",
+      "isbn13": "9781538753323",
+      "seasons": []
+    },
+    {
+      "id": "57724262",
+      "title": "Love at First Spite",
+      "author": "Anna E. Collins",
+      "isbn13": "9781525899799",
+      "seasons": []
+    },
+    {
+      "id": "8463375",
+      "title": "How Music Works: The Science and Psychology of Beautiful Sounds, from Beethoven to the Beatles and Beyond",
+      "author": "John Powell",
+      "isbn13": "9780316098304",
+      "seasons": []
+    },
+    {
+      "id": "55197188",
+      "title": "How Iceland Changed the World: The Big History of a Small Island",
+      "author": "Egill Bjarnason",
+      "isbn13": "9780143135883",
+      "seasons": []
+    },
+    {
+      "id": "56049940",
+      "title": "The Supreme Lie",
+      "author": "Geraldine McCaughrean",
+      "isbn13": null,
+      "seasons": []
+    },
+    {
+      "id": "30983000",
+      "title": "The Indisputable Existence of Santa Claus: The Mathematics of Christmas - The Funny Maths Gift Book from the Celebrity Traitors Star",
+      "author": "Hannah Fry",
+      "isbn13": null,
+      "seasons": []
+    },
+    {
+      "id": "1099301",
+      "title": "The Name of This Book Is Secret (Secret, #1)",
+      "author": "Pseudonymous Bosch",
+      "isbn13": "9780316113663",
+      "seasons": []
+    },
+    {
+      "id": "40796176",
+      "title": "Infinite Powers: How Calculus Reveals the Secrets of the Universe",
+      "author": "Steven H. Strogatz",
+      "isbn13": "9781328879981",
+      "seasons": []
+    },
+    {
+      "id": "357209",
+      "title": "An Imaginary Tale: The Story of √-1",
+      "author": "Paul J. Nahin",
+      "isbn13": "9780691127989",
+      "seasons": []
+    },
+    {
+      "id": "42863088",
+      "title": "Mathematics for Human Flourishing",
+      "author": "Francis Su",
+      "isbn13": null,
+      "seasons": []
+    }
+  ]
+}

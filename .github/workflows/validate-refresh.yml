@@ -1,0 +1,28 @@
+name: Validate SPL refresh (manual)
+
+# Prepared locally only. Enable on GitHub after the public-data and library-permission review.
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: spl-refresh-validation
+  cancel-in-progress: false
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 90
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npx playwright install --with-deps chromium --only-shell
+      - run: npm test
+      - run: npm run refresh
+      # This proves collection only; it deliberately does not upload data or deploy the site.

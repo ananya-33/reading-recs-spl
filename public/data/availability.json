@@ -1,0 +1,6888 @@
+{
+  "schemaVersion": 1,
+  "startedAt": "2026-11-13T17:33:36.882Z",
+  "results": [
+    {
+      "id": "244714079",
+      "recordId": "S246C1361090",
+      "status": "ok",
+      "copies": 24,
+      "available": 0,
+      "holds": 103,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:14:04.373Z",
+      "locationsCheckedAt": "2026-11-17T17:14:08.436Z"
+    },
+    {
+      "id": "245120325",
+      "recordId": "S246C1360135",
+      "status": "ok",
+      "copies": 18,
+      "available": 0,
+      "holds": 77,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:14:14.140Z",
+      "locationsCheckedAt": "2026-11-17T17:14:17.623Z"
+    },
+    {
+      "id": "242764839",
+      "recordId": "S246C1335555",
+      "status": "ok",
+      "copies": 4,
+      "available": 0,
+      "holds": 7,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:14:23.423Z",
+      "locationsCheckedAt": "2026-11-17T17:14:27.442Z"
+    },
+    {
+      "id": "206318521",
+      "recordId": "S246C796674",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:14:38.262Z"
+    },
+    {
+      "id": "211479192",
+      "recordId": "S246C1230133",
+      "status": "ok",
+      "copies": 29,
+      "available": 16,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "International District/Chinatown Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:14:44.418Z",
+      "locationsCheckedAt": "2026-11-17T17:14:48.035Z"
+    },
+    {
+      "id": "55172725",
+      "recordId": "S246C1367985",
+      "status": "ok",
+      "copies": 7,
+      "available": 0,
+      "holds": 1,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:14:53.485Z",
+      "locationsCheckedAt": "2026-11-17T17:14:57.088Z"
+    },
+    {
+      "id": "276767",
+      "recordId": "S246C445146",
+      "status": "ok",
+      "copies": 4,
+      "available": 0,
+      "holds": 1,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:15:02.896Z",
+      "locationsCheckedAt": "2026-11-17T17:15:06.289Z"
+    },
+    {
+      "id": "8701960",
+      "recordId": "S246C465824",
+      "status": "ok",
+      "copies": 1,
+      "available": 0,
+      "holds": 4,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:15:11.979Z",
+      "locationsCheckedAt": "2026-11-17T17:15:15.829Z"
+    },
+    {
+      "id": "55748103",
+      "recordId": "S246C1010055",
+      "status": "ok",
+      "copies": 6,
+      "available": 4,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:15:22.166Z",
+      "locationsCheckedAt": "2026-11-17T17:15:25.837Z"
+    },
+    {
+      "id": "54860585",
+      "recordId": "S246C1010925",
+      "status": "ok",
+      "copies": 13,
+      "available": 0,
+      "holds": 1,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:15:31.591Z",
+      "locationsCheckedAt": "2026-11-17T17:15:34.607Z"
+    },
+    {
+      "id": "29751398",
+      "recordId": "S246C730354",
+      "status": "ok",
+      "copies": 3,
+      "available": 0,
+      "holds": 7,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:15:39.583Z",
+      "locationsCheckedAt": "2026-11-17T17:15:42.964Z"
+    },
+    {
+      "id": "25852784",
+      "recordId": "S246C1117348",
+      "status": "ok",
+      "copies": 6,
+      "available": 0,
+      "holds": 2,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:15:48.857Z",
+      "locationsCheckedAt": "2026-11-17T17:15:52.659Z"
+    },
+    {
+      "id": "58146427",
+      "recordId": "S246C1062524",
+      "status": "ok",
+      "copies": 5,
+      "available": 4,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:15:58.620Z",
+      "locationsCheckedAt": "2026-11-17T17:16:02.129Z"
+    },
+    {
+      "id": "52639051",
+      "recordId": "S246C969045",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:16:13.212Z"
+    },
+    {
+      "id": "18114322",
+      "recordId": "S246C605251",
+      "status": "ok",
+      "copies": 8,
+      "available": 0,
+      "holds": 29,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:16:18.737Z",
+      "locationsCheckedAt": "2026-11-17T17:16:21.833Z"
+    },
+    {
+      "id": "5107",
+      "recordId": "S246C1236671",
+      "status": "ok",
+      "copies": 6,
+      "available": 0,
+      "holds": 21,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:16:28.751Z",
+      "locationsCheckedAt": "2026-11-17T17:16:32.353Z"
+    },
+    {
+      "id": "58772761",
+      "recordId": "S246C1057681",
+      "status": "ok",
+      "copies": 18,
+      "available": 15,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Mobile Services",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:16:37.968Z",
+      "locationsCheckedAt": "2026-11-17T17:16:41.005Z"
+    },
+    {
+      "id": "11337",
+      "recordId": "S246C410315",
+      "status": "ok",
+      "copies": 16,
+      "available": 0,
+      "holds": 28,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:16:47.116Z",
+      "locationsCheckedAt": "2026-11-17T17:16:50.952Z"
+    },
+    {
+      "id": "4406",
+      "recordId": "S246C1348627",
+      "status": "ok",
+      "copies": 49,
+      "available": 0,
+      "holds": 222,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:16:56.635Z",
+      "locationsCheckedAt": "2026-11-17T17:17:00.874Z"
+    },
+    {
+      "id": "29044",
+      "recordId": "S246C572081",
+      "status": "ok",
+      "copies": 28,
+      "available": 0,
+      "holds": 127,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:17:06.632Z",
+      "locationsCheckedAt": "2026-11-17T17:17:10.293Z"
+    },
+    {
+      "id": "156538",
+      "recordId": "S246C1086272",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:17:21.166Z"
+    },
+    {
+      "id": "54814839",
+      "recordId": "S246C987793",
+      "status": "ok",
+      "copies": 14,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:17:26.659Z",
+      "locationsCheckedAt": "2026-11-17T17:17:29.781Z"
+    },
+    {
+      "id": "59228051",
+      "recordId": "S246C1065630",
+      "status": "ok",
+      "copies": 7,
+      "available": 6,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:17:34.688Z",
+      "locationsCheckedAt": "2026-11-17T17:17:37.629Z"
+    },
+    {
+      "id": "168668",
+      "recordId": "S246C531781",
+      "status": "ok",
+      "copies": 3,
+      "available": 0,
+      "holds": 21,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:17:43.244Z",
+      "locationsCheckedAt": "2026-11-17T17:17:46.226Z"
+    },
+    {
+      "id": "39927096",
+      "recordId": "S246C723610",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:17:56.837Z"
+    },
+    {
+      "id": "56930703",
+      "recordId": "S246C985427",
+      "status": "ok",
+      "copies": 2,
+      "available": 0,
+      "holds": 0,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:18:01.954Z",
+      "locationsCheckedAt": "2026-11-17T17:18:05.223Z"
+    },
+    {
+      "id": "37781",
+      "recordId": "S246C1105337",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:18:15.373Z"
+    },
+    {
+      "id": "33917",
+      "recordId": "S246C1101844",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:18:25.986Z"
+    },
+    {
+      "id": "14942",
+      "recordId": "S246C375690",
+      "status": "ok",
+      "copies": 4,
+      "available": 0,
+      "holds": 3,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:18:31.884Z",
+      "locationsCheckedAt": "2026-11-17T17:18:34.911Z"
+    },
+    {
+      "id": "58284121",
+      "recordId": "S246C1049256",
+      "status": "ok",
+      "copies": 6,
+      "available": 0,
+      "holds": 0,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:18:40.329Z",
+      "locationsCheckedAt": "2026-11-17T17:18:44.126Z"
+    },
+    {
+      "id": "58311285",
+      "recordId": "S246C1052394",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:18:54.688Z"
+    },
+    {
+      "id": "60097452",
+      "recordId": "S246C1101688",
+      "status": "ok",
+      "copies": 4,
+      "available": 4,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:19:00.206Z",
+      "locationsCheckedAt": "2026-11-17T17:19:03.233Z"
+    },
+    {
+      "id": "59387726",
+      "recordId": "S246C1079195",
+      "status": "ok",
+      "copies": 1,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:19:08.336Z",
+      "locationsCheckedAt": "2026-11-17T17:19:11.010Z"
+    },
+    {
+      "id": "53414230",
+      "recordId": "S246C987786",
+      "status": "ok",
+      "copies": 5,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:19:16.354Z",
+      "locationsCheckedAt": "2026-11-17T17:19:20.221Z"
+    },
+    {
+      "id": "55648820",
+      "recordId": "S246C986266",
+      "status": "ok",
+      "copies": 11,
+      "available": 9,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:19:25.041Z",
+      "locationsCheckedAt": "2026-11-17T17:19:28.919Z"
+    },
+    {
+      "id": "54572129",
+      "recordId": "S246C982876",
+      "status": "ok",
+      "copies": 3,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:19:34.183Z",
+      "locationsCheckedAt": "2026-11-17T17:19:37.804Z"
+    },
+    {
+      "id": "245886309",
+      "recordId": "S246C1360115",
+      "status": "ok",
+      "copies": 85,
+      "available": 0,
+      "holds": 669,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:19:43.672Z",
+      "locationsCheckedAt": "2026-11-17T17:19:47.221Z"
+    },
+    {
+      "id": "218359661",
+      "recordId": "S246C1276365",
+      "status": "ok",
+      "copies": 5,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:19:52.563Z",
+      "locationsCheckedAt": "2026-11-17T17:19:55.874Z"
+    },
+    {
+      "id": "222376906",
+      "recordId": "S246C1283571",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:20:07.024Z"
+    },
+    {
+      "id": "240019879",
+      "recordId": "S246C1331211",
+      "status": "ok",
+      "copies": 64,
+      "available": 23,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:20:12.744Z",
+      "locationsCheckedAt": "2026-11-17T17:20:16.850Z"
+    },
+    {
+      "id": "235260861",
+      "recordId": "S246C1329637",
+      "status": "ok",
+      "copies": 78,
+      "available": 0,
+      "holds": 315,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:20:22.694Z",
+      "locationsCheckedAt": "2026-11-17T17:20:26.239Z"
+    },
+    {
+      "id": "243042918",
+      "recordId": "S246C1347745",
+      "status": "ok",
+      "copies": 7,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:20:31.642Z",
+      "locationsCheckedAt": "2026-11-17T17:20:34.754Z"
+    },
+    {
+      "id": "234943561",
+      "recordId": "S246C1312396",
+      "status": "ok",
+      "copies": 10,
+      "available": 5,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:20:40.694Z",
+      "locationsCheckedAt": "2026-11-17T17:20:44.050Z"
+    },
+    {
+      "id": "17841",
+      "recordId": "S246C1136585",
+      "status": "ok",
+      "copies": 3,
+      "available": 0,
+      "holds": 1,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:20:49.553Z",
+      "locationsCheckedAt": "2026-11-17T17:20:53.005Z"
+    },
+    {
+      "id": "221490953",
+      "recordId": "S246C1335668",
+      "status": "ok",
+      "copies": 4,
+      "available": 0,
+      "holds": 5,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:20:58.350Z",
+      "locationsCheckedAt": "2026-11-17T17:21:01.448Z"
+    },
+    {
+      "id": "243502731",
+      "recordId": "S246C1349560",
+      "status": "ok",
+      "copies": 5,
+      "available": 0,
+      "holds": 1,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:21:06.697Z",
+      "locationsCheckedAt": "2026-11-17T17:21:10.575Z"
+    },
+    {
+      "id": "218569830",
+      "recordId": "S246C1246284",
+      "status": "ok",
+      "copies": 3,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:21:16.185Z",
+      "locationsCheckedAt": "2026-11-17T17:21:19.829Z"
+    },
+    {
+      "id": "231127175",
+      "recordId": "S246C1303496",
+      "status": "ok",
+      "copies": 35,
+      "available": 0,
+      "holds": 55,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:21:25.615Z",
+      "locationsCheckedAt": "2026-11-17T17:21:29.192Z"
+    },
+    {
+      "id": "243596291",
+      "recordId": "S246C1362041",
+      "status": "ok",
+      "copies": 0,
+      "available": 0,
+      "holds": 207,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:21:35.233Z",
+      "locationsCheckedAt": "2026-11-17T17:21:39.340Z"
+    },
+    {
+      "id": "586852",
+      "recordId": "S246C1070511",
+      "status": "ok",
+      "copies": 9,
+      "available": 0,
+      "holds": 13,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:21:45.101Z",
+      "locationsCheckedAt": "2026-11-17T17:21:49.082Z"
+    },
+    {
+      "id": "62039176",
+      "recordId": "S246C1134939",
+      "status": "ok",
+      "copies": 6,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:21:54.084Z",
+      "locationsCheckedAt": "2026-11-17T17:21:57.555Z"
+    },
+    {
+      "id": "238226942",
+      "recordId": "S246C1319981",
+      "status": "ok",
+      "copies": 472,
+      "available": 15,
+      "holds": 302,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "International District/Chinatown Branch",
+          "status": "In"
+        },
+        {
+          "location": "International District/Chinatown Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:22:04.395Z",
+      "locationsCheckedAt": "2026-11-17T17:22:09.477Z"
+    },
+    {
+      "id": "56269278",
+      "recordId": "S246C1019322",
+      "status": "ok",
+      "copies": 6,
+      "available": 0,
+      "holds": 19,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:22:14.684Z",
+      "locationsCheckedAt": "2026-11-17T17:22:18.074Z"
+    },
+    {
+      "id": "208580627",
+      "recordId": "S246C1223547",
+      "status": "ok",
+      "copies": 11,
+      "available": 8,
+      "holds": 2,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:22:23.840Z",
+      "locationsCheckedAt": "2026-11-17T17:22:26.669Z"
+    },
+    {
+      "id": "242678102",
+      "recordId": "S246C1329624",
+      "status": "ok",
+      "copies": 79,
+      "available": 28,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Mobile Services",
+          "status": "In"
+        },
+        {
+          "location": "Mobile Services",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:22:32.061Z",
+      "locationsCheckedAt": "2026-11-17T17:22:35.598Z"
+    },
+    {
+      "id": "239151029",
+      "recordId": "S246C1321170",
+      "status": "ok",
+      "copies": 8,
+      "available": 6,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:22:41.118Z",
+      "locationsCheckedAt": "2026-11-17T17:22:44.528Z"
+    },
+    {
+      "id": "236772855",
+      "recordId": "S246C1317560",
+      "status": "ok",
+      "copies": 12,
+      "available": 8,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:22:49.840Z",
+      "locationsCheckedAt": "2026-11-17T17:22:53.271Z"
+    },
+    {
+      "id": "232206245",
+      "recordId": "S246C1313416",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:23:04.207Z"
+    },
+    {
+      "id": "241126782",
+      "recordId": "S246C1331170",
+      "status": "ok",
+      "copies": 276,
+      "available": 15,
+      "holds": 271,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "International District/Chinatown Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:23:09.802Z",
+      "locationsCheckedAt": "2026-11-17T17:23:12.945Z"
+    },
+    {
+      "id": "58416952",
+      "recordId": "S246C1122397",
+      "status": "ok",
+      "copies": 24,
+      "available": 0,
+      "holds": 32,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:23:17.614Z",
+      "locationsCheckedAt": "2026-11-17T17:23:20.497Z"
+    },
+    {
+      "id": "235629842",
+      "recordId": "S246C1304189",
+      "status": "ok",
+      "copies": 4,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:23:25.519Z",
+      "locationsCheckedAt": "2026-11-17T17:23:29.071Z"
+    },
+    {
+      "id": "235993046",
+      "recordId": "S246C1320025",
+      "status": "ok",
+      "copies": 17,
+      "available": 3,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:23:35.102Z",
+      "locationsCheckedAt": "2026-11-17T17:23:38.196Z"
+    },
+    {
+      "id": "241683548",
+      "recordId": "S246C1360000",
+      "status": "ok",
+      "copies": 208,
+      "available": 11,
+      "holds": 398,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Delridge Branch",
+          "status": "In"
+        },
+        {
+          "location": "Delridge Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Mobile Services",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:23:43.502Z",
+      "locationsCheckedAt": "2026-11-17T17:23:46.633Z"
+    },
+    {
+      "id": "233717212",
+      "recordId": "S246C1312381",
+      "status": "ok",
+      "copies": 26,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:23:52.145Z",
+      "locationsCheckedAt": "2026-11-17T17:23:55.140Z"
+    },
+    {
+      "id": "208840291",
+      "recordId": "S246C1209321",
+      "status": "ok",
+      "copies": 36,
+      "available": 1,
+      "holds": 16,
+      "availableCopies": [
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:24:01.040Z",
+      "locationsCheckedAt": "2026-11-17T17:24:03.722Z"
+    },
+    {
+      "id": "222376536",
+      "recordId": "S246C1298734",
+      "status": "ok",
+      "copies": 6,
+      "available": 4,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:24:09.300Z",
+      "locationsCheckedAt": "2026-11-17T17:24:12.627Z"
+    },
+    {
+      "id": "226743876",
+      "recordId": "S246C1292117",
+      "status": "ok",
+      "copies": 8,
+      "available": 7,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:24:18.365Z",
+      "locationsCheckedAt": "2026-11-17T17:24:22.063Z"
+    },
+    {
+      "id": "231299870",
+      "recordId": "S246C1290084",
+      "status": "ok",
+      "copies": 4,
+      "available": 0,
+      "holds": 0,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:24:27.143Z",
+      "locationsCheckedAt": "2026-11-17T17:24:30.662Z"
+    },
+    {
+      "id": "18952341",
+      "recordId": "S246C861141",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:24:41.335Z"
+    },
+    {
+      "id": "58908440",
+      "recordId": "S246C1206505",
+      "status": "ok",
+      "copies": 4,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:24:46.764Z",
+      "locationsCheckedAt": "2026-11-17T17:24:50.172Z"
+    },
+    {
+      "id": "228953449",
+      "recordId": "S246C1298924",
+      "status": "ok",
+      "copies": 5,
+      "available": 4,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:24:55.443Z",
+      "locationsCheckedAt": "2026-11-17T17:24:58.877Z"
+    },
+    {
+      "id": "215805843",
+      "recordId": "S246C1255323",
+      "status": "ok",
+      "copies": 6,
+      "available": 6,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:25:03.915Z",
+      "locationsCheckedAt": "2026-11-17T17:25:07.047Z"
+    },
+    {
+      "id": "42121525",
+      "recordId": "S246C892342",
+      "status": "ok",
+      "copies": 8,
+      "available": 0,
+      "holds": 9,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:25:12.157Z",
+      "locationsCheckedAt": "2026-11-17T17:25:15.724Z"
+    },
+    {
+      "id": "218569826",
+      "recordId": "S246C1246127",
+      "status": "ok",
+      "copies": 38,
+      "available": 13,
+      "holds": 2,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "International District/Chinatown Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:25:22.013Z",
+      "locationsCheckedAt": "2026-11-17T17:25:25.474Z"
+    },
+    {
+      "id": "214152211",
+      "recordId": "S246C1249763",
+      "status": "ok",
+      "copies": 23,
+      "available": 0,
+      "holds": 87,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:25:30.576Z",
+      "locationsCheckedAt": "2026-11-17T17:25:33.888Z"
+    },
+    {
+      "id": "58730649",
+      "recordId": "S246C1051776",
+      "status": "ok",
+      "copies": 3,
+      "available": 0,
+      "holds": 14,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:25:39.185Z",
+      "locationsCheckedAt": "2026-11-17T17:25:42.577Z"
+    },
+    {
+      "id": "59127770",
+      "recordId": "S246C1017544",
+      "status": "ok",
+      "copies": 2,
+      "available": 0,
+      "holds": 0,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:25:47.352Z",
+      "locationsCheckedAt": "2026-11-17T17:25:50.422Z"
+    },
+    {
+      "id": "222658339",
+      "recordId": "S246C1278648",
+      "status": "ok",
+      "copies": 37,
+      "available": 28,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Delridge Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "International District/Chinatown Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:25:55.517Z",
+      "locationsCheckedAt": "2026-11-17T17:25:58.837Z"
+    },
+    {
+      "id": "197108968",
+      "recordId": "S246C1205139",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:26:09.192Z"
+    },
+    {
+      "id": "211934958",
+      "recordId": "S246C1240581",
+      "status": "ok",
+      "copies": 8,
+      "available": 6,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:26:14.866Z",
+      "locationsCheckedAt": "2026-11-17T17:26:18.394Z"
+    },
+    {
+      "id": "17934530",
+      "recordId": "S246C1230040",
+      "status": "ok",
+      "copies": 13,
+      "available": 0,
+      "holds": 4,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:26:23.912Z",
+      "locationsCheckedAt": "2026-11-17T17:26:27.173Z"
+    },
+    {
+      "id": "197055873",
+      "recordId": "S246C1226638",
+      "status": "ok",
+      "copies": 5,
+      "available": 0,
+      "holds": 0,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:26:32.379Z",
+      "locationsCheckedAt": "2026-11-17T17:26:37.227Z"
+    },
+    {
+      "id": "216488999",
+      "recordId": "S246C1253821",
+      "status": "ok",
+      "copies": 10,
+      "available": 0,
+      "holds": 1,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:26:43.053Z",
+      "locationsCheckedAt": "2026-11-17T17:26:46.180Z"
+    },
+    {
+      "id": "211004841",
+      "recordId": "S246C1253054",
+      "status": "ok",
+      "copies": 5,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Mobile Services",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:26:51.622Z",
+      "locationsCheckedAt": "2026-11-17T17:26:54.834Z"
+    },
+    {
+      "id": "211953309",
+      "recordId": "S246C1230103",
+      "status": "ok",
+      "copies": 5,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:26:59.860Z",
+      "locationsCheckedAt": "2026-11-17T17:27:02.759Z"
+    },
+    {
+      "id": "256008",
+      "recordId": "S246C1305454",
+      "status": "ok",
+      "copies": 24,
+      "available": 0,
+      "holds": 87,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:27:07.790Z",
+      "locationsCheckedAt": "2026-11-17T17:27:11.213Z"
+    },
+    {
+      "id": "52579213",
+      "recordId": "S246C939284",
+      "status": "ok",
+      "copies": 5,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:27:16.463Z",
+      "locationsCheckedAt": "2026-11-17T17:27:20.120Z"
+    },
+    {
+      "id": "13586980",
+      "recordId": "S246C538394",
+      "status": "ok",
+      "copies": 1,
+      "available": 0,
+      "holds": 0,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:27:25.660Z",
+      "locationsCheckedAt": "2026-11-17T17:27:29.476Z"
+    },
+    {
+      "id": "775985",
+      "recordId": "S246C460651",
+      "status": "ok",
+      "copies": 5,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:27:35.125Z",
+      "locationsCheckedAt": "2026-11-17T17:27:38.618Z"
+    },
+    {
+      "id": "40915764",
+      "recordId": "S246C990648",
+      "status": "ok",
+      "copies": 3,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:27:44.366Z",
+      "locationsCheckedAt": "2026-11-17T17:27:47.743Z"
+    },
+    {
+      "id": "208430658",
+      "recordId": "S246C1220418",
+      "status": "ok",
+      "copies": 12,
+      "available": 0,
+      "holds": 5,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:27:52.767Z",
+      "locationsCheckedAt": "2026-11-17T17:27:56.354Z"
+    },
+    {
+      "id": "40180098",
+      "recordId": "S246C776410",
+      "status": "ok",
+      "copies": 22,
+      "available": 0,
+      "holds": 5,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:28:02.369Z",
+      "locationsCheckedAt": "2026-11-17T17:28:06.006Z"
+    },
+    {
+      "id": "43412959",
+      "recordId": "S246C894779",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:28:16.419Z"
+    },
+    {
+      "id": "210223811",
+      "recordId": "S246C1269794",
+      "status": "ok",
+      "copies": 56,
+      "available": 11,
+      "holds": 6,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "Technical and Collection Services",
+          "status": "In"
+        },
+        {
+          "location": "Technical and Collection Services",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:28:21.975Z",
+      "locationsCheckedAt": "2026-11-17T17:28:25.698Z"
+    },
+    {
+      "id": "204169220",
+      "recordId": "S246C1225368",
+      "status": "ok",
+      "copies": 4,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:28:31.237Z",
+      "locationsCheckedAt": "2026-11-17T17:28:34.589Z"
+    },
+    {
+      "id": "199798813",
+      "recordId": "S246C1184335",
+      "status": "ok",
+      "copies": 4,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:28:40.123Z",
+      "locationsCheckedAt": "2026-11-17T17:28:43.443Z"
+    },
+    {
+      "id": "201751300",
+      "recordId": "S246C1192691",
+      "status": "ok",
+      "copies": 9,
+      "available": 8,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:28:49.135Z",
+      "locationsCheckedAt": "2026-11-17T17:28:52.469Z"
+    },
+    {
+      "id": "3985",
+      "recordId": "S246C572106",
+      "status": "ok",
+      "copies": 6,
+      "available": 0,
+      "holds": 3,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:28:57.490Z",
+      "locationsCheckedAt": "2026-11-17T17:29:00.704Z"
+    },
+    {
+      "id": "182733784",
+      "recordId": "S246C1164248",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:29:11.307Z"
+    },
+    {
+      "id": "208584952",
+      "recordId": "S246C1217774",
+      "status": "ok",
+      "copies": 24,
+      "available": 20,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Delridge Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:29:16.836Z",
+      "locationsCheckedAt": "2026-11-17T17:29:20.905Z"
+    },
+    {
+      "id": "14891",
+      "recordId": "S246C572084",
+      "status": "ok",
+      "copies": 6,
+      "available": 0,
+      "holds": 22,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:29:26.575Z",
+      "locationsCheckedAt": "2026-11-17T17:29:30.703Z"
+    },
+    {
+      "id": "195790789",
+      "recordId": "S246C1175615",
+      "status": "ok",
+      "copies": 8,
+      "available": 7,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:29:36.856Z",
+      "locationsCheckedAt": "2026-11-17T17:29:41.474Z"
+    },
+    {
+      "id": "55868456",
+      "recordId": "S246C1249554",
+      "status": "ok",
+      "copies": 7,
+      "available": 0,
+      "holds": 0,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:29:47.536Z",
+      "locationsCheckedAt": "2026-11-17T17:29:51.174Z"
+    },
+    {
+      "id": "36950075",
+      "recordId": "S246C799531",
+      "status": "ok",
+      "copies": 4,
+      "available": 0,
+      "holds": 13,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:29:56.660Z",
+      "locationsCheckedAt": "2026-11-17T17:30:00.166Z"
+    },
+    {
+      "id": "36374016",
+      "recordId": "S246C797949",
+      "status": "ok",
+      "copies": 1,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:30:05.268Z",
+      "locationsCheckedAt": "2026-11-17T17:30:08.706Z"
+    },
+    {
+      "id": "55303672",
+      "recordId": "S246C958819",
+      "status": "ok",
+      "copies": 3,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:30:14.277Z",
+      "locationsCheckedAt": "2026-11-17T17:30:17.956Z"
+    },
+    {
+      "id": "34927828",
+      "recordId": "S246C774192",
+      "status": "ok",
+      "copies": 20,
+      "available": 0,
+      "holds": 34,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:30:23.567Z",
+      "locationsCheckedAt": "2026-11-17T17:30:28.269Z"
+    },
+    {
+      "id": "61423989",
+      "recordId": "S246C1104057",
+      "status": "ok",
+      "copies": 19,
+      "available": 8,
+      "holds": 2,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Delridge Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:30:33.702Z",
+      "locationsCheckedAt": "2026-11-17T17:30:37.668Z"
+    },
+    {
+      "id": "18775418",
+      "recordId": "S246C608929",
+      "status": "ok",
+      "copies": 3,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:30:44.104Z",
+      "locationsCheckedAt": "2026-11-17T17:30:48.118Z"
+    },
+    {
+      "id": "45046690",
+      "recordId": "S246C891848",
+      "status": "ok",
+      "copies": 8,
+      "available": 6,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:30:53.694Z",
+      "locationsCheckedAt": "2026-11-17T17:30:57.027Z"
+    },
+    {
+      "id": "40538681",
+      "recordId": "S246C833883",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:31:08.149Z"
+    },
+    {
+      "id": "8171378",
+      "recordId": "S246C712763",
+      "status": "ok",
+      "copies": 13,
+      "available": 0,
+      "holds": 1,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:31:13.486Z",
+      "locationsCheckedAt": "2026-11-17T17:31:16.386Z"
+    },
+    {
+      "id": "62790909",
+      "recordId": "S246C1125969",
+      "status": "ok",
+      "copies": 5,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:31:22.189Z",
+      "locationsCheckedAt": "2026-11-17T17:31:25.409Z"
+    },
+    {
+      "id": "22245334",
+      "recordId": "S246C641745",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:31:35.797Z"
+    },
+    {
+      "id": "392563",
+      "recordId": "S246C753280",
+      "status": "ok",
+      "copies": 4,
+      "available": 1,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:31:41.525Z",
+      "locationsCheckedAt": "2026-11-17T17:31:45.706Z"
+    },
+    {
+      "id": "29635590",
+      "recordId": "S246C709027",
+      "status": "ok",
+      "copies": 2,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:31:51.536Z",
+      "locationsCheckedAt": "2026-11-17T17:31:54.820Z"
+    },
+    {
+      "id": "198276006",
+      "recordId": "S246C1175619",
+      "status": "ok",
+      "copies": 22,
+      "available": 12,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:32:01.187Z",
+      "locationsCheckedAt": "2026-11-17T17:32:05.119Z"
+    },
+    {
+      "id": "62929342",
+      "recordId": "S246C1174984",
+      "status": "ok",
+      "copies": 20,
+      "available": 7,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:32:10.905Z",
+      "locationsCheckedAt": "2026-11-17T17:32:14.408Z"
+    },
+    {
+      "id": "173754979",
+      "recordId": "S246C1169119",
+      "status": "ok",
+      "copies": 69,
+      "available": 15,
+      "holds": 6,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:32:20.315Z",
+      "locationsCheckedAt": "2026-11-17T17:32:23.927Z"
+    },
+    {
+      "id": "62039259",
+      "recordId": "S246C1120234",
+      "status": "ok",
+      "copies": 9,
+      "available": 3,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:32:29.392Z",
+      "locationsCheckedAt": "2026-11-17T17:32:32.668Z"
+    },
+    {
+      "id": "31522415",
+      "recordId": "S246C714291",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:32:43.351Z"
+    },
+    {
+      "id": "195177497",
+      "recordId": "S246C1172458",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:32:53.867Z"
+    },
+    {
+      "id": "199798179",
+      "recordId": "S246C1182054",
+      "status": "ok",
+      "copies": 46,
+      "available": 12,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:32:59.092Z",
+      "locationsCheckedAt": "2026-11-17T17:33:02.487Z"
+    },
+    {
+      "id": "50892360",
+      "recordId": "S246C936936",
+      "status": "ok",
+      "copies": 18,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:33:08.008Z",
+      "locationsCheckedAt": "2026-11-17T17:33:11.886Z"
+    },
+    {
+      "id": "28251250",
+      "recordId": "S246C217714",
+      "status": "ok",
+      "copies": 8,
+      "available": 0,
+      "holds": 0,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:33:17.401Z",
+      "locationsCheckedAt": "2026-11-17T17:33:21.198Z"
+    },
+    {
+      "id": "60784614",
+      "recordId": "S246C1090011",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:33:31.506Z"
+    },
+    {
+      "id": "63946826",
+      "recordId": "S246C1134961",
+      "status": "ok",
+      "copies": 4,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:33:36.964Z",
+      "locationsCheckedAt": "2026-11-17T17:33:40.888Z"
+    },
+    {
+      "id": "61966364",
+      "recordId": "S246C1115890",
+      "status": "ok",
+      "copies": 23,
+      "available": 16,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Delridge Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "International District/Chinatown Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:33:46.607Z",
+      "locationsCheckedAt": "2026-11-17T17:33:50.553Z"
+    },
+    {
+      "id": "60657589",
+      "recordId": "S246C1104101",
+      "status": "ok",
+      "copies": 14,
+      "available": 0,
+      "holds": 8,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:33:55.899Z",
+      "locationsCheckedAt": "2026-11-17T17:33:59.819Z"
+    },
+    {
+      "id": "122993405",
+      "recordId": "S246C1150504",
+      "status": "ok",
+      "copies": 14,
+      "available": 12,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:34:05.487Z",
+      "locationsCheckedAt": "2026-11-17T17:34:09.364Z"
+    },
+    {
+      "id": "66933",
+      "recordId": "S246C1018600",
+      "status": "ok",
+      "copies": 6,
+      "available": 0,
+      "holds": 3,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:34:14.943Z",
+      "locationsCheckedAt": "2026-11-17T17:34:18.576Z"
+    },
+    {
+      "id": "59721793",
+      "recordId": "S246C1084338",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:34:29.490Z"
+    },
+    {
+      "id": "71872930",
+      "recordId": "S246C1139825",
+      "status": "ok",
+      "copies": 29,
+      "available": 0,
+      "holds": 38,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:34:34.766Z",
+      "locationsCheckedAt": "2026-11-17T17:34:38.268Z"
+    },
+    {
+      "id": "85323183",
+      "recordId": "S246C1135004",
+      "status": "ok",
+      "copies": 6,
+      "available": 5,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:34:43.767Z",
+      "locationsCheckedAt": "2026-11-17T17:34:47.038Z"
+    },
+    {
+      "id": "61796648",
+      "recordId": "S246C1143222",
+      "status": "ok",
+      "copies": 4,
+      "available": 4,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:34:52.016Z",
+      "locationsCheckedAt": "2026-11-17T17:34:55.510Z"
+    },
+    {
+      "id": "49878332",
+      "recordId": "S246C889410",
+      "status": "ok",
+      "copies": 2,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:35:01.187Z",
+      "locationsCheckedAt": "2026-11-17T17:35:04.231Z"
+    },
+    {
+      "id": "65678550",
+      "recordId": "S246C1125510",
+      "status": "ok",
+      "copies": 36,
+      "available": 7,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:35:09.482Z",
+      "locationsCheckedAt": "2026-11-17T17:35:13.457Z"
+    },
+    {
+      "id": "31670196",
+      "recordId": "S246C728038",
+      "status": "ok",
+      "copies": 4,
+      "available": 0,
+      "holds": 0,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:35:18.912Z",
+      "locationsCheckedAt": "2026-11-17T17:35:22.243Z"
+    },
+    {
+      "id": "38474",
+      "recordId": "S246C190753",
+      "status": "ok",
+      "copies": 3,
+      "available": 0,
+      "holds": 7,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:35:27.302Z",
+      "locationsCheckedAt": "2026-11-17T17:35:30.675Z"
+    },
+    {
+      "id": "61399138",
+      "recordId": "S246C1115499",
+      "status": "ok",
+      "copies": 5,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:35:36.314Z",
+      "locationsCheckedAt": "2026-11-17T17:35:39.838Z"
+    },
+    {
+      "id": "62926938",
+      "recordId": "S246C1128939",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:35:50.282Z"
+    },
+    {
+      "id": "15839976",
+      "recordId": "S246C1139719",
+      "status": "ok",
+      "copies": 26,
+      "available": 0,
+      "holds": 169,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:35:56.578Z",
+      "locationsCheckedAt": "2026-11-17T17:36:00.429Z"
+    },
+    {
+      "id": "43263680",
+      "recordId": "S246C847313",
+      "status": "ok",
+      "copies": 14,
+      "available": 0,
+      "holds": 23,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:36:05.723Z",
+      "locationsCheckedAt": "2026-11-17T17:36:09.136Z"
+    },
+    {
+      "id": "53968496",
+      "recordId": "S246C984868",
+      "status": "ok",
+      "copies": 3,
+      "available": 0,
+      "holds": 2,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:36:14.499Z",
+      "locationsCheckedAt": "2026-11-17T17:36:18.629Z"
+    },
+    {
+      "id": "53921926",
+      "recordId": "S246C1226558",
+      "status": "ok",
+      "copies": 3,
+      "available": 0,
+      "holds": 2,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:36:23.580Z",
+      "locationsCheckedAt": "2026-11-17T17:36:26.881Z"
+    },
+    {
+      "id": "63325333",
+      "recordId": "S246C1136819",
+      "status": "ok",
+      "copies": 2,
+      "available": 0,
+      "holds": 0,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:36:32.399Z",
+      "locationsCheckedAt": "2026-11-17T17:36:35.822Z"
+    },
+    {
+      "id": "36442813",
+      "recordId": "S246C787077",
+      "status": "ok",
+      "copies": 5,
+      "available": 0,
+      "holds": 1,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:36:41.722Z",
+      "locationsCheckedAt": "2026-11-17T17:36:45.833Z"
+    },
+    {
+      "id": "11094651",
+      "recordId": "S246C471353",
+      "status": "ok",
+      "copies": 2,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:36:51.461Z",
+      "locationsCheckedAt": "2026-11-17T17:36:54.730Z"
+    },
+    {
+      "id": "134218",
+      "recordId": "S246C567324",
+      "status": "ok",
+      "copies": 2,
+      "available": 0,
+      "holds": 1,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:36:59.654Z",
+      "locationsCheckedAt": "2026-11-17T17:37:07.003Z"
+    },
+    {
+      "id": "17994",
+      "recordId": "S246C653992",
+      "status": "ok",
+      "copies": 4,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:37:13.788Z",
+      "locationsCheckedAt": "2026-11-17T17:37:18.144Z"
+    },
+    {
+      "id": "124950295",
+      "recordId": "S246C1197928",
+      "status": "ok",
+      "copies": 2,
+      "available": 0,
+      "holds": 2,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:37:24.891Z",
+      "locationsCheckedAt": "2026-11-17T17:37:28.065Z"
+    },
+    {
+      "id": "60714999",
+      "recordId": "S246C1259214",
+      "status": "ok",
+      "copies": 16,
+      "available": 9,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:37:34.042Z",
+      "locationsCheckedAt": "2026-11-17T17:37:37.761Z"
+    },
+    {
+      "id": "45100",
+      "recordId": "S246C1169745",
+      "status": "ok",
+      "copies": 8,
+      "available": 2,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:37:43.143Z",
+      "locationsCheckedAt": "2026-11-17T17:37:46.742Z"
+    },
+    {
+      "id": "62031",
+      "recordId": "S246C1136873",
+      "status": "ok",
+      "copies": 4,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:37:52.978Z",
+      "locationsCheckedAt": "2026-11-17T17:37:57.208Z"
+    },
+    {
+      "id": "27774758",
+      "recordId": "S246C640120",
+      "status": "ok",
+      "copies": 10,
+      "available": 4,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:38:02.883Z",
+      "locationsCheckedAt": "2026-11-17T17:38:06.090Z"
+    },
+    {
+      "id": "60784546",
+      "recordId": "S246C1120360",
+      "status": "ok",
+      "copies": 14,
+      "available": 9,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "International District/Chinatown Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:38:11.532Z",
+      "locationsCheckedAt": "2026-11-17T17:38:15.431Z"
+    },
+    {
+      "id": "61431922",
+      "recordId": "S246C1115241",
+      "status": "ok",
+      "copies": 30,
+      "available": 0,
+      "holds": 13,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:38:21.158Z",
+      "locationsCheckedAt": "2026-11-17T17:38:25.117Z"
+    },
+    {
+      "id": "49826643",
+      "recordId": "S246C1294802",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:38:36.723Z"
+    },
+    {
+      "id": "61612864",
+      "recordId": "S246C1122317",
+      "status": "ok",
+      "copies": 3,
+      "available": 0,
+      "holds": 1,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:38:42.280Z",
+      "locationsCheckedAt": "2026-11-17T17:38:46.354Z"
+    },
+    {
+      "id": "36692478",
+      "recordId": "S246C778615",
+      "status": "ok",
+      "copies": 15,
+      "available": 3,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:38:51.992Z",
+      "locationsCheckedAt": "2026-11-17T17:38:56.038Z"
+    },
+    {
+      "id": "43459659",
+      "recordId": "S246C845512",
+      "status": "ok",
+      "copies": 2,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:39:02.083Z",
+      "locationsCheckedAt": "2026-11-17T17:39:05.525Z"
+    },
+    {
+      "id": "58437788",
+      "recordId": "S246C1049143",
+      "status": "ok",
+      "copies": 1,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:39:12.034Z",
+      "locationsCheckedAt": "2026-11-17T17:39:15.870Z"
+    },
+    {
+      "id": "20758104",
+      "recordId": "S246C658100",
+      "status": "ok",
+      "copies": 6,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:39:26.459Z",
+      "locationsCheckedAt": "2026-11-17T17:39:29.934Z"
+    },
+    {
+      "id": "65213204",
+      "recordId": "S246C1151790",
+      "status": "ok",
+      "copies": 8,
+      "available": 8,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:39:35.240Z",
+      "locationsCheckedAt": "2026-11-17T17:39:39.419Z"
+    },
+    {
+      "id": "40163119",
+      "recordId": "S246C1349788",
+      "status": "ok",
+      "copies": 24,
+      "available": 0,
+      "holds": 86,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:39:45.092Z",
+      "locationsCheckedAt": "2026-11-17T17:39:48.772Z"
+    },
+    {
+      "id": "37570595",
+      "recordId": "S246C795562",
+      "status": "ok",
+      "copies": 13,
+      "available": 10,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:39:54.765Z",
+      "locationsCheckedAt": "2026-11-17T17:39:58.458Z"
+    },
+    {
+      "id": "56179360",
+      "recordId": "S246C1024053",
+      "status": "ok",
+      "copies": 4,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:40:03.674Z",
+      "locationsCheckedAt": "2026-11-17T17:40:07.650Z"
+    },
+    {
+      "id": "48614638",
+      "recordId": "S246C962130",
+      "status": "ok",
+      "copies": 4,
+      "available": 4,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:40:12.955Z",
+      "locationsCheckedAt": "2026-11-17T17:40:16.937Z"
+    },
+    {
+      "id": "52692515",
+      "recordId": "S246C980645",
+      "status": "ok",
+      "copies": 1,
+      "available": 0,
+      "holds": 3,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:40:22.413Z",
+      "locationsCheckedAt": "2026-11-17T17:40:25.871Z"
+    },
+    {
+      "id": "158674",
+      "recordId": "S246C649546",
+      "status": "ok",
+      "copies": 1,
+      "available": 0,
+      "holds": 1,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:40:32.699Z",
+      "locationsCheckedAt": "2026-11-17T17:40:36.149Z"
+    },
+    {
+      "id": "45304101",
+      "recordId": "S246C802361",
+      "status": "ok",
+      "copies": 5,
+      "available": 0,
+      "holds": 29,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:40:42.073Z",
+      "locationsCheckedAt": "2026-11-17T17:40:46.249Z"
+    },
+    {
+      "id": "15997",
+      "recordId": "S246C375694",
+      "status": "ok",
+      "copies": 5,
+      "available": 0,
+      "holds": 2,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:40:52.597Z",
+      "locationsCheckedAt": "2026-11-17T17:40:55.971Z"
+    },
+    {
+      "id": "79550",
+      "recordId": "S246C392156",
+      "status": "ok",
+      "copies": 11,
+      "available": 0,
+      "holds": 20,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:41:01.542Z",
+      "locationsCheckedAt": "2026-11-17T17:41:05.007Z"
+    },
+    {
+      "id": "35888337",
+      "recordId": "S246C804931",
+      "status": "ok",
+      "copies": 2,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:41:10.104Z",
+      "locationsCheckedAt": "2026-11-17T17:41:13.558Z"
+    },
+    {
+      "id": "40599469",
+      "recordId": "S246C742442",
+      "status": "ok",
+      "copies": 1,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:41:19.119Z",
+      "locationsCheckedAt": "2026-11-17T17:41:22.846Z"
+    },
+    {
+      "id": "16328",
+      "recordId": "S246C1081271",
+      "status": "ok",
+      "copies": 10,
+      "available": 0,
+      "holds": 6,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:41:28.503Z",
+      "locationsCheckedAt": "2026-11-17T17:41:32.454Z"
+    },
+    {
+      "id": "16297",
+      "recordId": "S246C549047",
+      "status": "ok",
+      "copies": 4,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:41:37.986Z",
+      "locationsCheckedAt": "2026-11-17T17:41:41.940Z"
+    },
+    {
+      "id": "50033",
+      "recordId": "S246C1368213",
+      "status": "ok",
+      "copies": 0,
+      "available": 0,
+      "holds": 2,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:41:47.380Z",
+      "locationsCheckedAt": "2026-11-17T17:41:51.428Z"
+    },
+    {
+      "id": "340537",
+      "recordId": "S246C843489",
+      "status": "ok",
+      "copies": 2,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:41:56.655Z",
+      "locationsCheckedAt": "2026-11-17T17:42:00.215Z"
+    },
+    {
+      "id": "62080151",
+      "recordId": "S246C1131424",
+      "status": "ok",
+      "copies": 3,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:42:05.678Z",
+      "locationsCheckedAt": "2026-11-17T17:42:09.125Z"
+    },
+    {
+      "id": "61340227",
+      "recordId": "S246C1101911",
+      "status": "ok",
+      "copies": 5,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:42:14.077Z",
+      "locationsCheckedAt": "2026-11-17T17:42:17.412Z"
+    },
+    {
+      "id": "61108472",
+      "recordId": "S246C1095499",
+      "status": "ok",
+      "copies": 10,
+      "available": 7,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:42:22.912Z",
+      "locationsCheckedAt": "2026-11-17T17:42:26.561Z"
+    },
+    {
+      "id": "35068705",
+      "recordId": "S246C981211",
+      "status": "ok",
+      "copies": 13,
+      "available": 0,
+      "holds": 19,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:42:32.008Z",
+      "locationsCheckedAt": "2026-11-17T17:42:35.574Z"
+    },
+    {
+      "id": "58890783",
+      "recordId": "S246C1068084",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:42:46.881Z"
+    },
+    {
+      "id": "8682",
+      "recordId": "S246C103379",
+      "status": "ok",
+      "copies": 4,
+      "available": 0,
+      "holds": 2,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:42:51.982Z",
+      "locationsCheckedAt": "2026-11-17T17:42:55.688Z"
+    },
+    {
+      "id": "30199414",
+      "recordId": "S246C708449",
+      "status": "ok",
+      "copies": 1,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:43:01.623Z",
+      "locationsCheckedAt": "2026-11-17T17:43:05.163Z"
+    },
+    {
+      "id": "58527403",
+      "recordId": "S246C1230042",
+      "status": "ok",
+      "copies": 5,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:43:10.217Z",
+      "locationsCheckedAt": "2026-11-17T17:43:13.427Z"
+    },
+    {
+      "id": "61049",
+      "recordId": "S246C531097",
+      "status": "ok",
+      "copies": 26,
+      "available": 0,
+      "holds": 124,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:43:18.528Z",
+      "locationsCheckedAt": "2026-11-17T17:43:21.780Z"
+    },
+    {
+      "id": "58386745",
+      "recordId": "S246C1054202",
+      "status": "ok",
+      "copies": 3,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:43:27.137Z",
+      "locationsCheckedAt": "2026-11-17T17:43:30.479Z"
+    },
+    {
+      "id": "62919394",
+      "recordId": "S246C1131554",
+      "status": "ok",
+      "copies": 11,
+      "available": 7,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:43:35.830Z",
+      "locationsCheckedAt": "2026-11-17T17:43:39.491Z"
+    },
+    {
+      "id": "58659343",
+      "recordId": "S246C1064104",
+      "status": "ok",
+      "copies": 14,
+      "available": 0,
+      "holds": 0,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:43:44.800Z",
+      "locationsCheckedAt": "2026-11-17T17:43:48.277Z"
+    },
+    {
+      "id": "61237011",
+      "recordId": "S246C1095718",
+      "status": "ok",
+      "copies": 5,
+      "available": 2,
+      "holds": 2,
+      "availableCopies": [
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:43:53.073Z",
+      "locationsCheckedAt": "2026-11-17T17:43:56.373Z"
+    },
+    {
+      "id": "31409135",
+      "recordId": "S246C1233051",
+      "status": "ok",
+      "copies": 12,
+      "available": 4,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:44:09.358Z",
+      "locationsCheckedAt": "2026-11-17T17:44:12.789Z"
+    },
+    {
+      "id": "62337617",
+      "recordId": "S246C1097975",
+      "status": "ok",
+      "copies": 1,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:44:17.712Z",
+      "locationsCheckedAt": "2026-11-17T17:44:21.256Z"
+    },
+    {
+      "id": "61387972",
+      "recordId": "S246C1114433",
+      "status": "ok",
+      "copies": 6,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:44:26.098Z",
+      "locationsCheckedAt": "2026-11-17T17:44:29.283Z"
+    },
+    {
+      "id": "60784308",
+      "recordId": "S246C1115985",
+      "status": "ok",
+      "copies": 12,
+      "available": 11,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:44:34.849Z",
+      "locationsCheckedAt": "2026-11-17T17:44:38.154Z"
+    },
+    {
+      "id": "60194141",
+      "recordId": "S246C1072903",
+      "status": "ok",
+      "copies": 21,
+      "available": 19,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Delridge Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:44:43.543Z",
+      "locationsCheckedAt": "2026-11-17T17:44:47.065Z"
+    },
+    {
+      "id": "59432505",
+      "recordId": "S246C1057005",
+      "status": "ok",
+      "copies": 3,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:44:52.272Z",
+      "locationsCheckedAt": "2026-11-17T17:44:55.479Z"
+    },
+    {
+      "id": "59807975",
+      "recordId": "S246C1086986",
+      "status": "ok",
+      "copies": 9,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:45:00.877Z",
+      "locationsCheckedAt": "2026-11-17T17:45:04.837Z"
+    },
+    {
+      "id": "10054335",
+      "recordId": "S246C819721",
+      "status": "ok",
+      "copies": 2,
+      "available": 0,
+      "holds": 1,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:45:10.812Z",
+      "locationsCheckedAt": "2026-11-17T17:45:14.545Z"
+    },
+    {
+      "id": "61189711",
+      "recordId": "S246C1240479",
+      "status": "ok",
+      "copies": 5,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:45:19.553Z",
+      "locationsCheckedAt": "2026-11-17T17:45:22.730Z"
+    },
+    {
+      "id": "32569560",
+      "recordId": "S246C720004",
+      "status": "ok",
+      "copies": 3,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:45:28.264Z",
+      "locationsCheckedAt": "2026-11-17T17:45:31.804Z"
+    },
+    {
+      "id": "40916679",
+      "recordId": "S246C883594",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:45:42.616Z"
+    },
+    {
+      "id": "59149236",
+      "recordId": "S246C1065610",
+      "status": "ok",
+      "copies": 5,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:45:47.657Z",
+      "locationsCheckedAt": "2026-11-17T17:45:50.927Z"
+    },
+    {
+      "id": "60206505",
+      "recordId": "S246C1085126",
+      "status": "ok",
+      "copies": 5,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:45:56.032Z",
+      "locationsCheckedAt": "2026-11-17T17:45:59.501Z"
+    },
+    {
+      "id": "166997",
+      "recordId": "S246C375622",
+      "status": "ok",
+      "copies": 22,
+      "available": 0,
+      "holds": 139,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:46:04.823Z",
+      "locationsCheckedAt": "2026-11-17T17:46:08.685Z"
+    },
+    {
+      "id": "11298",
+      "recordId": "S246C314331",
+      "status": "ok",
+      "copies": 7,
+      "available": 0,
+      "holds": 0,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:46:14.270Z",
+      "locationsCheckedAt": "2026-11-17T17:46:17.986Z"
+    },
+    {
+      "id": "55649652",
+      "recordId": "S246C994607",
+      "status": "ok",
+      "copies": 2,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:46:23.884Z",
+      "locationsCheckedAt": "2026-11-17T17:46:27.421Z"
+    },
+    {
+      "id": "60353768",
+      "recordId": "S246C1075051",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:46:38.326Z"
+    },
+    {
+      "id": "61272658",
+      "recordId": "S246C1101508",
+      "status": "ok",
+      "copies": 4,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:46:43.604Z",
+      "locationsCheckedAt": "2026-11-17T17:46:47.107Z"
+    },
+    {
+      "id": "35796008",
+      "recordId": "S246C799071",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:46:57.751Z"
+    },
+    {
+      "id": "18693644",
+      "recordId": "S246C599612",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:47:08.470Z"
+    },
+    {
+      "id": "44107480",
+      "recordId": "S246C835807",
+      "status": "ok",
+      "copies": 5,
+      "available": 2,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:47:13.493Z",
+      "locationsCheckedAt": "2026-11-17T17:47:16.825Z"
+    },
+    {
+      "id": "56437694",
+      "recordId": "S246C1029929",
+      "status": "ok",
+      "copies": 3,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:47:22.635Z",
+      "locationsCheckedAt": "2026-11-17T17:47:26.485Z"
+    },
+    {
+      "id": "52735921",
+      "recordId": "S246C949599",
+      "status": "ok",
+      "copies": 3,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:47:31.806Z",
+      "locationsCheckedAt": "2026-11-17T17:47:35.444Z"
+    },
+    {
+      "id": "56646330",
+      "recordId": "S246C1020036",
+      "status": "ok",
+      "copies": 7,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:47:41.065Z",
+      "locationsCheckedAt": "2026-11-17T17:47:44.395Z"
+    },
+    {
+      "id": "54173267",
+      "recordId": "S246C1019512",
+      "status": "ok",
+      "copies": 5,
+      "available": 4,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:47:49.702Z",
+      "locationsCheckedAt": "2026-11-17T17:47:53.176Z"
+    },
+    {
+      "id": "43763",
+      "recordId": "S246C5896",
+      "status": "ok",
+      "copies": 5,
+      "available": 0,
+      "holds": 5,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:47:58.303Z",
+      "locationsCheckedAt": "2026-11-17T17:48:01.484Z"
+    },
+    {
+      "id": "26854212",
+      "recordId": "S246C741826",
+      "status": "ok",
+      "copies": 6,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Delridge Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:48:06.838Z",
+      "locationsCheckedAt": "2026-11-17T17:48:10.432Z"
+    },
+    {
+      "id": "61030718",
+      "recordId": "S246C1096003",
+      "status": "ok",
+      "copies": 3,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:48:16.025Z",
+      "locationsCheckedAt": "2026-11-17T17:48:20.040Z"
+    },
+    {
+      "id": "59576064",
+      "recordId": "S246C1070870",
+      "status": "ok",
+      "copies": 13,
+      "available": 6,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:48:25.487Z",
+      "locationsCheckedAt": "2026-11-17T17:48:28.971Z"
+    },
+    {
+      "id": "60018643",
+      "recordId": "S246C1077556",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:48:39.678Z"
+    },
+    {
+      "id": "41104077",
+      "recordId": "S246C832882",
+      "status": "ok",
+      "copies": 9,
+      "available": 0,
+      "holds": 2,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:48:45.481Z",
+      "locationsCheckedAt": "2026-11-17T17:48:48.933Z"
+    },
+    {
+      "id": "26032825",
+      "recordId": "S246C772081",
+      "status": "ok",
+      "copies": 12,
+      "available": 0,
+      "holds": 6,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:48:54.326Z",
+      "locationsCheckedAt": "2026-11-17T17:48:57.762Z"
+    },
+    {
+      "id": "54621096",
+      "recordId": "S246C1046592",
+      "status": "ok",
+      "copies": 11,
+      "available": 0,
+      "holds": 2,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:49:03.969Z",
+      "locationsCheckedAt": "2026-11-17T17:49:07.520Z"
+    },
+    {
+      "id": "61054804",
+      "recordId": "S246C1087016",
+      "status": "ok",
+      "copies": 17,
+      "available": 13,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "International District/Chinatown Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:49:12.739Z",
+      "locationsCheckedAt": "2026-11-17T17:49:16.498Z"
+    },
+    {
+      "id": "52366322",
+      "recordId": "S246C882947",
+      "status": "ok",
+      "copies": 6,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:49:22.169Z",
+      "locationsCheckedAt": "2026-11-17T17:49:26.284Z"
+    },
+    {
+      "id": "60097451",
+      "recordId": "S246C1090712",
+      "status": "ok",
+      "copies": 4,
+      "available": 0,
+      "holds": 1,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:49:32.405Z",
+      "locationsCheckedAt": "2026-11-17T17:49:36.175Z"
+    },
+    {
+      "id": "31945128",
+      "recordId": "S246C742389",
+      "status": "ok",
+      "copies": 1,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:49:41.785Z",
+      "locationsCheckedAt": "2026-11-17T17:49:45.529Z"
+    },
+    {
+      "id": "16131077",
+      "recordId": "S246C562806",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:49:56.533Z"
+    },
+    {
+      "id": "853510",
+      "recordId": "S246C626183",
+      "status": "ok",
+      "copies": 8,
+      "available": 0,
+      "holds": 3,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:50:03.407Z",
+      "locationsCheckedAt": "2026-11-17T17:50:07.637Z"
+    },
+    {
+      "id": "60147181",
+      "recordId": "S246C1079638",
+      "status": "ok",
+      "copies": 4,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:50:12.778Z",
+      "locationsCheckedAt": "2026-11-17T17:50:16.694Z"
+    },
+    {
+      "id": "60613406",
+      "recordId": "S246C1152399",
+      "status": "ok",
+      "copies": 1,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:50:22.206Z",
+      "locationsCheckedAt": "2026-11-17T17:50:25.543Z"
+    },
+    {
+      "id": "60243188",
+      "recordId": "S246C1082873",
+      "status": "ok",
+      "copies": 12,
+      "available": 5,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Delridge Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:50:31.369Z",
+      "locationsCheckedAt": "2026-11-17T17:50:35.254Z"
+    },
+    {
+      "id": "60417443",
+      "recordId": "S246C1092092",
+      "status": "ok",
+      "copies": 8,
+      "available": 7,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:50:40.902Z",
+      "locationsCheckedAt": "2026-11-17T17:50:45.064Z"
+    },
+    {
+      "id": "60149573",
+      "recordId": "S246C1069650",
+      "status": "ok",
+      "copies": 20,
+      "available": 7,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:50:50.874Z",
+      "locationsCheckedAt": "2026-11-17T17:50:54.813Z"
+    },
+    {
+      "id": "59678834",
+      "recordId": "S246C1077489",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:51:05.606Z"
+    },
+    {
+      "id": "55209468",
+      "recordId": "S246C960824",
+      "status": "ok",
+      "copies": 4,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:51:11.134Z",
+      "locationsCheckedAt": "2026-11-17T17:51:14.454Z"
+    },
+    {
+      "id": "55959443",
+      "recordId": "S246C1049307",
+      "status": "ok",
+      "copies": 2,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:51:19.888Z",
+      "locationsCheckedAt": "2026-11-17T17:51:23.352Z"
+    },
+    {
+      "id": "6514",
+      "recordId": "S246C451097",
+      "status": "ok",
+      "copies": 16,
+      "available": 0,
+      "holds": 14,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:51:29.341Z",
+      "locationsCheckedAt": "2026-11-17T17:51:32.629Z"
+    },
+    {
+      "id": "11297",
+      "recordId": "S246C261179",
+      "status": "ok",
+      "copies": 6,
+      "available": 0,
+      "holds": 9,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:51:37.945Z",
+      "locationsCheckedAt": "2026-11-17T17:51:41.867Z"
+    },
+    {
+      "id": "55881109",
+      "recordId": "S246C995368",
+      "status": "ok",
+      "copies": 4,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:51:47.293Z",
+      "locationsCheckedAt": "2026-11-17T17:51:50.616Z"
+    },
+    {
+      "id": "58673067",
+      "recordId": "S246C995137",
+      "status": "ok",
+      "copies": 8,
+      "available": 5,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:51:57.355Z",
+      "locationsCheckedAt": "2026-11-17T17:52:01.770Z"
+    },
+    {
+      "id": "38787",
+      "recordId": "S246C1168562",
+      "status": "ok",
+      "copies": 18,
+      "available": 8,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:52:07.520Z",
+      "locationsCheckedAt": "2026-11-17T17:52:11.350Z"
+    },
+    {
+      "id": "50202953",
+      "recordId": "S246C936906",
+      "status": "ok",
+      "copies": 18,
+      "available": 0,
+      "holds": 164,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:52:17.131Z",
+      "locationsCheckedAt": "2026-11-17T17:52:21.077Z"
+    },
+    {
+      "id": "58690308",
+      "recordId": "S246C1053988",
+      "status": "ok",
+      "copies": 15,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:52:26.716Z",
+      "locationsCheckedAt": "2026-11-17T17:52:30.362Z"
+    },
+    {
+      "id": "31196",
+      "recordId": "S246C362993",
+      "status": "ok",
+      "copies": 5,
+      "available": 0,
+      "holds": 0,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:52:35.764Z",
+      "locationsCheckedAt": "2026-11-17T17:52:39.207Z"
+    },
+    {
+      "id": "55425310",
+      "recordId": "S246C1010876",
+      "status": "ok",
+      "copies": 1,
+      "available": 0,
+      "holds": 0,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:52:44.727Z",
+      "locationsCheckedAt": "2026-11-17T17:52:48.183Z"
+    },
+    {
+      "id": "41150380",
+      "recordId": "S246C836322",
+      "status": "ok",
+      "copies": 5,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:52:53.482Z",
+      "locationsCheckedAt": "2026-11-17T17:52:57.044Z"
+    },
+    {
+      "id": "50523477",
+      "recordId": "S246C995133",
+      "status": "ok",
+      "copies": 5,
+      "available": 0,
+      "holds": 1,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:53:02.456Z",
+      "locationsCheckedAt": "2026-11-17T17:53:06.068Z"
+    },
+    {
+      "id": "50887097",
+      "recordId": "S246C887380",
+      "status": "ok",
+      "copies": 8,
+      "available": 0,
+      "holds": 15,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:53:11.589Z",
+      "locationsCheckedAt": "2026-11-17T17:53:15.003Z"
+    },
+    {
+      "id": "320",
+      "recordId": "S246C483330",
+      "status": "ok",
+      "copies": 25,
+      "available": 0,
+      "holds": 2,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:53:20.470Z",
+      "locationsCheckedAt": "2026-11-17T17:53:23.904Z"
+    },
+    {
+      "id": "58536014",
+      "recordId": "S246C1059451",
+      "status": "ok",
+      "copies": 7,
+      "available": 4,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:53:29.190Z",
+      "locationsCheckedAt": "2026-11-17T17:53:32.733Z"
+    },
+    {
+      "id": "35068946",
+      "recordId": "S246C827354",
+      "status": "ok",
+      "copies": 3,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:53:38.021Z",
+      "locationsCheckedAt": "2026-11-17T17:53:41.622Z"
+    },
+    {
+      "id": "57717410",
+      "recordId": "S246C1020250",
+      "status": "ok",
+      "copies": 19,
+      "available": 17,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:53:46.587Z",
+      "locationsCheckedAt": "2026-11-17T17:53:50.532Z"
+    },
+    {
+      "id": "42201995",
+      "recordId": "S246C831305",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T17:54:01.064Z"
+    },
+    {
+      "id": "57850266",
+      "recordId": "S246C1041761",
+      "status": "ok",
+      "copies": 2,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T17:54:06.536Z",
+      "locationsCheckedAt": "2026-11-17T17:54:09.963Z"
+    },
+    {
+      "id": "36510722",
+      "recordId": "S246C845375",
+      "status": "ok",
+      "copies": 5,
+      "available": 0,
+      "holds": 2,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T17:54:15.197Z",
+      "locationsCheckedAt": "2026-11-17T17:54:18.717Z"
+    },
+    {
+      "id": "18774964",
+      "recordId": "S246C609160",
+      "status": "error",
+      "error": "page.goto: net::ERR_NETWORK_IO_SUSPENDED at https://seattle.bibliocommons.com/v2/record/S246C609160\nCall log:\n\u001b[2m  - navigating to \"https://seattle.bibliocommons.com/v2/record/S246C609160\", waiting until \"domcontentloaded\"\u001b[22m\n",
+      "checkedAt": "2026-11-17T17:54:21.798Z"
+    },
+    {
+      "id": "58812994",
+      "recordId": "S246C991237",
+      "status": "ok",
+      "copies": 3,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:01:40.896Z",
+      "locationsCheckedAt": "2026-11-17T18:01:44.871Z"
+    },
+    {
+      "id": "662",
+      "recordId": "S246C530641",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T18:01:55.620Z"
+    },
+    {
+      "id": "13623848",
+      "recordId": "S246C807573",
+      "status": "ok",
+      "copies": 18,
+      "available": 0,
+      "holds": 136,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T18:02:01.334Z",
+      "locationsCheckedAt": "2026-11-17T18:02:04.700Z"
+    },
+    {
+      "id": "29589074",
+      "recordId": "S246C774986",
+      "status": "ok",
+      "copies": 5,
+      "available": 0,
+      "holds": 3,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T18:02:10.280Z",
+      "locationsCheckedAt": "2026-11-17T18:02:14.280Z"
+    },
+    {
+      "id": "40595446",
+      "recordId": "S246C826332",
+      "status": "ok",
+      "copies": 6,
+      "available": 2,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:02:19.593Z",
+      "locationsCheckedAt": "2026-11-17T18:02:23.213Z"
+    },
+    {
+      "id": "51152447",
+      "recordId": "S246C915769",
+      "status": "ok",
+      "copies": 25,
+      "available": 11,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:02:29.320Z",
+      "locationsCheckedAt": "2026-11-17T18:02:34.206Z"
+    },
+    {
+      "id": "58772722",
+      "recordId": "S246C1061820",
+      "status": "ok",
+      "copies": 3,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:02:40.060Z",
+      "locationsCheckedAt": "2026-11-17T18:02:44.205Z"
+    },
+    {
+      "id": "41880609",
+      "recordId": "S246C829911",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T18:02:55.192Z"
+    },
+    {
+      "id": "34184307",
+      "recordId": "S246C737537",
+      "status": "ok",
+      "copies": 9,
+      "available": 9,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:03:00.665Z",
+      "locationsCheckedAt": "2026-11-17T18:03:04.797Z"
+    },
+    {
+      "id": "58353827",
+      "recordId": "S246C1156616",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T18:03:16.178Z"
+    },
+    {
+      "id": "57658071",
+      "recordId": "S246C1136874",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T18:03:27.819Z"
+    },
+    {
+      "id": "59228212",
+      "recordId": "S246C1054260",
+      "status": "ok",
+      "copies": 3,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:03:33.821Z",
+      "locationsCheckedAt": "2026-11-17T18:03:36.978Z"
+    },
+    {
+      "id": "30983000",
+      "recordId": "S246C775180",
+      "status": "ok",
+      "copies": 2,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:03:42.127Z",
+      "locationsCheckedAt": "2026-11-17T18:03:45.557Z"
+    },
+    {
+      "id": "1099301",
+      "recordId": "S246C376782",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T18:03:57.152Z"
+    },
+    {
+      "id": "357209",
+      "recordId": "S246C871499",
+      "status": "ok",
+      "copies": 2,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:04:02.834Z",
+      "locationsCheckedAt": "2026-11-17T18:04:06.169Z"
+    },
+    {
+      "id": "42863088",
+      "recordId": "S246C883451",
+      "status": "ok",
+      "copies": 3,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:04:12.849Z",
+      "locationsCheckedAt": "2026-11-17T18:04:17.617Z"
+    },
+    {
+      "id": "241375385",
+      "recordId": "S246C1354882",
+      "status": "ok",
+      "copies": 4,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:04:23.582Z",
+      "locationsCheckedAt": "2026-11-17T18:04:27.215Z"
+    },
+    {
+      "id": "255420470",
+      "recordId": "S246C1292987",
+      "status": "ok",
+      "copies": 19,
+      "available": 0,
+      "holds": 102,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T18:04:32.927Z",
+      "locationsCheckedAt": "2026-11-17T18:04:35.958Z"
+    },
+    {
+      "id": "231126885",
+      "recordId": "S246C1319980",
+      "status": "ok",
+      "copies": 172,
+      "available": 53,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Delridge Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "International District/Chinatown Branch",
+          "status": "In"
+        },
+        {
+          "location": "International District/Chinatown Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Mobile Services",
+          "status": "In"
+        },
+        {
+          "location": "Mobile Services",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:04:43.308Z",
+      "locationsCheckedAt": "2026-11-17T18:04:47.946Z"
+    },
+    {
+      "id": "195391751",
+      "recordId": "S246C1192666",
+      "status": "error",
+      "error": "Contradictory availability labels.",
+      "checkedAt": "2026-11-17T18:04:59.710Z"
+    },
+    {
+      "id": "4981",
+      "recordId": "S246C483924",
+      "status": "ok",
+      "copies": 12,
+      "available": 0,
+      "holds": 9,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T18:05:05.020Z",
+      "locationsCheckedAt": "2026-11-17T18:05:08.908Z"
+    },
+    {
+      "id": "7144",
+      "recordId": "S246C721067",
+      "status": "ok",
+      "copies": 8,
+      "available": 0,
+      "holds": 21,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T18:05:14.745Z",
+      "locationsCheckedAt": "2026-11-17T18:05:18.245Z"
+    },
+    {
+      "id": "24800",
+      "recordId": "S246C251968",
+      "status": "ok",
+      "copies": 20,
+      "available": 0,
+      "holds": 75,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T18:05:23.591Z",
+      "locationsCheckedAt": "2026-11-17T18:05:26.969Z"
+    },
+    {
+      "id": "164154",
+      "recordId": "S246C791322",
+      "status": "ok",
+      "copies": 7,
+      "available": 0,
+      "holds": 8,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T18:05:31.996Z",
+      "locationsCheckedAt": "2026-11-17T18:05:36.048Z"
+    },
+    {
+      "id": "1329610",
+      "recordId": "S246C382153",
+      "status": "ok",
+      "copies": 1,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:05:41.517Z",
+      "locationsCheckedAt": "2026-11-17T18:05:44.842Z"
+    },
+    {
+      "id": "9317452",
+      "recordId": "S246C464209",
+      "status": "error",
+      "error": "locator.waitFor: Timeout 20000ms exceeded.\nCall log:\n\u001b[2m  - waiting for getByRole('main').getByText(/^\\d+ on hold$/).first() to be visible\u001b[22m\n",
+      "checkedAt": "2026-11-17T18:06:09.422Z"
+    },
+    {
+      "id": "32718027",
+      "recordId": "S246C737812",
+      "status": "ok",
+      "copies": 3,
+      "available": 0,
+      "holds": 12,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T18:06:15.235Z",
+      "locationsCheckedAt": "2026-11-17T18:06:19.634Z"
+    },
+    {
+      "id": "40796176",
+      "recordId": "S246C829432",
+      "status": "ok",
+      "copies": 1,
+      "available": 0,
+      "holds": 2,
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-17T18:06:25.989Z",
+      "locationsCheckedAt": "2026-11-17T18:06:29.398Z"
+    },
+    {
+      "id": "42366547",
+      "recordId": "S246C937795",
+      "status": "ok",
+      "copies": 2,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:06:35.054Z",
+      "locationsCheckedAt": "2026-11-17T18:06:38.550Z"
+    },
+    {
+      "id": "51102251",
+      "recordId": "S246C985231",
+      "status": "ok",
+      "copies": 5,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:06:45.060Z",
+      "locationsCheckedAt": "2026-11-17T18:06:50.062Z"
+    },
+    {
+      "id": "52045757",
+      "recordId": "S246C962053",
+      "status": "ok",
+      "copies": 14,
+      "available": 7,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:06:56.243Z",
+      "locationsCheckedAt": "2026-11-17T18:07:00.369Z"
+    },
+    {
+      "id": "54776198",
+      "recordId": "S246C991609",
+      "status": "ok",
+      "copies": 2,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:07:06.353Z",
+      "locationsCheckedAt": "2026-11-17T18:07:12.228Z"
+    },
+    {
+      "id": "59808133",
+      "recordId": "S246C1081385",
+      "status": "ok",
+      "copies": 9,
+      "available": 8,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:07:18.345Z",
+      "locationsCheckedAt": "2026-11-17T18:07:22.173Z"
+    },
+    {
+      "id": "75596597",
+      "recordId": "S246C1138649",
+      "status": "ok",
+      "copies": 6,
+      "available": 4,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:07:28.801Z",
+      "locationsCheckedAt": "2026-11-17T18:07:32.817Z"
+    },
+    {
+      "id": "199396641",
+      "recordId": "S246C1192622",
+      "status": "ok",
+      "copies": 11,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:07:38.385Z",
+      "locationsCheckedAt": "2026-11-17T18:07:42.073Z"
+    },
+    {
+      "id": "203020280",
+      "recordId": "S246C1183095",
+      "status": "ok",
+      "copies": 11,
+      "available": 8,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:07:47.671Z",
+      "locationsCheckedAt": "2026-11-17T18:07:52.604Z"
+    },
+    {
+      "id": "203648169",
+      "recordId": "S246C1236841",
+      "status": "ok",
+      "copies": 8,
+      "available": 6,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-17T18:07:58.059Z",
+      "locationsCheckedAt": "2026-11-17T18:08:01.679Z"
+    }
+  ],
+  "completedAt": "2026-11-17T18:08:01.959Z"
+}
