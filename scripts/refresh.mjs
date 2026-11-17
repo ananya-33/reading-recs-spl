@@ -121,7 +121,25 @@ export async function refreshBook(page, book) {
   };
 }
 
-async function refreshAll(resume) {
+export function validateRefreshForPublication(report, catalog, now = Date.now()) {
+  const rows = validateAvailability(report);
+  const physical = validateCatalog(catalog).filter(book => book.format !== 'ebook');
+  const started = Date.parse(report.startedAt);
+  const completed = Date.parse(report.completedAt);
+  if (!Number.isFinite(started) || !Number.isFinite(completed) || started > completed || completed > now ||
+      rows.length !== physical.length || physical.some(book =>
+        !rows.some(row => row.id === book.id && row.recordId === book.recordId))) {
+    throw new Error('Refresh is incomplete; the published snapshot will not be replaced.');
+  }
+  const successful = rows.filter(row => row.status === 'ok');
+  if (!successful.length || successful.some(row => !isFresh(row, now) ||
+      Date.parse(row.countsCheckedAt) < started || Date.parse(row.locationsCheckedAt) < started)) {
+    throw new Error('Refresh has no usable new checks or contains old checks; publication stopped.');
+  }
+  return { successful: successful.length, failed: rows.length - successful.length };
+}
+
+async function refreshAll(resume, publish) {
   const catalog = validateCatalog(JSON.parse(await readFile(new URL('../public/data/catalog.json', import.meta.url), 'utf8')))
     .filter(book => book.format !== 'ebook');
   const directory = new URL('../.local/', import.meta.url);
@@ -150,7 +168,7 @@ async function refreshAll(resume) {
         const message = error instanceof Error ? error.message : String(error);
         report.results.push({ id: book.id, recordId: book.recordId, status: 'error', error: message, checkedAt: new Date().toISOString() });
         console.error(`${book.title}: ${message}`);
-        process.exitCode = 1;
+        if (!publish) process.exitCode = 1;
         if (error.code === 'SPL_ACCESS_BLOCKED') blocked = error;
       }
       // Keep interrupted work outside public/; only a complete run replaces the visible snapshot.
@@ -163,6 +181,11 @@ async function refreshAll(resume) {
     await browser.close();
   }
   report.completedAt = new Date().toISOString();
+  if (publish) {
+    const outcome = validateRefreshForPublication(report, catalog);
+    console.log(`Publication check: ${outcome.successful} fresh successes, ${outcome.failed} explicit failures excluded.`);
+    if (outcome.failed) console.warn('::warning::Some SPL checks failed; those books are excluded from recommendations.');
+  }
   // Replace the snapshot only after the complete JSON file has been written.
   const output = new URL('../public/data/availability.json', import.meta.url);
   const temporary = new URL('../public/data/availability.json.tmp', import.meta.url);
@@ -171,8 +194,8 @@ async function refreshAll(resume) {
 }
 
 if (process.argv[1] && resolve(process.argv[1]) === fileURLToPath(import.meta.url)) {
-  if (process.argv.length > 3 || (process.argv[2] && process.argv[2] !== '--resume')) {
-    throw new Error('Usage: npm run refresh, or npm run refresh -- --resume');
+  if (process.argv.length > 3 || (process.argv[2] && !['--resume', '--publish'].includes(process.argv[2]))) {
+    throw new Error('Usage: npm run refresh, or npm run refresh -- --resume / --publish');
   }
-  await refreshAll(process.argv[2] === '--resume');
+  await refreshAll(process.argv[2] === '--resume', process.argv[2] === '--publish');
 }

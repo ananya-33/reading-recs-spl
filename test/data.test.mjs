@@ -1,7 +1,7 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { importGoodreads } from '../scripts/import.mjs';
-import { parseCounts, parseLocations, refreshBook } from '../scripts/refresh.mjs';
+import { parseCounts, parseLocations, refreshBook, validateRefreshForPublication } from '../scripts/refresh.mjs';
 
 test('import handles CSV quoting, cleans ISBNs, and excludes private/read data', () => {
   const csv = '\uFEFFBook Id,Title,Author,ISBN13,Bookshelves,Exclusive Shelf,Private Notes,My Review\n' +
@@ -85,6 +85,32 @@ test('refresh access restrictions and human challenges stop collection before re
 
 test('ebook suggestions never enter the physical availability collector', async () => {
   await assert.rejects(refreshBook({}, { format: 'ebook' }), /do not have physical availability checks/);
+});
+
+test('publication accepts complete partial-success refreshes, never old, incomplete, or all-failed snapshots', () => {
+  const now = Date.parse('2026-11-17T20:00:00Z');
+  const catalog = [
+    { id: '1', recordId: 'S246C1', title: 'One', description: '' },
+    { id: '2', recordId: 'S246C2', title: 'Two', description: '' },
+    { id: '3', recordId: 'S246C3', title: 'Ebook', description: '', format: 'ebook', editionCheckedAt: new Date(now).toISOString() }
+  ];
+  const success = {
+    id: '1', recordId: 'S246C1', status: 'ok', copies: 1, available: 0, holds: 2, availableCopies: [],
+    countsCheckedAt: new Date(now - 2000).toISOString(), locationsCheckedAt: new Date(now - 1000).toISOString()
+  };
+  const failure = { id: '2', recordId: 'S246C2', status: 'error', error: 'Page timed out.' };
+  const report = { schemaVersion: 1, startedAt: new Date(now - 3000).toISOString(),
+    completedAt: new Date(now).toISOString(), results: [success, failure] };
+  assert.deepEqual(validateRefreshForPublication(report, catalog, now), { successful: 1, failed: 1 });
+  assert.throws(() => validateRefreshForPublication({ ...report, completedAt: undefined }, catalog, now), /incomplete/);
+  assert.throws(() => validateRefreshForPublication({ ...report, results: [success] }, catalog, now), /incomplete/);
+  assert.throws(() => validateRefreshForPublication({ ...report, results: [success, { ...failure, recordId: 'S246C99' }] }, catalog, now), /incomplete/);
+  assert.throws(() => validateRefreshForPublication({ ...report, results: [
+    { ...success, countsCheckedAt: new Date(now - 4000).toISOString() }, failure
+  ] }, catalog, now), /old checks/);
+  assert.throws(() => validateRefreshForPublication({ ...report, results: [
+    { id: '1', recordId: 'S246C1', status: 'error', error: 'Failed.' }, failure
+  ] }, catalog, now), /no usable new checks/);
 });
 
 test('refresh waits for coherent hydrated counts without refetching, but persistent contradictions fail', async () => {

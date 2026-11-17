@@ -161,7 +161,7 @@ JSON files are simply saved lists of information that the programs can read.
   select pickup at SPL yourself; this app never places a hold.
 - Descriptions are curated short summaries or explicitly labeled catalog themes.
   Full publisher blurbs remain in the private matching audit, not the public data.
-  Automatic Goodreads sync and scheduled GitHub-hosted refreshes are not implemented.
+  Automatic Goodreads sync is not implemented.
 
 ## Privacy and publication
 
@@ -175,18 +175,33 @@ Browser feedback stays in local storage and is never uploaded. Raw CSV files
 and `.local/` source audits are not published.
 
 `.github/workflows/pages.yml` tests and deploys the static `public/` folder on
-pushes to `main` or a manual dispatch. It does not contact SPL. The site is served
+pushes to `main`, a manual dispatch, or a daily schedule. The site is served
 at <https://ananya-33.github.io/reading-recs-spl/>.
 
-Refresh availability locally with `npm run refresh`, review the resulting JSON,
-then commit and push it to update the live snapshot. Physical counts still expire
-after 24 hours; deployment alone does not refresh them. Refreshing the Goodreads
-CSV also remains a local import followed by a reviewed commit and push.
+Daily collection runs at 13:17 UTC (5:17 a.m. Seattle standard time, 6:17 a.m.
+daylight time), after tests pass. GitHub may delay scheduled jobs. It saves the
+new snapshot to `main` and deploys it without requiring this computer to be on.
+Manual dispatch refreshes by default; ordinary code pushes do not scrape SPL.
+Pull the latest `main` before making local changes so the bot's snapshot commits
+are included.
+
+`npm run refresh -- --publish` allows a completed run with explicit per-book
+failures, but requires a result for every physical mapping and fresh successful
+checks from this run. Failed books remain excluded. Access restrictions,
+interrupted runs, all-failed runs, and failed snapshot pushes stop deployment.
+The prior site remains live; its physical checks still expire after 24 hours.
+Monitor failed runs in GitHub Actions; a scheduled run is not a guarantee of
+continuous fresh availability.
+
+Local refreshes still use `npm run refresh`, followed by a reviewed commit and
+push. Refreshing the Goodreads CSV remains a local import followed by a reviewed
+commit and push; it is not part of the daily SPL update.
 
 The separate manual-only `.github/workflows/validate-refresh.yml` collector is
-not part of deployment and must not be run until library permission is confirmed
-for GitHub-hosted collection. There is deliberately no scraping schedule.
+only validates collection and does not publish. The daily collection and
+publication are handled together by `pages.yml`.
 
-The refresh approach assumes the personal-use permission you reported receiving
-from the library. It is not a supported public availability API. Reconfirm its
-scope before expanding volume, frequency, or hosting environment.
+The user confirmed library permission for scheduled GitHub-hosted collection.
+This is not a supported public availability API. Collection remains sequential
+and paced, and stops on access restrictions without bypassing them. Reconfirm
+permission before expanding volume or frequency.
