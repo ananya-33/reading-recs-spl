@@ -2,6 +2,7 @@ import { before, after, test } from 'node:test';
 import assert from 'node:assert/strict';
 import { chromium } from 'playwright';
 import { once } from 'node:events';
+import { readFile } from 'node:fs/promises';
 import { createAppServer } from '../scripts/serve.mjs';
 
 let server;
@@ -60,6 +61,32 @@ async function picks(page) {
   assert.equal(await page.locator('#load-error').isVisible(), false, await page.locator('#load-error').innerText());
   await page.locator('#skip').click();
 }
+
+test('published synopses fit two to four unclipped card lines on desktop and phone', async t => {
+  const catalog = JSON.parse(await readFile(new URL('../public/data/catalog.json', import.meta.url), 'utf8'));
+  const page = await open(t);
+  await picks(page);
+  await page.evaluate(() => document.fonts.ready);
+  for (const viewport of [{ width: 1440, height: 1000 }, { width: 390, height: 844 }]) {
+    await page.setViewportSize(viewport);
+    const measurements = await page.locator('.description').first().evaluate((element, books) => books.map(book => {
+      element.textContent = book.description;
+      const range = document.createRange();
+      range.selectNodeContents(element);
+      return {
+        title: book.title,
+        lines: new Set([...range.getClientRects()].map(rect => Math.round(rect.top))).size,
+        clipped: element.scrollHeight > element.clientHeight,
+        clamp: getComputedStyle(element).webkitLineClamp
+      };
+    }), catalog);
+    for (const item of measurements) {
+      assert.ok(item.lines >= 2 && item.lines <= 4, `${item.title}: ${item.lines} lines at ${viewport.width}px.`);
+      assert.equal(item.clipped, false, `${item.title}: synopsis must not be clipped.`);
+      assert.ok(!item.clamp || item.clamp === 'none', `${item.title}: synopsis must not be line-clamped.`);
+    }
+  }
+});
 
 test('overlap months blend both shelves with incoming artwork, while manual selection uses one season', async t => {
   const date = new Date('2026-03-15T20:00:00Z');

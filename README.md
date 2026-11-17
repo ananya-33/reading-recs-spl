@@ -50,8 +50,7 @@ JSON files are simply saved lists of information that the programs can read.
   for suitable choices, puts them on the screen, and remembers your feedback.
   It also replaces books after feedback and explains when something has gone wrong.
 - **`data/catalog.json`** connects a book on your list to the correct SPL page.
-  It currently contains 310 checked matches, with short summaries or labeled
-  catalog themes.
+  It currently contains 310 checked matches with short, original synopses.
   Goodreads and SPL use different book IDs, so both IDs are needed here. A
   selected library edition can differ from the edition in your Goodreads export.
   Confirmed ebook suggestions have `format: "ebook"` and `editionCheckedAt`;
@@ -76,9 +75,9 @@ JSON files are simply saved lists of information that the programs can read.
   Verified candidates need an audit review before they are added to the
   recommendation catalog. After reviewing the audit, run
   `npm run match -- --apply` to add verified entries locally. Existing descriptions
-  are preserved. Optional original summaries in `.local/descriptions.json` take
-  precedence; otherwise, cards explicitly label SPL subject/genre metadata as
-  "Catalog themes" or "Catalog genres" instead of inventing a plot summary.
+  are preserved. New entries require a short, source-grounded synopsis in
+  `.local/descriptions.json`; promotion stops if one is missing. Library subject
+  headings are matching-audit metadata, not substitutes for book descriptions.
   Ambiguous results are not guesses.
   It pauses between requests and stops on errors or human-verification pages;
   it does not retry around access restrictions.
@@ -159,7 +158,11 @@ JSON files are simply saved lists of information that the programs can read.
   reservations or guarantees of pickup timing.
 - The request link opens the exact physical-edition catalog page. Sign in and
   select pickup at SPL yourself; this app never places a hold.
-- Descriptions are curated short summaries or explicitly labeled catalog themes.
+- Descriptions are concise, original paraphrases of SPL or publisher synopses,
+  focused on the premise rather than review language or subject headings.
+  They use one or two short sentences, generally around two to four card lines;
+  wrapping varies with viewport width. They are maintained separately from the
+  daily availability refresh, which never replaces them with catalog tags.
   Full publisher blurbs remain in the private matching audit, not the public data.
   Automatic Goodreads sync is not implemented.
 

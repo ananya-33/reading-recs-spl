@@ -1,5 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
+import { readFile } from 'node:fs/promises';
 import { normalize, searchTitle, sameAuthor, verifyRecord, catalogDescription } from '../scripts/match.mjs';
 
 test('matching tolerates punctuation and catalog name order, not a different work or author', () => {
@@ -18,6 +19,17 @@ test('uncurated descriptions label factual catalog themes rather than inventing 
   assert.match(catalogDescription({}), /not yet curated/);
 });
 
+test('published descriptions are compact prose, not catalog tags or missing-summary notices', async () => {
+  const catalog = JSON.parse(await readFile(new URL('../public/data/catalog.json', import.meta.url), 'utf8'));
+  for (const book of catalog) {
+    assert.ok(book.description.length >= 60 && book.description.length <= 280,
+      `${book.title}: description must fit a short card paragraph.`);
+    assert.doesNotMatch(book.description,
+      /Catalog (themes|genres):|summary not yet|description is not available|provided by publisher/i,
+      `${book.title}: publish a synopsis rather than a placeholder.`);
+  }
+});
+
 test('only exact English physical works pass; adaptations and unknown language require review', () => {
   const book = { title: 'Less (Arthur Less, #1)', author: 'Andrew Sean Greer' };
   const record = { title: 'Less', author: 'Greer, Andrew Sean', language: 'en', format: 'Current format, Book, 2017, First edition.', subtitle: '', fields: { title: ['Less / Andrew Sean Greer.'] } };
@@ -29,4 +41,18 @@ test('only exact English physical works pass; adaptations and unknown language r
   ]) {
     assert.equal(typeof verifyRecord(book, { ...record, ...change }), 'string');
   }
+});
+
+test('a shared main title and author do not substitute a different companion book', () => {
+  const book = { title: 'The 1619 Project: A New Origin Story', author: 'Nikole Hannah-Jones' };
+  const record = {
+    title: 'The 1619 Project', author: 'Hannah-Jones, Nikole', language: 'en',
+    format: 'Current format, Book, 2021', subtitle: 'Born on the Water',
+    fields: { title: ['The 1619 Project : born on the water / Nikole Hannah-Jones.'] }
+  };
+  assert.match(verifyRecord(book, record), /subtitle/);
+  assert.equal(verifyRecord(book, {
+    ...record, subtitle: 'A New Origin Story',
+    fields: { title: ['The 1619 Project : a new origin story / edited by Nikole Hannah-Jones.'] }
+  }), null);
 });

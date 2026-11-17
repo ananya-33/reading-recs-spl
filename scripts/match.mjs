@@ -22,6 +22,10 @@ export function sameAuthor(expected, actual) {
 export function verifyRecord(book, record) {
   if (!record.fields.title?.length) return 'Full catalog details are incomplete.';
   if (normalize(searchTitle(book.title)) !== normalize(record.title)) return 'The main title differs.';
+  const subtitle = book.title.replace(/\s+\([^)]*#\d[^)]*\)$/, '').split(':').slice(1).join(':').trim();
+  if (subtitle && !normalize([record.subtitle, ...record.fields.title].join(' ')).includes(normalize(subtitle))) {
+    return 'The requested subtitle is not confirmed by the catalog title.';
+  }
   if (!sameAuthor(book.author, record.author)) return 'The author differs.';
   if (record.language !== 'en') return 'English language is not confirmed by the catalog title metadata.';
   if (!/\bCurrent format, Book,/.test(record.format)) return 'Not a standard physical book.';
@@ -180,8 +184,11 @@ async function applyMatches() {
       console.warn(`Not added: ${row.title} duplicates an existing physical record.`);
       continue;
     }
-    const description = descriptions[row.id] ?? catalogDescription(row.match.fields);
-    if (typeof description !== 'string' || !description.trim()) throw new Error(`Invalid description for ${row.title}.`);
+    const description = descriptions[row.id];
+    if (typeof description !== 'string' || !description.trim() ||
+        /Catalog (themes|genres):|summary not yet|description is not available/i.test(description)) {
+      throw new Error(`${row.title} needs a source-grounded synopsis in .local/descriptions.json before it can be added.`);
+    }
     catalog.push({
       id: row.id, title: row.match.title, catalogAuthor: row.match.author,
       recordId: row.match.recordId, description

@@ -5787,58 +5787,22 @@
     },
     {
       "id": "57717410",
-      "recordId": "S246C1020250",
+      "recordId": "S246C1030745",
       "status": "ok",
-      "copies": 19,
-      "available": 17,
+      "copies": 21,
+      "available": 7,
       "holds": 0,
       "availableCopies": [
-        {
-          "location": "Ballard Branch",
-          "status": "In"
-        },
-        {
-          "location": "Beacon Hill Branch",
-          "status": "In"
-        },
-        {
-          "location": "Broadview Branch",
-          "status": "In"
-        },
-        {
-          "location": "Capitol Hill Branch",
-          "status": "In"
-        },
-        {
-          "location": "Central Library",
-          "status": "In"
-        },
-        {
-          "location": "Central Library",
-          "status": "In"
-        },
-        {
-          "location": "Columbia Branch",
-          "status": "In"
-        },
         {
           "location": "Douglass-Truth Branch",
           "status": "In"
         },
         {
-          "location": "High Point Branch",
+          "location": "Green Lake Branch",
           "status": "In"
         },
         {
-          "location": "Lake City Branch",
-          "status": "In"
-        },
-        {
-          "location": "Madrona-Sally Goldmark Branch",
-          "status": "In"
-        },
-        {
-          "location": "Magnolia Branch",
+          "location": "Greenwood Branch",
           "status": "In"
         },
         {
@@ -5846,7 +5810,7 @@
           "status": "In"
         },
         {
-          "location": "Northeast Branch",
+          "location": "NewHolly Branch",
           "status": "In"
         },
         {
@@ -5854,16 +5818,12 @@
           "status": "In"
         },
         {
-          "location": "Southwest Branch",
-          "status": "In"
-        },
-        {
-          "location": "Wallingford Branch",
+          "location": "Rainier Beach Branch",
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-17T19:44:30.604Z",
-      "locationsCheckedAt": "2026-11-17T19:44:33.642Z"
+      "countsCheckedAt": "2026-11-17T21:01:35.565Z",
+      "locationsCheckedAt": "2026-11-17T21:01:38.888Z"
     },
     {
       "id": "42201995",
@@ -6855,5 +6815,5 @@
       "locationsCheckedAt": "2026-11-17T19:50:21.003Z"
     }
   ],
-  "completedAt": "2026-11-17T19:50:21.053Z"
+  "completedAt": "2026-11-17T21:01:38.888Z"
 }
