@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "startedAt": "2026-11-24T23:01:16.282Z",
+  "startedAt": "2026-11-25T22:30:12.153Z",
   "results": [
     {
       "id": "244714079",
@@ -8,10 +8,10 @@
       "status": "ok",
       "copies": 24,
       "available": 0,
-      "holds": 124,
+      "holds": 126,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:01:18.981Z",
-      "locationsCheckedAt": "2026-11-24T23:01:21.755Z"
+      "countsCheckedAt": "2026-11-25T22:30:14.717Z",
+      "locationsCheckedAt": "2026-11-25T22:30:17.930Z"
     },
     {
       "id": "245120325",
@@ -19,10 +19,10 @@
       "status": "ok",
       "copies": 18,
       "available": 0,
-      "holds": 78,
+      "holds": 77,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:01:26.444Z",
-      "locationsCheckedAt": "2026-11-24T23:01:29.633Z"
+      "countsCheckedAt": "2026-11-25T22:30:22.733Z",
+      "locationsCheckedAt": "2026-11-25T22:30:25.681Z"
     },
     {
       "id": "242764839",
@@ -32,8 +32,8 @@
       "available": 0,
       "holds": 7,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:01:35.114Z",
-      "locationsCheckedAt": "2026-11-24T23:01:38.264Z"
+      "countsCheckedAt": "2026-11-25T22:30:30.246Z",
+      "locationsCheckedAt": "2026-11-25T22:30:33.035Z"
     },
     {
       "id": "206318521",
@@ -43,16 +43,16 @@
       "available": 0,
       "holds": 1,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:01:43.138Z",
-      "locationsCheckedAt": "2026-11-24T23:01:46.137Z"
+      "countsCheckedAt": "2026-11-25T22:30:37.796Z",
+      "locationsCheckedAt": "2026-11-25T22:30:40.760Z"
     },
     {
       "id": "211479192",
       "recordId": "S246C1230133",
       "status": "ok",
       "copies": 29,
-      "available": 17,
-      "holds": 0,
+      "available": 18,
+      "holds": 1,
       "availableCopies": [
         {
           "location": "Ballard Branch",
@@ -84,6 +84,10 @@
         },
         {
           "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
           "status": "In"
         },
         {
@@ -123,15 +127,28 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:01:50.659Z",
-      "locationsCheckedAt": "2026-11-24T23:01:53.047Z"
+      "countsCheckedAt": "2026-11-25T22:30:45.362Z",
+      "locationsCheckedAt": "2026-11-25T22:30:48.165Z"
     },
     {
       "id": "55172725",
       "recordId": "S246C1367985",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:02:02.424Z"
+      "status": "ok",
+      "copies": 7,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:30:52.894Z",
+      "locationsCheckedAt": "2026-11-25T22:30:56.055Z"
     },
     {
       "id": "276767",
@@ -141,8 +158,8 @@
       "available": 0,
       "holds": 0,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:02:06.978Z",
-      "locationsCheckedAt": "2026-11-24T23:02:10.468Z"
+      "countsCheckedAt": "2026-11-25T22:31:00.686Z",
+      "locationsCheckedAt": "2026-11-25T22:31:04.279Z"
     },
     {
       "id": "8701960",
@@ -152,8 +169,8 @@
       "available": 0,
       "holds": 3,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:02:15.130Z",
-      "locationsCheckedAt": "2026-11-24T23:02:18.220Z"
+      "countsCheckedAt": "2026-11-25T22:31:08.974Z",
+      "locationsCheckedAt": "2026-11-25T22:31:11.946Z"
     },
     {
       "id": "55748103",
@@ -180,24 +197,28 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:02:22.985Z",
-      "locationsCheckedAt": "2026-11-24T23:02:26.062Z"
+      "countsCheckedAt": "2026-11-25T22:31:16.911Z",
+      "locationsCheckedAt": "2026-11-25T22:31:19.905Z"
     },
     {
       "id": "54860585",
       "recordId": "S246C1010925",
       "status": "ok",
       "copies": 13,
-      "available": 1,
-      "holds": 1,
+      "available": 2,
+      "holds": 0,
       "availableCopies": [
         {
           "location": "Greenwood Branch",
           "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "Not yet shelved"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:02:31.087Z",
-      "locationsCheckedAt": "2026-11-24T23:02:34.293Z"
+      "countsCheckedAt": "2026-11-25T22:31:24.408Z",
+      "locationsCheckedAt": "2026-11-25T22:31:27.666Z"
     },
     {
       "id": "29751398",
@@ -207,8 +228,8 @@
       "available": 0,
       "holds": 5,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:02:39.069Z",
-      "locationsCheckedAt": "2026-11-24T23:02:42.258Z"
+      "countsCheckedAt": "2026-11-25T22:31:32.175Z",
+      "locationsCheckedAt": "2026-11-25T22:31:35.196Z"
     },
     {
       "id": "25852784",
@@ -218,8 +239,8 @@
       "available": 0,
       "holds": 0,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:02:47.074Z",
-      "locationsCheckedAt": "2026-11-24T23:02:50.305Z"
+      "countsCheckedAt": "2026-11-25T22:31:40.224Z",
+      "locationsCheckedAt": "2026-11-25T22:31:43.165Z"
     },
     {
       "id": "58146427",
@@ -246,15 +267,32 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:02:55.083Z",
-      "locationsCheckedAt": "2026-11-24T23:02:58.258Z"
+      "countsCheckedAt": "2026-11-25T22:31:47.714Z",
+      "locationsCheckedAt": "2026-11-25T22:31:50.895Z"
     },
     {
       "id": "52639051",
       "recordId": "S246C969045",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:03:08.549Z"
+      "status": "ok",
+      "copies": 5,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:31:55.505Z",
+      "locationsCheckedAt": "2026-11-25T22:31:58.451Z"
     },
     {
       "id": "18114322",
@@ -262,10 +300,10 @@
       "status": "ok",
       "copies": 8,
       "available": 0,
-      "holds": 29,
+      "holds": 28,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:03:13.732Z",
-      "locationsCheckedAt": "2026-11-24T23:03:16.779Z"
+      "countsCheckedAt": "2026-11-25T22:32:03.211Z",
+      "locationsCheckedAt": "2026-11-25T22:32:06.527Z"
     },
     {
       "id": "5107",
@@ -275,8 +313,8 @@
       "available": 0,
       "holds": 19,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:03:21.694Z",
-      "locationsCheckedAt": "2026-11-24T23:03:25.359Z"
+      "countsCheckedAt": "2026-11-25T22:32:11.163Z",
+      "locationsCheckedAt": "2026-11-25T22:32:14.369Z"
     },
     {
       "id": "58772761",
@@ -343,8 +381,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:03:30.196Z",
-      "locationsCheckedAt": "2026-11-24T23:03:33.355Z"
+      "countsCheckedAt": "2026-11-25T22:32:20.149Z",
+      "locationsCheckedAt": "2026-11-25T22:32:23.106Z"
     },
     {
       "id": "11337",
@@ -352,10 +390,10 @@
       "status": "ok",
       "copies": 16,
       "available": 0,
-      "holds": 26,
+      "holds": 25,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:03:38.095Z",
-      "locationsCheckedAt": "2026-11-24T23:03:41.100Z"
+      "countsCheckedAt": "2026-11-25T22:32:27.723Z",
+      "locationsCheckedAt": "2026-11-25T22:32:30.821Z"
     },
     {
       "id": "4406",
@@ -363,10 +401,10 @@
       "status": "ok",
       "copies": 49,
       "available": 0,
-      "holds": 218,
+      "holds": 217,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:03:46.048Z",
-      "locationsCheckedAt": "2026-11-24T23:03:49.097Z"
+      "countsCheckedAt": "2026-11-25T22:32:35.762Z",
+      "locationsCheckedAt": "2026-11-25T22:32:38.930Z"
     },
     {
       "id": "29044",
@@ -376,22 +414,56 @@
       "available": 0,
       "holds": 127,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:03:54.007Z",
-      "locationsCheckedAt": "2026-11-24T23:03:57.395Z"
+      "countsCheckedAt": "2026-11-25T22:32:43.708Z",
+      "locationsCheckedAt": "2026-11-25T22:32:47.010Z"
     },
     {
       "id": "156538",
       "recordId": "S246C1086272",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:04:06.922Z"
+      "status": "ok",
+      "copies": 7,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Columbia Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:32:51.952Z",
+      "locationsCheckedAt": "2026-11-25T22:32:54.981Z"
     },
     {
       "id": "54814839",
       "recordId": "S246C987793",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:04:16.442Z"
+      "status": "ok",
+      "copies": 14,
+      "available": 4,
+      "holds": 2,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:32:59.869Z",
+      "locationsCheckedAt": "2026-11-25T22:33:02.899Z"
     },
     {
       "id": "59228051",
@@ -426,8 +498,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:04:21.265Z",
-      "locationsCheckedAt": "2026-11-24T23:04:24.623Z"
+      "countsCheckedAt": "2026-11-25T22:33:07.628Z",
+      "locationsCheckedAt": "2026-11-25T22:33:10.471Z"
     },
     {
       "id": "168668",
@@ -435,24 +507,50 @@
       "status": "ok",
       "copies": 3,
       "available": 0,
-      "holds": 22,
+      "holds": 24,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:04:29.390Z",
-      "locationsCheckedAt": "2026-11-24T23:04:32.760Z"
+      "countsCheckedAt": "2026-11-25T22:33:15.106Z",
+      "locationsCheckedAt": "2026-11-25T22:33:18.419Z"
     },
     {
       "id": "39927096",
       "recordId": "S246C723610",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:04:42.467Z"
+      "status": "ok",
+      "copies": 15,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Magnolia Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:33:23.277Z",
+      "locationsCheckedAt": "2026-11-25T22:33:26.297Z"
     },
     {
       "id": "56930703",
       "recordId": "S246C985427",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:04:52.095Z"
+      "status": "ok",
+      "copies": 2,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:33:31.059Z",
+      "locationsCheckedAt": "2026-11-25T22:33:34.225Z"
     },
     {
       "id": "37781",
@@ -462,8 +560,8 @@
       "available": 0,
       "holds": 0,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:04:56.947Z",
-      "locationsCheckedAt": "2026-11-24T23:05:00.077Z"
+      "countsCheckedAt": "2026-11-25T22:33:38.905Z",
+      "locationsCheckedAt": "2026-11-25T22:33:41.787Z"
     },
     {
       "id": "33917",
@@ -473,8 +571,8 @@
       "available": 0,
       "holds": 3,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:05:04.968Z",
-      "locationsCheckedAt": "2026-11-24T23:05:08.310Z"
+      "countsCheckedAt": "2026-11-25T22:33:47.090Z",
+      "locationsCheckedAt": "2026-11-25T22:33:50.470Z"
     },
     {
       "id": "14942",
@@ -484,15 +582,40 @@
       "available": 0,
       "holds": 4,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:05:14.268Z",
-      "locationsCheckedAt": "2026-11-24T23:05:17.414Z"
+      "countsCheckedAt": "2026-11-25T22:33:55.519Z",
+      "locationsCheckedAt": "2026-11-25T22:33:58.417Z"
     },
     {
       "id": "58284121",
       "recordId": "S246C1049256",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:05:28.272Z"
+      "status": "ok",
+      "copies": 6,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:34:03.300Z",
+      "locationsCheckedAt": "2026-11-25T22:34:05.825Z"
     },
     {
       "id": "58311285",
@@ -507,8 +630,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:05:33.914Z",
-      "locationsCheckedAt": "2026-11-24T23:05:37.480Z"
+      "countsCheckedAt": "2026-11-25T22:34:10.371Z",
+      "locationsCheckedAt": "2026-11-25T22:34:13.266Z"
     },
     {
       "id": "60097452",
@@ -535,8 +658,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:05:42.822Z",
-      "locationsCheckedAt": "2026-11-24T23:05:47.381Z"
+      "countsCheckedAt": "2026-11-25T22:34:18.189Z",
+      "locationsCheckedAt": "2026-11-25T22:34:21.119Z"
     },
     {
       "id": "59387726",
@@ -551,8 +674,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:06:00.741Z",
-      "locationsCheckedAt": "2026-11-24T23:06:04.859Z"
+      "countsCheckedAt": "2026-11-25T22:34:25.716Z",
+      "locationsCheckedAt": "2026-11-25T22:34:28.722Z"
     },
     {
       "id": "53414230",
@@ -567,8 +690,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:06:09.330Z",
-      "locationsCheckedAt": "2026-11-24T23:06:13.457Z"
+      "countsCheckedAt": "2026-11-25T22:34:33.299Z",
+      "locationsCheckedAt": "2026-11-25T22:34:36.359Z"
     },
     {
       "id": "55648820",
@@ -619,8 +742,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:06:25.901Z",
-      "locationsCheckedAt": "2026-11-24T23:06:33.274Z"
+      "countsCheckedAt": "2026-11-25T22:34:41.301Z",
+      "locationsCheckedAt": "2026-11-25T22:34:44.788Z"
     },
     {
       "id": "54572129",
@@ -643,8 +766,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:06:45.102Z",
-      "locationsCheckedAt": "2026-11-24T23:06:48.917Z"
+      "countsCheckedAt": "2026-11-25T22:34:49.739Z",
+      "locationsCheckedAt": "2026-11-25T22:34:52.651Z"
     },
     {
       "id": "245886309",
@@ -652,10 +775,10 @@
       "status": "ok",
       "copies": 104,
       "available": 0,
-      "holds": 694,
+      "holds": 708,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:06:56.177Z",
-      "locationsCheckedAt": "2026-11-24T23:06:59.248Z"
+      "countsCheckedAt": "2026-11-25T22:34:57.563Z",
+      "locationsCheckedAt": "2026-11-25T22:35:00.649Z"
     },
     {
       "id": "218359661",
@@ -686,23 +809,40 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:07:07.336Z",
-      "locationsCheckedAt": "2026-11-24T23:07:10.364Z"
+      "countsCheckedAt": "2026-11-25T22:35:05.586Z",
+      "locationsCheckedAt": "2026-11-25T22:35:08.510Z"
     },
     {
       "id": "222376906",
       "recordId": "S246C1283571",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:07:20.047Z"
+      "status": "ok",
+      "copies": 13,
+      "available": 3,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:35:13.542Z",
+      "locationsCheckedAt": "2026-11-25T22:35:17.690Z"
     },
     {
       "id": "240019879",
       "recordId": "S246C1331211",
       "status": "ok",
       "copies": 58,
-      "available": 20,
-      "holds": 2,
+      "available": 21,
+      "holds": 3,
       "availableCopies": [
         {
           "location": "Ballard Branch",
@@ -717,15 +857,11 @@
           "status": "In"
         },
         {
-          "location": "Central Library",
+          "location": "Columbia Branch",
           "status": "In"
         },
         {
-          "location": "Central Library",
-          "status": "In"
-        },
-        {
-          "location": "Douglass-Truth Branch",
+          "location": "Green Lake Branch",
           "status": "In"
         },
         {
@@ -742,6 +878,14 @@
         },
         {
           "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Montlake Branch",
           "status": "In"
         },
         {
@@ -785,8 +929,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:07:26.063Z",
-      "locationsCheckedAt": "2026-11-24T23:07:29.277Z"
+      "countsCheckedAt": "2026-11-25T22:35:24.081Z",
+      "locationsCheckedAt": "2026-11-25T22:35:27.101Z"
     },
     {
       "id": "235260861",
@@ -794,24 +938,62 @@
       "status": "ok",
       "copies": 77,
       "available": 0,
-      "holds": 311,
+      "holds": 315,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:07:35.410Z",
-      "locationsCheckedAt": "2026-11-24T23:07:38.944Z"
+      "countsCheckedAt": "2026-11-25T22:35:32.750Z",
+      "locationsCheckedAt": "2026-11-25T22:35:35.870Z"
     },
     {
       "id": "243042918",
       "recordId": "S246C1347745",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:07:49.214Z"
+      "status": "ok",
+      "copies": 7,
+      "available": 4,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:35:41.200Z",
+      "locationsCheckedAt": "2026-11-25T22:35:44.166Z"
     },
     {
       "id": "234943561",
       "recordId": "S246C1312396",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:07:58.951Z"
+      "status": "ok",
+      "copies": 10,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:35:49.125Z",
+      "locationsCheckedAt": "2026-11-25T22:35:51.912Z"
     },
     {
       "id": "17841",
@@ -819,10 +1001,10 @@
       "status": "ok",
       "copies": 3,
       "available": 0,
-      "holds": 0,
+      "holds": 2,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:08:04.339Z",
-      "locationsCheckedAt": "2026-11-24T23:08:07.481Z"
+      "countsCheckedAt": "2026-11-25T22:35:56.904Z",
+      "locationsCheckedAt": "2026-11-25T22:36:00.114Z"
     },
     {
       "id": "221490953",
@@ -832,8 +1014,8 @@
       "available": 0,
       "holds": 4,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:08:12.326Z",
-      "locationsCheckedAt": "2026-11-24T23:08:15.710Z"
+      "countsCheckedAt": "2026-11-25T22:36:04.992Z",
+      "locationsCheckedAt": "2026-11-25T22:36:08.376Z"
     },
     {
       "id": "243502731",
@@ -843,8 +1025,8 @@
       "available": 0,
       "holds": 0,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:08:20.797Z",
-      "locationsCheckedAt": "2026-11-24T23:08:23.984Z"
+      "countsCheckedAt": "2026-11-25T22:36:13.314Z",
+      "locationsCheckedAt": "2026-11-25T22:36:16.259Z"
     },
     {
       "id": "218569830",
@@ -863,8 +1045,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:08:28.860Z",
-      "locationsCheckedAt": "2026-11-24T23:08:31.964Z"
+      "countsCheckedAt": "2026-11-25T22:36:21.933Z",
+      "locationsCheckedAt": "2026-11-25T22:36:26.427Z"
     },
     {
       "id": "231127175",
@@ -872,10 +1054,10 @@
       "status": "ok",
       "copies": 35,
       "available": 0,
-      "holds": 66,
+      "holds": 76,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:08:36.852Z",
-      "locationsCheckedAt": "2026-11-24T23:08:40.038Z"
+      "countsCheckedAt": "2026-11-25T22:36:31.518Z",
+      "locationsCheckedAt": "2026-11-25T22:36:34.406Z"
     },
     {
       "id": "243596291",
@@ -883,10 +1065,10 @@
       "status": "ok",
       "copies": 11,
       "available": 0,
-      "holds": 231,
+      "holds": 233,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:08:44.829Z",
-      "locationsCheckedAt": "2026-11-24T23:08:47.991Z"
+      "countsCheckedAt": "2026-11-25T22:36:39.193Z",
+      "locationsCheckedAt": "2026-11-25T22:36:42.705Z"
     },
     {
       "id": "586852",
@@ -894,10 +1076,10 @@
       "status": "ok",
       "copies": 9,
       "available": 0,
-      "holds": 12,
+      "holds": 13,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:08:52.911Z",
-      "locationsCheckedAt": "2026-11-24T23:08:56.719Z"
+      "countsCheckedAt": "2026-11-25T22:36:47.480Z",
+      "locationsCheckedAt": "2026-11-25T22:36:51.044Z"
     },
     {
       "id": "62039176",
@@ -928,31 +1110,27 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:09:01.567Z",
-      "locationsCheckedAt": "2026-11-24T23:09:04.673Z"
+      "countsCheckedAt": "2026-11-25T22:36:55.969Z",
+      "locationsCheckedAt": "2026-11-25T22:36:58.964Z"
     },
     {
       "id": "238226942",
       "recordId": "S246C1319981",
       "status": "ok",
-      "copies": 473,
-      "available": 9,
-      "holds": 214,
+      "copies": 474,
+      "available": 13,
+      "holds": 198,
       "availableCopies": [
         {
           "location": "Ballard Branch",
           "status": "In"
         },
         {
-          "location": "Ballard Branch",
+          "location": "Douglass-Truth Branch",
           "status": "In"
         },
         {
-          "location": "Beacon Hill Branch",
-          "status": "In"
-        },
-        {
-          "location": "International District/Chinatown Branch",
+          "location": "Greenwood Branch",
           "status": "In"
         },
         {
@@ -960,7 +1138,7 @@
           "status": "In"
         },
         {
-          "location": "Magnolia Branch",
+          "location": "International District/Chinatown Branch",
           "status": "In"
         },
         {
@@ -972,12 +1150,32 @@
           "status": "In"
         },
         {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
           "location": "South Park Branch",
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:09:10.327Z",
-      "locationsCheckedAt": "2026-11-24T23:09:13.616Z"
+      "countsCheckedAt": "2026-11-25T22:37:05.363Z",
+      "locationsCheckedAt": "2026-11-25T22:37:08.710Z"
     },
     {
       "id": "56269278",
@@ -985,18 +1183,18 @@
       "status": "ok",
       "copies": 6,
       "available": 0,
-      "holds": 18,
+      "holds": 17,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:09:18.694Z",
-      "locationsCheckedAt": "2026-11-24T23:09:22.252Z"
+      "countsCheckedAt": "2026-11-25T22:37:13.824Z",
+      "locationsCheckedAt": "2026-11-25T22:37:17.250Z"
     },
     {
       "id": "208580627",
       "recordId": "S246C1223547",
       "status": "ok",
       "copies": 11,
-      "available": 6,
-      "holds": 0,
+      "available": 5,
+      "holds": 2,
       "availableCopies": [
         {
           "location": "Broadview Branch",
@@ -1011,10 +1209,6 @@
           "status": "In"
         },
         {
-          "location": "Northeast Branch",
-          "status": "In"
-        },
-        {
           "location": "Queen Anne Branch",
           "status": "In"
         },
@@ -1023,15 +1217,15 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:09:27.653Z",
-      "locationsCheckedAt": "2026-11-24T23:09:30.708Z"
+      "countsCheckedAt": "2026-11-25T22:37:22.276Z",
+      "locationsCheckedAt": "2026-11-25T22:37:25.384Z"
     },
     {
       "id": "242678102",
       "recordId": "S246C1329624",
       "status": "ok",
-      "copies": 64,
-      "available": 27,
+      "copies": 61,
+      "available": 29,
       "holds": 0,
       "availableCopies": [
         {
@@ -1116,7 +1310,7 @@
         },
         {
           "location": "Queen Anne Branch",
-          "status": "In"
+          "status": "Not yet shelved"
         },
         {
           "location": "Queen Anne Branch",
@@ -1128,6 +1322,14 @@
         },
         {
           "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
           "status": "In"
         },
         {
@@ -1143,8 +1345,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:09:35.968Z",
-      "locationsCheckedAt": "2026-11-24T23:09:38.989Z"
+      "countsCheckedAt": "2026-11-25T22:37:30.947Z",
+      "locationsCheckedAt": "2026-11-25T22:37:34.507Z"
     },
     {
       "id": "239151029",
@@ -1175,8 +1377,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:09:44.432Z",
-      "locationsCheckedAt": "2026-11-24T23:09:47.566Z"
+      "countsCheckedAt": "2026-11-25T22:37:39.740Z",
+      "locationsCheckedAt": "2026-11-25T22:37:43.332Z"
     },
     {
       "id": "236772855",
@@ -1215,23 +1417,36 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:09:53.070Z",
-      "locationsCheckedAt": "2026-11-24T23:09:56.453Z"
+      "countsCheckedAt": "2026-11-25T22:37:49.118Z",
+      "locationsCheckedAt": "2026-11-25T22:37:52.077Z"
     },
     {
       "id": "232206245",
       "recordId": "S246C1313416",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:10:06.188Z"
+      "status": "ok",
+      "copies": 8,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Greenwood Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:37:56.998Z",
+      "locationsCheckedAt": "2026-11-25T22:37:59.970Z"
     },
     {
       "id": "241126782",
       "recordId": "S246C1331170",
       "status": "ok",
-      "copies": 273,
-      "available": 17,
-      "holds": 231,
+      "copies": 272,
+      "available": 12,
+      "holds": 226,
       "availableCopies": [
         {
           "location": "Ballard Branch",
@@ -1242,19 +1457,15 @@
           "status": "In"
         },
         {
-          "location": "Ballard Branch",
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
           "status": "In"
         },
         {
           "location": "International District/Chinatown Branch",
-          "status": "In"
-        },
-        {
-          "location": "Lake City Branch",
-          "status": "In"
-        },
-        {
-          "location": "Lake City Branch",
           "status": "In"
         },
         {
@@ -1274,15 +1485,7 @@
           "status": "In"
         },
         {
-          "location": "Northeast Branch",
-          "status": "In"
-        },
-        {
           "location": "Northgate Branch",
-          "status": "In"
-        },
-        {
-          "location": "Queen Anne Branch",
           "status": "In"
         },
         {
@@ -1292,18 +1495,10 @@
         {
           "location": "South Park Branch",
           "status": "In"
-        },
-        {
-          "location": "Southwest Branch",
-          "status": "In"
-        },
-        {
-          "location": "Wallingford Branch",
-          "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:10:12.123Z",
-      "locationsCheckedAt": "2026-11-24T23:10:15.912Z"
+      "countsCheckedAt": "2026-11-25T22:38:05.774Z",
+      "locationsCheckedAt": "2026-11-25T22:38:09.500Z"
     },
     {
       "id": "58416952",
@@ -1311,10 +1506,10 @@
       "status": "ok",
       "copies": 23,
       "available": 0,
-      "holds": 29,
+      "holds": 25,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:10:20.857Z",
-      "locationsCheckedAt": "2026-11-24T23:10:23.993Z"
+      "countsCheckedAt": "2026-11-25T22:38:14.027Z",
+      "locationsCheckedAt": "2026-11-25T22:38:17.130Z"
     },
     {
       "id": "235629842",
@@ -1333,30 +1528,47 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:10:30.067Z",
-      "locationsCheckedAt": "2026-11-24T23:10:33.253Z"
+      "countsCheckedAt": "2026-11-25T22:38:21.720Z",
+      "locationsCheckedAt": "2026-11-25T22:38:25.096Z"
     },
     {
       "id": "235993046",
       "recordId": "S246C1320025",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:10:42.928Z"
+      "status": "ok",
+      "copies": 17,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "Not yet shelved"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:38:30.018Z",
+      "locationsCheckedAt": "2026-11-25T22:38:33.336Z"
     },
     {
       "id": "241683548",
       "recordId": "S246C1360000",
       "status": "ok",
       "copies": 206,
-      "available": 14,
-      "holds": 410,
+      "available": 10,
+      "holds": 412,
       "availableCopies": [
         {
           "location": "Ballard Branch",
           "status": "In"
         },
         {
-          "location": "Capitol Hill Branch",
+          "location": "Beacon Hill Branch",
           "status": "In"
         },
         {
@@ -1368,11 +1580,7 @@
           "status": "In"
         },
         {
-          "location": "Douglass-Truth Branch",
-          "status": "In"
-        },
-        {
-          "location": "High Point Branch",
+          "location": "Greenwood Branch",
           "status": "In"
         },
         {
@@ -1388,19 +1596,7 @@
           "status": "In"
         },
         {
-          "location": "Madrona-Sally Goldmark Branch",
-          "status": "In"
-        },
-        {
-          "location": "Magnolia Branch",
-          "status": "In"
-        },
-        {
           "location": "Mobile Services",
-          "status": "In"
-        },
-        {
-          "location": "Montlake Branch",
           "status": "In"
         },
         {
@@ -1408,17 +1604,25 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:10:48.271Z",
-      "locationsCheckedAt": "2026-11-24T23:10:52.148Z"
+      "countsCheckedAt": "2026-11-25T22:38:39.427Z",
+      "locationsCheckedAt": "2026-11-25T22:38:42.581Z"
     },
     {
       "id": "233717212",
       "recordId": "S246C1312381",
       "status": "ok",
       "copies": 26,
-      "available": 3,
-      "holds": 1,
+      "available": 6,
+      "holds": 0,
       "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "Not yet shelved"
+        },
         {
           "location": "Greenwood Branch",
           "status": "In"
@@ -1430,10 +1634,14 @@
         {
           "location": "Rainier Beach Branch",
           "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "Not yet shelved"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:10:56.891Z",
-      "locationsCheckedAt": "2026-11-24T23:11:00.165Z"
+      "countsCheckedAt": "2026-11-25T22:38:47.224Z",
+      "locationsCheckedAt": "2026-11-25T22:38:50.211Z"
     },
     {
       "id": "208840291",
@@ -1441,10 +1649,10 @@
       "status": "ok",
       "copies": 36,
       "available": 0,
-      "holds": 10,
+      "holds": 9,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:11:04.737Z",
-      "locationsCheckedAt": "2026-11-24T23:11:07.730Z"
+      "countsCheckedAt": "2026-11-25T22:38:54.947Z",
+      "locationsCheckedAt": "2026-11-25T22:38:57.962Z"
     },
     {
       "id": "222376536",
@@ -1471,8 +1679,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:11:12.304Z",
-      "locationsCheckedAt": "2026-11-24T23:11:15.588Z"
+      "countsCheckedAt": "2026-11-25T22:39:02.645Z",
+      "locationsCheckedAt": "2026-11-25T22:39:05.513Z"
     },
     {
       "id": "226743876",
@@ -1511,22 +1719,52 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:11:20.513Z",
-      "locationsCheckedAt": "2026-11-24T23:11:24.118Z"
+      "countsCheckedAt": "2026-11-25T22:39:10.037Z",
+      "locationsCheckedAt": "2026-11-25T22:39:13.180Z"
     },
     {
       "id": "231299870",
       "recordId": "S246C1290084",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:11:34.122Z"
+      "status": "ok",
+      "copies": 4,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:39:18.371Z",
+      "locationsCheckedAt": "2026-11-25T22:39:23.058Z"
     },
     {
       "id": "18952341",
       "recordId": "S246C861141",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:11:43.533Z"
+      "status": "ok",
+      "copies": 5,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:39:27.724Z",
+      "locationsCheckedAt": "2026-11-25T22:39:30.750Z"
     },
     {
       "id": "58908440",
@@ -1545,8 +1783,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:11:48.011Z",
-      "locationsCheckedAt": "2026-11-24T23:11:50.984Z"
+      "countsCheckedAt": "2026-11-25T22:39:35.657Z",
+      "locationsCheckedAt": "2026-11-25T22:39:39.547Z"
     },
     {
       "id": "228953449",
@@ -1573,8 +1811,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:11:56.635Z",
-      "locationsCheckedAt": "2026-11-24T23:11:59.924Z"
+      "countsCheckedAt": "2026-11-25T22:39:44.405Z",
+      "locationsCheckedAt": "2026-11-25T22:39:47.258Z"
     },
     {
       "id": "215805843",
@@ -1609,8 +1847,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:12:05.006Z",
-      "locationsCheckedAt": "2026-11-24T23:12:09.358Z"
+      "countsCheckedAt": "2026-11-25T22:39:52.240Z",
+      "locationsCheckedAt": "2026-11-25T22:39:55.125Z"
     },
     {
       "id": "42121525",
@@ -1620,15 +1858,15 @@
       "available": 0,
       "holds": 7,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:12:14.825Z",
-      "locationsCheckedAt": "2026-11-24T23:12:18.825Z"
+      "countsCheckedAt": "2026-11-25T22:39:59.960Z",
+      "locationsCheckedAt": "2026-11-25T22:40:02.997Z"
     },
     {
       "id": "218569826",
       "recordId": "S246C1246127",
       "status": "ok",
       "copies": 38,
-      "available": 12,
+      "available": 15,
       "holds": 0,
       "availableCopies": [
         {
@@ -1644,6 +1882,14 @@
           "status": "In"
         },
         {
+          "location": "Beacon Hill Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "Not yet shelved"
+        },
+        {
           "location": "Lake City Branch",
           "status": "In"
         },
@@ -1654,6 +1900,10 @@
         {
           "location": "NewHolly Branch",
           "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "Not yet shelved"
         },
         {
           "location": "Northgate Branch",
@@ -1680,8 +1930,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:12:23.775Z",
-      "locationsCheckedAt": "2026-11-24T23:12:27.374Z"
+      "countsCheckedAt": "2026-11-25T22:40:08.113Z",
+      "locationsCheckedAt": "2026-11-25T22:40:11.332Z"
     },
     {
       "id": "214152211",
@@ -1691,8 +1941,8 @@
       "available": 0,
       "holds": 86,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:12:32.179Z",
-      "locationsCheckedAt": "2026-11-24T23:12:35.794Z"
+      "countsCheckedAt": "2026-11-25T22:40:16.279Z",
+      "locationsCheckedAt": "2026-11-25T22:40:19.191Z"
     },
     {
       "id": "58730649",
@@ -1702,8 +1952,8 @@
       "available": 0,
       "holds": 11,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:12:41.843Z",
-      "locationsCheckedAt": "2026-11-24T23:12:44.927Z"
+      "countsCheckedAt": "2026-11-25T22:40:24.080Z",
+      "locationsCheckedAt": "2026-11-25T22:40:26.653Z"
     },
     {
       "id": "59127770",
@@ -1713,17 +1963,21 @@
       "available": 0,
       "holds": 0,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:12:49.937Z",
-      "locationsCheckedAt": "2026-11-24T23:12:53.956Z"
+      "countsCheckedAt": "2026-11-25T22:40:31.384Z",
+      "locationsCheckedAt": "2026-11-25T22:40:34.399Z"
     },
     {
       "id": "222658339",
       "recordId": "S246C1278648",
       "status": "ok",
       "copies": 37,
-      "available": 26,
+      "available": 27,
       "holds": 0,
       "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "Not yet shelved"
+        },
         {
           "location": "Ballard Branch",
           "status": "In"
@@ -1829,15 +2083,32 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:12:59.089Z",
-      "locationsCheckedAt": "2026-11-24T23:13:04.201Z"
+      "countsCheckedAt": "2026-11-25T22:40:38.937Z",
+      "locationsCheckedAt": "2026-11-25T22:40:41.857Z"
     },
     {
       "id": "197108968",
       "recordId": "S246C1205139",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:13:14.240Z"
+      "status": "ok",
+      "copies": 6,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:40:46.455Z",
+      "locationsCheckedAt": "2026-11-25T22:40:49.677Z"
     },
     {
       "id": "211934958",
@@ -1876,8 +2147,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:13:19.912Z",
-      "locationsCheckedAt": "2026-11-24T23:13:23.316Z"
+      "countsCheckedAt": "2026-11-25T22:40:54.460Z",
+      "locationsCheckedAt": "2026-11-25T22:40:57.463Z"
     },
     {
       "id": "17934530",
@@ -1887,8 +2158,8 @@
       "available": 0,
       "holds": 0,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:13:27.937Z",
-      "locationsCheckedAt": "2026-11-24T23:13:31.693Z"
+      "countsCheckedAt": "2026-11-25T22:41:02.946Z",
+      "locationsCheckedAt": "2026-11-25T22:41:06.123Z"
     },
     {
       "id": "197055873",
@@ -1898,8 +2169,8 @@
       "available": 0,
       "holds": 0,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:13:36.632Z",
-      "locationsCheckedAt": "2026-11-24T23:13:39.669Z"
+      "countsCheckedAt": "2026-11-25T22:41:10.710Z",
+      "locationsCheckedAt": "2026-11-25T22:41:13.712Z"
     },
     {
       "id": "216488999",
@@ -1907,10 +2178,10 @@
       "status": "ok",
       "copies": 10,
       "available": 0,
-      "holds": 3,
+      "holds": 4,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:13:44.848Z",
-      "locationsCheckedAt": "2026-11-24T23:13:48.266Z"
+      "countsCheckedAt": "2026-11-25T22:41:18.398Z",
+      "locationsCheckedAt": "2026-11-25T22:41:22.037Z"
     },
     {
       "id": "211004841",
@@ -1941,8 +2212,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:13:53.534Z",
-      "locationsCheckedAt": "2026-11-24T23:13:56.733Z"
+      "countsCheckedAt": "2026-11-25T22:41:27.158Z",
+      "locationsCheckedAt": "2026-11-25T22:41:30.061Z"
     },
     {
       "id": "211953309",
@@ -1973,8 +2244,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:14:01.853Z",
-      "locationsCheckedAt": "2026-11-24T23:14:04.852Z"
+      "countsCheckedAt": "2026-11-25T22:41:35.112Z",
+      "locationsCheckedAt": "2026-11-25T22:41:38.039Z"
     },
     {
       "id": "256008",
@@ -1982,22 +2253,26 @@
       "status": "ok",
       "copies": 20,
       "available": 0,
-      "holds": 85,
+      "holds": 88,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:14:10.130Z",
-      "locationsCheckedAt": "2026-11-24T23:14:13.328Z"
+      "countsCheckedAt": "2026-11-25T22:41:42.715Z",
+      "locationsCheckedAt": "2026-11-25T22:41:45.791Z"
     },
     {
       "id": "52579213",
       "recordId": "S246C939284",
       "status": "ok",
       "copies": 5,
-      "available": 4,
+      "available": 5,
       "holds": 0,
       "availableCopies": [
         {
           "location": "Ballard Branch",
           "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "Not yet shelved"
         },
         {
           "location": "Central Library",
@@ -2012,8 +2287,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:14:18.109Z",
-      "locationsCheckedAt": "2026-11-24T23:14:21.254Z"
+      "countsCheckedAt": "2026-11-25T22:41:50.614Z",
+      "locationsCheckedAt": "2026-11-25T22:41:53.512Z"
     },
     {
       "id": "13586980",
@@ -2023,15 +2298,15 @@
       "available": 0,
       "holds": 0,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:14:26.815Z",
-      "locationsCheckedAt": "2026-11-24T23:14:29.727Z"
+      "countsCheckedAt": "2026-11-25T22:41:58.745Z",
+      "locationsCheckedAt": "2026-11-25T22:42:01.707Z"
     },
     {
       "id": "775985",
       "recordId": "S246C460651",
       "status": "ok",
       "copies": 5,
-      "available": 2,
+      "available": 3,
       "holds": 0,
       "availableCopies": [
         {
@@ -2039,12 +2314,16 @@
           "status": "In"
         },
         {
+          "location": "Northeast Branch",
+          "status": "Not yet shelved"
+        },
+        {
           "location": "Rainier Beach Branch",
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:14:35.121Z",
-      "locationsCheckedAt": "2026-11-24T23:14:38.267Z"
+      "countsCheckedAt": "2026-11-25T22:42:06.484Z",
+      "locationsCheckedAt": "2026-11-25T22:42:09.815Z"
     },
     {
       "id": "40915764",
@@ -2059,19 +2338,24 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:14:43.152Z",
-      "locationsCheckedAt": "2026-11-24T23:14:46.587Z"
+      "countsCheckedAt": "2026-11-25T22:42:14.551Z",
+      "locationsCheckedAt": "2026-11-25T22:42:18.143Z"
     },
     {
       "id": "208430658",
       "recordId": "S246C1220418",
       "status": "ok",
       "copies": 12,
-      "available": 0,
-      "holds": 1,
-      "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:14:51.479Z",
-      "locationsCheckedAt": "2026-11-24T23:14:54.609Z"
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Green Lake Branch",
+          "status": "Not yet shelved"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:42:22.857Z",
+      "locationsCheckedAt": "2026-11-25T22:42:26.073Z"
     },
     {
       "id": "40180098",
@@ -2079,24 +2363,37 @@
       "status": "ok",
       "copies": 19,
       "available": 0,
-      "holds": 6,
+      "holds": 5,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:14:59.428Z",
-      "locationsCheckedAt": "2026-11-24T23:15:02.592Z"
+      "countsCheckedAt": "2026-11-25T22:42:31.049Z",
+      "locationsCheckedAt": "2026-11-25T22:42:34.371Z"
     },
     {
       "id": "43412959",
       "recordId": "S246C894779",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:15:13.722Z"
+      "status": "ok",
+      "copies": 3,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:42:39.103Z",
+      "locationsCheckedAt": "2026-11-25T22:42:41.695Z"
     },
     {
       "id": "210223811",
       "recordId": "S246C1269794",
       "status": "ok",
       "copies": 55,
-      "available": 9,
+      "available": 11,
       "holds": 0,
       "availableCopies": [
         {
@@ -2132,12 +2429,20 @@
           "status": "In"
         },
         {
+          "location": "Southwest Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Technical and Collection Services",
+          "status": "Not yet shelved"
+        },
+        {
           "location": "Technical and Collection Services",
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:15:19.047Z",
-      "locationsCheckedAt": "2026-11-24T23:15:22.136Z"
+      "countsCheckedAt": "2026-11-25T22:42:46.628Z",
+      "locationsCheckedAt": "2026-11-25T22:42:49.581Z"
     },
     {
       "id": "204169220",
@@ -2164,8 +2469,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:15:26.922Z",
-      "locationsCheckedAt": "2026-11-24T23:15:30.270Z"
+      "countsCheckedAt": "2026-11-25T22:42:54.684Z",
+      "locationsCheckedAt": "2026-11-25T22:42:58.280Z"
     },
     {
       "id": "199798813",
@@ -2188,8 +2493,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:15:35.251Z",
-      "locationsCheckedAt": "2026-11-24T23:15:38.414Z"
+      "countsCheckedAt": "2026-11-25T22:43:03.825Z",
+      "locationsCheckedAt": "2026-11-25T22:43:06.856Z"
     },
     {
       "id": "201751300",
@@ -2228,8 +2533,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:15:43.129Z",
-      "locationsCheckedAt": "2026-11-24T23:15:46.324Z"
+      "countsCheckedAt": "2026-11-25T22:43:11.702Z",
+      "locationsCheckedAt": "2026-11-25T22:43:15.004Z"
     },
     {
       "id": "3985",
@@ -2239,22 +2544,43 @@
       "available": 0,
       "holds": 1,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:15:51.032Z",
-      "locationsCheckedAt": "2026-11-24T23:15:53.982Z"
+      "countsCheckedAt": "2026-11-25T22:43:20.181Z",
+      "locationsCheckedAt": "2026-11-25T22:43:25.281Z"
     },
     {
       "id": "182733784",
       "recordId": "S246C1164248",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:16:04.202Z"
+      "status": "ok",
+      "copies": 16,
+      "available": 4,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Delridge Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:43:30.148Z",
+      "locationsCheckedAt": "2026-11-25T22:43:34.222Z"
     },
     {
       "id": "208584952",
       "recordId": "S246C1217774",
       "status": "ok",
       "copies": 24,
-      "available": 19,
+      "available": 20,
       "holds": 0,
       "availableCopies": [
         {
@@ -2298,6 +2624,10 @@
           "status": "In"
         },
         {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "Not yet shelved"
+        },
+        {
           "location": "Magnolia Branch",
           "status": "In"
         },
@@ -2334,8 +2664,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:16:08.966Z",
-      "locationsCheckedAt": "2026-11-24T23:16:12.107Z"
+      "countsCheckedAt": "2026-11-25T22:43:39.375Z",
+      "locationsCheckedAt": "2026-11-25T22:43:42.449Z"
     },
     {
       "id": "14891",
@@ -2343,10 +2673,10 @@
       "status": "ok",
       "copies": 6,
       "available": 0,
-      "holds": 24,
+      "holds": 25,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:16:18.289Z",
-      "locationsCheckedAt": "2026-11-24T23:16:21.910Z"
+      "countsCheckedAt": "2026-11-25T22:43:47.055Z",
+      "locationsCheckedAt": "2026-11-25T22:43:50.046Z"
     },
     {
       "id": "195790789",
@@ -2385,8 +2715,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:16:26.726Z",
-      "locationsCheckedAt": "2026-11-24T23:16:31.209Z"
+      "countsCheckedAt": "2026-11-25T22:43:54.801Z",
+      "locationsCheckedAt": "2026-11-25T22:43:57.698Z"
     },
     {
       "id": "55868456",
@@ -2394,10 +2724,10 @@
       "status": "ok",
       "copies": 7,
       "available": 0,
-      "holds": 2,
+      "holds": 1,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:16:36.519Z",
-      "locationsCheckedAt": "2026-11-24T23:16:39.485Z"
+      "countsCheckedAt": "2026-11-25T22:44:02.478Z",
+      "locationsCheckedAt": "2026-11-25T22:44:05.617Z"
     },
     {
       "id": "36950075",
@@ -2407,8 +2737,8 @@
       "available": 0,
       "holds": 11,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:16:45.894Z",
-      "locationsCheckedAt": "2026-11-24T23:16:49.416Z"
+      "countsCheckedAt": "2026-11-25T22:44:10.871Z",
+      "locationsCheckedAt": "2026-11-25T22:44:14.488Z"
     },
     {
       "id": "36374016",
@@ -2423,8 +2753,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:16:54.176Z",
-      "locationsCheckedAt": "2026-11-24T23:16:57.448Z"
+      "countsCheckedAt": "2026-11-25T22:44:19.648Z",
+      "locationsCheckedAt": "2026-11-25T22:44:22.546Z"
     },
     {
       "id": "55303672",
@@ -2447,8 +2777,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:17:03.300Z",
-      "locationsCheckedAt": "2026-11-24T23:17:06.549Z"
+      "countsCheckedAt": "2026-11-25T22:44:27.286Z",
+      "locationsCheckedAt": "2026-11-25T22:44:30.149Z"
     },
     {
       "id": "34927828",
@@ -2458,8 +2788,8 @@
       "available": 0,
       "holds": 37,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:17:11.654Z",
-      "locationsCheckedAt": "2026-11-24T23:17:14.772Z"
+      "countsCheckedAt": "2026-11-25T22:44:36.100Z",
+      "locationsCheckedAt": "2026-11-25T22:44:40.166Z"
     },
     {
       "id": "61423989",
@@ -2502,24 +2832,32 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:17:19.726Z",
-      "locationsCheckedAt": "2026-11-24T23:17:22.848Z"
+      "countsCheckedAt": "2026-11-25T22:44:46.926Z",
+      "locationsCheckedAt": "2026-11-25T22:44:50.655Z"
     },
     {
       "id": "18775418",
       "recordId": "S246C608929",
       "status": "ok",
       "copies": 3,
-      "available": 1,
+      "available": 3,
       "holds": 0,
       "availableCopies": [
         {
           "location": "Central Library",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:17:27.933Z",
-      "locationsCheckedAt": "2026-11-24T23:17:31.118Z"
+      "countsCheckedAt": "2026-11-25T22:44:56.076Z",
+      "locationsCheckedAt": "2026-11-25T22:44:58.972Z"
     },
     {
       "id": "45046690",
@@ -2554,15 +2892,28 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:17:36.075Z",
-      "locationsCheckedAt": "2026-11-24T23:17:39.398Z"
+      "countsCheckedAt": "2026-11-25T22:45:03.699Z",
+      "locationsCheckedAt": "2026-11-25T22:45:06.841Z"
     },
     {
       "id": "40538681",
       "recordId": "S246C833883",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:17:49.215Z"
+      "status": "ok",
+      "copies": 7,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "Not yet shelved"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:45:11.916Z",
+      "locationsCheckedAt": "2026-11-25T22:45:15.148Z"
     },
     {
       "id": "8171378",
@@ -2572,8 +2923,8 @@
       "available": 0,
       "holds": 0,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:17:54.037Z",
-      "locationsCheckedAt": "2026-11-24T23:17:57.328Z"
+      "countsCheckedAt": "2026-11-25T22:45:20.124Z",
+      "locationsCheckedAt": "2026-11-25T22:45:23.461Z"
     },
     {
       "id": "62790909",
@@ -2592,8 +2943,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:18:02.009Z",
-      "locationsCheckedAt": "2026-11-24T23:18:05.134Z"
+      "countsCheckedAt": "2026-11-25T22:45:28.774Z",
+      "locationsCheckedAt": "2026-11-25T22:45:32.013Z"
     },
     {
       "id": "22245334",
@@ -2612,8 +2963,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:18:10.030Z",
-      "locationsCheckedAt": "2026-11-24T23:18:13.199Z"
+      "countsCheckedAt": "2026-11-25T22:45:37.182Z",
+      "locationsCheckedAt": "2026-11-25T22:45:40.358Z"
     },
     {
       "id": "392563",
@@ -2632,8 +2983,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:18:18.056Z",
-      "locationsCheckedAt": "2026-11-24T23:18:21.401Z"
+      "countsCheckedAt": "2026-11-25T22:45:45.299Z",
+      "locationsCheckedAt": "2026-11-25T22:45:48.736Z"
     },
     {
       "id": "29635590",
@@ -2652,15 +3003,15 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:18:26.215Z",
-      "locationsCheckedAt": "2026-11-24T23:18:29.362Z"
+      "countsCheckedAt": "2026-11-25T22:45:53.508Z",
+      "locationsCheckedAt": "2026-11-25T22:45:56.732Z"
     },
     {
       "id": "198276006",
       "recordId": "S246C1175619",
       "status": "ok",
       "copies": 22,
-      "available": 14,
+      "available": 13,
       "holds": 0,
       "availableCopies": [
         {
@@ -2708,10 +3059,6 @@
           "status": "In"
         },
         {
-          "location": "Northgate Branch",
-          "status": "In"
-        },
-        {
           "location": "South Park Branch",
           "status": "In"
         },
@@ -2720,8 +3067,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:18:34.770Z",
-      "locationsCheckedAt": "2026-11-24T23:18:37.922Z"
+      "countsCheckedAt": "2026-11-25T22:46:01.549Z",
+      "locationsCheckedAt": "2026-11-25T22:46:05.108Z"
     },
     {
       "id": "62929342",
@@ -2780,27 +3127,31 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:18:43.037Z",
-      "locationsCheckedAt": "2026-11-24T23:18:46.688Z"
+      "countsCheckedAt": "2026-11-25T22:46:10.042Z",
+      "locationsCheckedAt": "2026-11-25T22:46:13.504Z"
     },
     {
       "id": "173754979",
       "recordId": "S246C1169119",
       "status": "ok",
       "copies": 68,
-      "available": 9,
-      "holds": 11,
+      "available": 11,
+      "holds": 8,
       "availableCopies": [
         {
-          "location": "Central Library",
-          "status": "In"
+          "location": "Ballard Branch",
+          "status": "Not yet shelved"
         },
         {
           "location": "Central Library",
           "status": "In"
         },
         {
-          "location": "Douglass-Truth Branch",
+          "location": "Central Library",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Central Library",
           "status": "In"
         },
         {
@@ -2816,7 +3167,11 @@
           "status": "In"
         },
         {
-          "location": "Magnolia Branch",
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
           "status": "In"
         },
         {
@@ -2828,8 +3183,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:18:52.374Z",
-      "locationsCheckedAt": "2026-11-24T23:18:55.618Z"
+      "countsCheckedAt": "2026-11-25T22:46:19.856Z",
+      "locationsCheckedAt": "2026-11-25T22:46:22.422Z"
     },
     {
       "id": "62039259",
@@ -2856,22 +3211,60 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:19:01.889Z",
-      "locationsCheckedAt": "2026-11-24T23:19:05.290Z"
+      "countsCheckedAt": "2026-11-25T22:46:27.014Z",
+      "locationsCheckedAt": "2026-11-25T22:46:29.962Z"
     },
     {
       "id": "31522415",
       "recordId": "S246C714291",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:19:14.927Z"
+      "status": "ok",
+      "copies": 2,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:46:34.615Z",
+      "locationsCheckedAt": "2026-11-25T22:46:37.478Z"
     },
     {
       "id": "195177497",
       "recordId": "S246C1172458",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:19:24.600Z"
+      "status": "ok",
+      "copies": 5,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:46:42.077Z",
+      "locationsCheckedAt": "2026-11-25T22:46:44.819Z"
     },
     {
       "id": "199798179",
@@ -2879,7 +3272,7 @@
       "status": "ok",
       "copies": 46,
       "available": 6,
-      "holds": 3,
+      "holds": 2,
       "availableCopies": [
         {
           "location": "Lake City Branch",
@@ -2906,8 +3299,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:19:29.286Z",
-      "locationsCheckedAt": "2026-11-24T23:19:32.411Z"
+      "countsCheckedAt": "2026-11-25T22:46:49.793Z",
+      "locationsCheckedAt": "2026-11-25T22:46:53.218Z"
     },
     {
       "id": "50892360",
@@ -2934,8 +3327,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:19:37.991Z",
-      "locationsCheckedAt": "2026-11-24T23:19:41.491Z"
+      "countsCheckedAt": "2026-11-25T22:46:58.316Z",
+      "locationsCheckedAt": "2026-11-25T22:47:01.784Z"
     },
     {
       "id": "28251250",
@@ -2945,15 +3338,28 @@
       "available": 0,
       "holds": 1,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:19:47.331Z",
-      "locationsCheckedAt": "2026-11-24T23:19:50.510Z"
+      "countsCheckedAt": "2026-11-25T22:47:07.113Z",
+      "locationsCheckedAt": "2026-11-25T22:47:09.993Z"
     },
     {
       "id": "60784614",
       "recordId": "S246C1090011",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:19:59.956Z"
+      "status": "ok",
+      "copies": 4,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "Not yet shelved"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:47:14.440Z",
+      "locationsCheckedAt": "2026-11-25T22:47:16.836Z"
     },
     {
       "id": "63946826",
@@ -2972,8 +3378,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:20:04.803Z",
-      "locationsCheckedAt": "2026-11-24T23:20:08.020Z"
+      "countsCheckedAt": "2026-11-25T22:47:21.552Z",
+      "locationsCheckedAt": "2026-11-25T22:47:24.305Z"
     },
     {
       "id": "61966364",
@@ -3052,8 +3458,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:20:12.778Z",
-      "locationsCheckedAt": "2026-11-24T23:20:15.941Z"
+      "countsCheckedAt": "2026-11-25T22:47:28.853Z",
+      "locationsCheckedAt": "2026-11-25T22:47:31.273Z"
     },
     {
       "id": "60657589",
@@ -3063,8 +3469,8 @@
       "available": 0,
       "holds": 5,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:20:21.139Z",
-      "locationsCheckedAt": "2026-11-24T23:20:24.321Z"
+      "countsCheckedAt": "2026-11-25T22:47:35.930Z",
+      "locationsCheckedAt": "2026-11-25T22:47:38.766Z"
     },
     {
       "id": "122993405",
@@ -3119,8 +3525,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:20:28.903Z",
-      "locationsCheckedAt": "2026-11-24T23:20:32.094Z"
+      "countsCheckedAt": "2026-11-25T22:47:43.194Z",
+      "locationsCheckedAt": "2026-11-25T22:47:46.058Z"
     },
     {
       "id": "66933",
@@ -3130,15 +3536,56 @@
       "available": 0,
       "holds": 0,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:20:36.928Z",
-      "locationsCheckedAt": "2026-11-24T23:20:40.085Z"
+      "countsCheckedAt": "2026-11-25T22:47:50.797Z",
+      "locationsCheckedAt": "2026-11-25T22:47:53.135Z"
     },
     {
       "id": "59721793",
       "recordId": "S246C1084338",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:20:49.981Z"
+      "status": "ok",
+      "copies": 13,
+      "available": 9,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Delridge Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        },
+        {
+          "location": "Rainier Beach Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:47:57.783Z",
+      "locationsCheckedAt": "2026-11-25T22:48:00.613Z"
     },
     {
       "id": "71872930",
@@ -3146,10 +3593,10 @@
       "status": "ok",
       "copies": 29,
       "available": 0,
-      "holds": 35,
+      "holds": 34,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:20:55.007Z",
-      "locationsCheckedAt": "2026-11-24T23:20:58.382Z"
+      "countsCheckedAt": "2026-11-25T22:48:05.072Z",
+      "locationsCheckedAt": "2026-11-25T22:48:07.469Z"
     },
     {
       "id": "85323183",
@@ -3176,8 +3623,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:21:03.879Z",
-      "locationsCheckedAt": "2026-11-24T23:21:07.344Z"
+      "countsCheckedAt": "2026-11-25T22:48:12.262Z",
+      "locationsCheckedAt": "2026-11-25T22:48:15.061Z"
     },
     {
       "id": "61796648",
@@ -3204,8 +3651,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:21:12.303Z",
-      "locationsCheckedAt": "2026-11-24T23:21:15.367Z"
+      "countsCheckedAt": "2026-11-25T22:48:19.610Z",
+      "locationsCheckedAt": "2026-11-25T22:48:22.489Z"
     },
     {
       "id": "49878332",
@@ -3224,16 +3671,16 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:21:20.320Z",
-      "locationsCheckedAt": "2026-11-24T23:21:23.425Z"
+      "countsCheckedAt": "2026-11-25T22:48:26.927Z",
+      "locationsCheckedAt": "2026-11-25T22:48:29.364Z"
     },
     {
       "id": "65678550",
       "recordId": "S246C1125510",
       "status": "ok",
       "copies": 32,
-      "available": 9,
-      "holds": 0,
+      "available": 10,
+      "holds": 1,
       "availableCopies": [
         {
           "location": "Central Library",
@@ -3264,6 +3711,10 @@
           "status": "In"
         },
         {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
           "location": "Queen Anne Branch",
           "status": "In"
         },
@@ -3272,15 +3723,24 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:21:28.197Z",
-      "locationsCheckedAt": "2026-11-24T23:21:31.108Z"
+      "countsCheckedAt": "2026-11-25T22:48:33.916Z",
+      "locationsCheckedAt": "2026-11-25T22:48:36.210Z"
     },
     {
       "id": "31670196",
       "recordId": "S246C728038",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:21:40.751Z"
+      "status": "ok",
+      "copies": 4,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Montlake Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:48:40.710Z",
+      "locationsCheckedAt": "2026-11-25T22:48:43.469Z"
     },
     {
       "id": "38474",
@@ -3290,17 +3750,21 @@
       "available": 0,
       "holds": 6,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:21:45.472Z",
-      "locationsCheckedAt": "2026-11-24T23:21:48.538Z"
+      "countsCheckedAt": "2026-11-25T22:48:48.116Z",
+      "locationsCheckedAt": "2026-11-25T22:48:50.918Z"
     },
     {
       "id": "61399138",
       "recordId": "S246C1115499",
       "status": "ok",
       "copies": 5,
-      "available": 4,
+      "available": 5,
       "holds": 0,
       "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "Not yet shelved"
+        },
         {
           "location": "Central Library",
           "status": "In"
@@ -3318,19 +3782,28 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:21:53.283Z",
-      "locationsCheckedAt": "2026-11-24T23:21:56.347Z"
+      "countsCheckedAt": "2026-11-25T22:48:55.546Z",
+      "locationsCheckedAt": "2026-11-25T22:48:58.440Z"
     },
     {
       "id": "62926938",
       "recordId": "S246C1128939",
       "status": "ok",
-      "copies": 10,
-      "available": 0,
-      "holds": 1,
-      "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:22:01.016Z",
-      "locationsCheckedAt": "2026-11-24T23:22:04.014Z"
+      "copies": 9,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Montlake Branch",
+          "status": "Not yet shelved"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:49:02.948Z",
+      "locationsCheckedAt": "2026-11-25T22:49:05.759Z"
     },
     {
       "id": "15839976",
@@ -3340,8 +3813,8 @@
       "available": 0,
       "holds": 160,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:22:08.680Z",
-      "locationsCheckedAt": "2026-11-24T23:22:12.002Z"
+      "countsCheckedAt": "2026-11-25T22:49:10.453Z",
+      "locationsCheckedAt": "2026-11-25T22:49:13.738Z"
     },
     {
       "id": "43263680",
@@ -3351,8 +3824,8 @@
       "available": 0,
       "holds": 20,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:22:17.093Z",
-      "locationsCheckedAt": "2026-11-24T23:22:20.693Z"
+      "countsCheckedAt": "2026-11-25T22:49:18.546Z",
+      "locationsCheckedAt": "2026-11-25T22:49:21.560Z"
     },
     {
       "id": "53968496",
@@ -3362,8 +3835,8 @@
       "available": 0,
       "holds": 2,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:22:25.790Z",
-      "locationsCheckedAt": "2026-11-24T23:22:29.502Z"
+      "countsCheckedAt": "2026-11-25T22:49:26.405Z",
+      "locationsCheckedAt": "2026-11-25T22:49:29.654Z"
     },
     {
       "id": "53921926",
@@ -3373,8 +3846,8 @@
       "available": 0,
       "holds": 4,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:22:34.150Z",
-      "locationsCheckedAt": "2026-11-24T23:22:37.256Z"
+      "countsCheckedAt": "2026-11-25T22:49:34.676Z",
+      "locationsCheckedAt": "2026-11-25T22:49:37.670Z"
     },
     {
       "id": "63325333",
@@ -3384,8 +3857,8 @@
       "available": 0,
       "holds": 0,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:22:42.430Z",
-      "locationsCheckedAt": "2026-11-24T23:22:46.280Z"
+      "countsCheckedAt": "2026-11-25T22:49:42.229Z",
+      "locationsCheckedAt": "2026-11-25T22:49:45.170Z"
     },
     {
       "id": "36442813",
@@ -3395,8 +3868,8 @@
       "available": 0,
       "holds": 1,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:22:51.166Z",
-      "locationsCheckedAt": "2026-11-24T23:22:54.205Z"
+      "countsCheckedAt": "2026-11-25T22:49:49.833Z",
+      "locationsCheckedAt": "2026-11-25T22:49:52.649Z"
     },
     {
       "id": "11094651",
@@ -3415,15 +3888,24 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:22:59.184Z",
-      "locationsCheckedAt": "2026-11-24T23:23:02.379Z"
+      "countsCheckedAt": "2026-11-25T22:49:57.176Z",
+      "locationsCheckedAt": "2026-11-25T22:49:59.948Z"
     },
     {
       "id": "134218",
       "recordId": "S246C567324",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:23:12.163Z"
+      "status": "ok",
+      "copies": 2,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:50:04.719Z",
+      "locationsCheckedAt": "2026-11-25T22:50:07.762Z"
     },
     {
       "id": "17994",
@@ -3442,8 +3924,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:23:17.101Z",
-      "locationsCheckedAt": "2026-11-24T23:23:20.294Z"
+      "countsCheckedAt": "2026-11-25T22:50:12.843Z",
+      "locationsCheckedAt": "2026-11-25T22:50:15.535Z"
     },
     {
       "id": "124950295",
@@ -3453,16 +3935,16 @@
       "available": 0,
       "holds": 1,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:23:25.539Z",
-      "locationsCheckedAt": "2026-11-24T23:23:28.558Z"
+      "countsCheckedAt": "2026-11-25T22:50:20.004Z",
+      "locationsCheckedAt": "2026-11-25T22:50:22.821Z"
     },
     {
       "id": "60714999",
       "recordId": "S246C1259214",
       "status": "ok",
       "copies": 16,
-      "available": 9,
-      "holds": 1,
+      "available": 7,
+      "holds": 2,
       "availableCopies": [
         {
           "location": "Ballard Branch",
@@ -3470,10 +3952,6 @@
         },
         {
           "location": "Broadview Branch",
-          "status": "In"
-        },
-        {
-          "location": "Central Library",
           "status": "In"
         },
         {
@@ -3493,32 +3971,23 @@
           "status": "In"
         },
         {
-          "location": "Montlake Branch",
-          "status": "In"
-        },
-        {
           "location": "Southwest Branch",
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:23:34.123Z",
-      "locationsCheckedAt": "2026-11-24T23:23:37.295Z"
+      "countsCheckedAt": "2026-11-25T22:50:28.166Z",
+      "locationsCheckedAt": "2026-11-25T22:50:31.117Z"
     },
     {
       "id": "45100",
       "recordId": "S246C1169745",
       "status": "ok",
       "copies": 8,
-      "available": 1,
+      "available": 0,
       "holds": 1,
-      "availableCopies": [
-        {
-          "location": "Greenwood Branch",
-          "status": "In"
-        }
-      ],
-      "countsCheckedAt": "2026-11-24T23:23:42.018Z",
-      "locationsCheckedAt": "2026-11-24T23:23:45.235Z"
+      "availableCopies": [],
+      "countsCheckedAt": "2026-11-25T22:50:36.117Z",
+      "locationsCheckedAt": "2026-11-25T22:50:39.032Z"
     },
     {
       "id": "62031",
@@ -3541,17 +4010,21 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:23:50.010Z",
-      "locationsCheckedAt": "2026-11-24T23:23:53.529Z"
+      "countsCheckedAt": "2026-11-25T22:50:43.468Z",
+      "locationsCheckedAt": "2026-11-25T22:50:46.385Z"
     },
     {
       "id": "27774758",
       "recordId": "S246C640120",
       "status": "ok",
       "copies": 10,
-      "available": 4,
+      "available": 5,
       "holds": 0,
       "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "Not yet shelved"
+        },
         {
           "location": "Capitol Hill Branch",
           "status": "In"
@@ -3569,8 +4042,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:23:58.394Z",
-      "locationsCheckedAt": "2026-11-24T23:24:01.468Z"
+      "countsCheckedAt": "2026-11-25T22:50:51.051Z",
+      "locationsCheckedAt": "2026-11-25T22:50:53.933Z"
     },
     {
       "id": "60784546",
@@ -3613,8 +4086,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:24:06.227Z",
-      "locationsCheckedAt": "2026-11-24T23:24:09.433Z"
+      "countsCheckedAt": "2026-11-25T22:50:58.852Z",
+      "locationsCheckedAt": "2026-11-25T22:51:01.749Z"
     },
     {
       "id": "61431922",
@@ -3622,10 +4095,10 @@
       "status": "ok",
       "copies": 29,
       "available": 0,
-      "holds": 9,
+      "holds": 10,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:24:14.152Z",
-      "locationsCheckedAt": "2026-11-24T23:24:17.281Z"
+      "countsCheckedAt": "2026-11-25T22:51:06.772Z",
+      "locationsCheckedAt": "2026-11-25T22:51:09.633Z"
     },
     {
       "id": "49826643",
@@ -3633,10 +4106,10 @@
       "status": "ok",
       "copies": 7,
       "available": 0,
-      "holds": 3,
+      "holds": 1,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:24:22.069Z",
-      "locationsCheckedAt": "2026-11-24T23:24:25.021Z"
+      "countsCheckedAt": "2026-11-25T22:51:14.188Z",
+      "locationsCheckedAt": "2026-11-25T22:51:16.873Z"
     },
     {
       "id": "61612864",
@@ -3646,20 +4119,24 @@
       "available": 0,
       "holds": 2,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:24:29.663Z",
-      "locationsCheckedAt": "2026-11-24T23:24:32.841Z"
+      "countsCheckedAt": "2026-11-25T22:51:21.549Z",
+      "locationsCheckedAt": "2026-11-25T22:51:24.044Z"
     },
     {
       "id": "36692478",
       "recordId": "S246C778615",
       "status": "ok",
       "copies": 15,
-      "available": 3,
-      "holds": 0,
+      "available": 4,
+      "holds": 1,
       "availableCopies": [
         {
           "location": "Central Library",
           "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "Not yet shelved"
         },
         {
           "location": "High Point Branch",
@@ -3670,8 +4147,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:24:37.969Z",
-      "locationsCheckedAt": "2026-11-24T23:24:41.080Z"
+      "countsCheckedAt": "2026-11-25T22:51:28.917Z",
+      "locationsCheckedAt": "2026-11-25T22:51:32.698Z"
     },
     {
       "id": "43459659",
@@ -3690,8 +4167,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:24:45.929Z",
-      "locationsCheckedAt": "2026-11-24T23:24:48.924Z"
+      "countsCheckedAt": "2026-11-25T22:51:38.074Z",
+      "locationsCheckedAt": "2026-11-25T22:51:40.902Z"
     },
     {
       "id": "58437788",
@@ -3706,8 +4183,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:24:53.704Z",
-      "locationsCheckedAt": "2026-11-24T23:24:56.717Z"
+      "countsCheckedAt": "2026-11-25T22:51:45.837Z",
+      "locationsCheckedAt": "2026-11-25T22:51:48.924Z"
     },
     {
       "id": "20758104",
@@ -3730,8 +4207,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:25:01.316Z",
-      "locationsCheckedAt": "2026-11-24T23:25:04.233Z"
+      "countsCheckedAt": "2026-11-25T22:51:53.959Z",
+      "locationsCheckedAt": "2026-11-25T22:51:57.330Z"
     },
     {
       "id": "65213204",
@@ -3774,8 +4251,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:25:09.105Z",
-      "locationsCheckedAt": "2026-11-24T23:25:12.115Z"
+      "countsCheckedAt": "2026-11-25T22:52:02.824Z",
+      "locationsCheckedAt": "2026-11-25T22:52:05.381Z"
     },
     {
       "id": "40163119",
@@ -3783,17 +4260,17 @@
       "status": "ok",
       "copies": 24,
       "available": 0,
-      "holds": 87,
+      "holds": 85,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:25:17.030Z",
-      "locationsCheckedAt": "2026-11-24T23:25:20.000Z"
+      "countsCheckedAt": "2026-11-25T22:52:10.295Z",
+      "locationsCheckedAt": "2026-11-25T22:52:13.127Z"
     },
     {
       "id": "37570595",
       "recordId": "S246C795562",
       "status": "ok",
       "copies": 13,
-      "available": 10,
+      "available": 11,
       "holds": 0,
       "availableCopies": [
         {
@@ -3835,17 +4312,30 @@
         {
           "location": "Northgate Branch",
           "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "Not yet shelved"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:25:24.831Z",
-      "locationsCheckedAt": "2026-11-24T23:25:27.830Z"
+      "countsCheckedAt": "2026-11-25T22:52:17.809Z",
+      "locationsCheckedAt": "2026-11-25T22:52:20.801Z"
     },
     {
       "id": "56179360",
       "recordId": "S246C1024053",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:25:37.274Z"
+      "status": "ok",
+      "copies": 4,
+      "available": 1,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:52:25.653Z",
+      "locationsCheckedAt": "2026-11-25T22:52:28.509Z"
     },
     {
       "id": "48614638",
@@ -3872,8 +4362,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:25:42.080Z",
-      "locationsCheckedAt": "2026-11-24T23:25:45.013Z"
+      "countsCheckedAt": "2026-11-25T22:52:33.668Z",
+      "locationsCheckedAt": "2026-11-25T22:52:36.503Z"
     },
     {
       "id": "52692515",
@@ -3883,8 +4373,8 @@
       "available": 0,
       "holds": 3,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:25:49.703Z",
-      "locationsCheckedAt": "2026-11-24T23:25:52.770Z"
+      "countsCheckedAt": "2026-11-25T22:52:41.023Z",
+      "locationsCheckedAt": "2026-11-25T22:52:44.002Z"
     },
     {
       "id": "158674",
@@ -3894,30 +4384,39 @@
       "available": 0,
       "holds": 2,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:25:57.626Z",
-      "locationsCheckedAt": "2026-11-24T23:26:00.479Z"
+      "countsCheckedAt": "2026-11-25T22:52:48.649Z",
+      "locationsCheckedAt": "2026-11-25T22:52:51.526Z"
     },
     {
       "id": "45304101",
       "recordId": "S246C802361",
       "status": "ok",
-      "copies": 5,
+      "copies": 4,
       "available": 0,
-      "holds": 29,
+      "holds": 30,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:26:05.875Z",
-      "locationsCheckedAt": "2026-11-24T23:26:09.058Z"
+      "countsCheckedAt": "2026-11-25T22:52:56.945Z",
+      "locationsCheckedAt": "2026-11-25T22:52:59.630Z"
     },
     {
       "id": "15997",
       "recordId": "S246C375694",
       "status": "ok",
       "copies": 5,
-      "available": 0,
+      "available": 2,
       "holds": 0,
-      "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:26:13.950Z",
-      "locationsCheckedAt": "2026-11-24T23:26:17.014Z"
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:53:04.650Z",
+      "locationsCheckedAt": "2026-11-25T22:53:07.508Z"
     },
     {
       "id": "79550",
@@ -3927,8 +4426,8 @@
       "available": 0,
       "holds": 16,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:26:22.221Z",
-      "locationsCheckedAt": "2026-11-24T23:26:25.515Z"
+      "countsCheckedAt": "2026-11-25T22:53:12.105Z",
+      "locationsCheckedAt": "2026-11-25T22:53:15.132Z"
     },
     {
       "id": "35888337",
@@ -3947,8 +4446,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:26:30.252Z",
-      "locationsCheckedAt": "2026-11-24T23:26:33.351Z"
+      "countsCheckedAt": "2026-11-25T22:53:19.899Z",
+      "locationsCheckedAt": "2026-11-25T22:53:22.955Z"
     },
     {
       "id": "40599469",
@@ -3963,19 +4462,19 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:26:37.974Z",
-      "locationsCheckedAt": "2026-11-24T23:26:41.125Z"
+      "countsCheckedAt": "2026-11-25T22:53:27.729Z",
+      "locationsCheckedAt": "2026-11-25T22:53:30.894Z"
     },
     {
       "id": "16328",
       "recordId": "S246C1081271",
       "status": "ok",
-      "copies": 8,
+      "copies": 9,
       "available": 0,
       "holds": 9,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:26:45.945Z",
-      "locationsCheckedAt": "2026-11-24T23:26:48.977Z"
+      "countsCheckedAt": "2026-11-25T22:53:35.401Z",
+      "locationsCheckedAt": "2026-11-25T22:53:38.516Z"
     },
     {
       "id": "16297",
@@ -3990,8 +4489,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:26:53.851Z",
-      "locationsCheckedAt": "2026-11-24T23:26:57.035Z"
+      "countsCheckedAt": "2026-11-25T22:53:43.509Z",
+      "locationsCheckedAt": "2026-11-25T22:53:46.514Z"
     },
     {
       "id": "50033",
@@ -4001,8 +4500,8 @@
       "available": 0,
       "holds": 2,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:27:01.985Z",
-      "locationsCheckedAt": "2026-11-24T23:27:05.023Z"
+      "countsCheckedAt": "2026-11-25T22:53:51.071Z",
+      "locationsCheckedAt": "2026-11-25T22:53:53.976Z"
     },
     {
       "id": "340537",
@@ -4021,8 +4520,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:27:09.572Z",
-      "locationsCheckedAt": "2026-11-24T23:27:12.561Z"
+      "countsCheckedAt": "2026-11-25T22:53:58.554Z",
+      "locationsCheckedAt": "2026-11-25T22:54:01.360Z"
     },
     {
       "id": "62080151",
@@ -4045,17 +4544,21 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:27:17.475Z",
-      "locationsCheckedAt": "2026-11-24T23:27:20.642Z"
+      "countsCheckedAt": "2026-11-25T22:54:06.070Z",
+      "locationsCheckedAt": "2026-11-25T22:54:08.972Z"
     },
     {
       "id": "61340227",
       "recordId": "S246C1101911",
       "status": "ok",
       "copies": 5,
-      "available": 2,
+      "available": 3,
       "holds": 0,
       "availableCopies": [
+        {
+          "location": "Lake City Branch",
+          "status": "Not yet shelved"
+        },
         {
           "location": "Montlake Branch",
           "status": "In"
@@ -4065,15 +4568,15 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:27:25.559Z",
-      "locationsCheckedAt": "2026-11-24T23:27:28.616Z"
+      "countsCheckedAt": "2026-11-25T22:54:14.102Z",
+      "locationsCheckedAt": "2026-11-25T22:54:17.145Z"
     },
     {
       "id": "61108472",
       "recordId": "S246C1095499",
       "status": "ok",
       "copies": 10,
-      "available": 6,
+      "available": 7,
       "holds": 0,
       "availableCopies": [
         {
@@ -4099,10 +4602,14 @@
         {
           "location": "Northeast Branch",
           "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "Not yet shelved"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:27:33.396Z",
-      "locationsCheckedAt": "2026-11-24T23:27:36.663Z"
+      "countsCheckedAt": "2026-11-25T22:54:22.215Z",
+      "locationsCheckedAt": "2026-11-25T22:54:25.096Z"
     },
     {
       "id": "35068705",
@@ -4110,17 +4617,26 @@
       "status": "ok",
       "copies": 13,
       "available": 0,
-      "holds": 23,
+      "holds": 19,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:27:41.250Z",
-      "locationsCheckedAt": "2026-11-24T23:27:44.249Z"
+      "countsCheckedAt": "2026-11-25T22:54:29.806Z",
+      "locationsCheckedAt": "2026-11-25T22:54:32.984Z"
     },
     {
       "id": "58890783",
       "recordId": "S246C1068084",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:27:54.451Z"
+      "status": "ok",
+      "copies": 11,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:54:37.716Z",
+      "locationsCheckedAt": "2026-11-25T22:54:40.549Z"
     },
     {
       "id": "8682",
@@ -4130,8 +4646,8 @@
       "available": 0,
       "holds": 1,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:27:59.084Z",
-      "locationsCheckedAt": "2026-11-24T23:28:02.317Z"
+      "countsCheckedAt": "2026-11-25T22:54:45.159Z",
+      "locationsCheckedAt": "2026-11-25T22:54:48.158Z"
     },
     {
       "id": "30199414",
@@ -4146,8 +4662,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:28:07.148Z",
-      "locationsCheckedAt": "2026-11-24T23:28:10.136Z"
+      "countsCheckedAt": "2026-11-25T22:54:52.767Z",
+      "locationsCheckedAt": "2026-11-25T22:54:55.718Z"
     },
     {
       "id": "58527403",
@@ -4166,8 +4682,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:28:14.979Z",
-      "locationsCheckedAt": "2026-11-24T23:28:18.125Z"
+      "countsCheckedAt": "2026-11-25T22:55:00.396Z",
+      "locationsCheckedAt": "2026-11-25T22:55:03.224Z"
     },
     {
       "id": "61049",
@@ -4177,8 +4693,8 @@
       "available": 0,
       "holds": 121,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:28:23.294Z",
-      "locationsCheckedAt": "2026-11-24T23:28:26.403Z"
+      "countsCheckedAt": "2026-11-25T22:55:07.872Z",
+      "locationsCheckedAt": "2026-11-25T22:55:10.586Z"
     },
     {
       "id": "58386745",
@@ -4201,8 +4717,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:28:31.431Z",
-      "locationsCheckedAt": "2026-11-24T23:28:34.522Z"
+      "countsCheckedAt": "2026-11-25T22:55:15.353Z",
+      "locationsCheckedAt": "2026-11-25T22:55:18.410Z"
     },
     {
       "id": "62919394",
@@ -4245,15 +4761,32 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:28:39.167Z",
-      "locationsCheckedAt": "2026-11-24T23:28:42.282Z"
+      "countsCheckedAt": "2026-11-25T22:55:22.988Z",
+      "locationsCheckedAt": "2026-11-25T22:55:25.942Z"
     },
     {
       "id": "58659343",
       "recordId": "S246C1064104",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:28:51.781Z"
+      "status": "ok",
+      "copies": 14,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "Not yet shelved"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:55:30.582Z",
+      "locationsCheckedAt": "2026-11-25T22:55:33.735Z"
     },
     {
       "id": "61237011",
@@ -4272,8 +4805,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:28:56.592Z",
-      "locationsCheckedAt": "2026-11-24T23:28:59.623Z"
+      "countsCheckedAt": "2026-11-25T22:55:38.335Z",
+      "locationsCheckedAt": "2026-11-25T22:55:41.306Z"
     },
     {
       "id": "31409135",
@@ -4281,7 +4814,7 @@
       "status": "ok",
       "copies": 12,
       "available": 3,
-      "holds": 1,
+      "holds": 0,
       "availableCopies": [
         {
           "location": "Beacon Hill Branch",
@@ -4296,8 +4829,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:29:04.461Z",
-      "locationsCheckedAt": "2026-11-24T23:29:07.551Z"
+      "countsCheckedAt": "2026-11-25T22:55:45.995Z",
+      "locationsCheckedAt": "2026-11-25T22:55:48.742Z"
     },
     {
       "id": "62337617",
@@ -4312,8 +4845,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:29:12.290Z",
-      "locationsCheckedAt": "2026-11-24T23:29:15.469Z"
+      "countsCheckedAt": "2026-11-25T22:55:53.361Z",
+      "locationsCheckedAt": "2026-11-25T22:55:56.343Z"
     },
     {
       "id": "61387972",
@@ -4340,8 +4873,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:29:20.211Z",
-      "locationsCheckedAt": "2026-11-24T23:29:23.321Z"
+      "countsCheckedAt": "2026-11-25T22:56:00.926Z",
+      "locationsCheckedAt": "2026-11-25T22:56:03.951Z"
     },
     {
       "id": "60784308",
@@ -4396,15 +4929,15 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:29:28.147Z",
-      "locationsCheckedAt": "2026-11-24T23:29:31.235Z"
+      "countsCheckedAt": "2026-11-25T22:56:08.547Z",
+      "locationsCheckedAt": "2026-11-25T22:56:11.852Z"
     },
     {
       "id": "60194141",
       "recordId": "S246C1072903",
       "status": "ok",
       "copies": 21,
-      "available": 17,
+      "available": 18,
       "holds": 0,
       "availableCopies": [
         {
@@ -4421,6 +4954,10 @@
         },
         {
           "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
           "status": "In"
         },
         {
@@ -4476,8 +5013,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:29:36.071Z",
-      "locationsCheckedAt": "2026-11-24T23:29:39.211Z"
+      "countsCheckedAt": "2026-11-25T22:56:16.955Z",
+      "locationsCheckedAt": "2026-11-25T22:56:19.964Z"
     },
     {
       "id": "59432505",
@@ -4500,15 +5037,15 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:29:44.224Z",
-      "locationsCheckedAt": "2026-11-24T23:29:47.241Z"
+      "countsCheckedAt": "2026-11-25T22:56:25.131Z",
+      "locationsCheckedAt": "2026-11-25T22:56:28.725Z"
     },
     {
       "id": "59807975",
       "recordId": "S246C1086986",
       "status": "ok",
       "copies": 9,
-      "available": 6,
+      "available": 7,
       "holds": 0,
       "availableCopies": [
         {
@@ -4532,12 +5069,16 @@
           "status": "In"
         },
         {
+          "location": "Queen Anne Branch",
+          "status": "Not yet shelved"
+        },
+        {
           "location": "Southwest Branch",
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:29:52.996Z",
-      "locationsCheckedAt": "2026-11-24T23:29:56.109Z"
+      "countsCheckedAt": "2026-11-25T22:56:33.521Z",
+      "locationsCheckedAt": "2026-11-25T22:56:35.987Z"
     },
     {
       "id": "10054335",
@@ -4547,8 +5088,8 @@
       "available": 0,
       "holds": 3,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:30:02.264Z",
-      "locationsCheckedAt": "2026-11-24T23:30:05.583Z"
+      "countsCheckedAt": "2026-11-25T22:56:40.504Z",
+      "locationsCheckedAt": "2026-11-25T22:56:43.825Z"
     },
     {
       "id": "61189711",
@@ -4575,8 +5116,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:30:10.341Z",
-      "locationsCheckedAt": "2026-11-24T23:30:13.302Z"
+      "countsCheckedAt": "2026-11-25T22:56:48.581Z",
+      "locationsCheckedAt": "2026-11-25T22:56:50.827Z"
     },
     {
       "id": "32569560",
@@ -4599,8 +5140,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:30:19.147Z",
-      "locationsCheckedAt": "2026-11-24T23:30:22.246Z"
+      "countsCheckedAt": "2026-11-25T22:56:55.745Z",
+      "locationsCheckedAt": "2026-11-25T22:56:58.363Z"
     },
     {
       "id": "40916679",
@@ -4608,10 +5149,10 @@
       "status": "ok",
       "copies": 16,
       "available": 0,
-      "holds": 1,
+      "holds": 0,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:30:27.189Z",
-      "locationsCheckedAt": "2026-11-24T23:30:30.592Z"
+      "countsCheckedAt": "2026-11-25T22:57:03.034Z",
+      "locationsCheckedAt": "2026-11-25T22:57:05.971Z"
     },
     {
       "id": "59149236",
@@ -4642,8 +5183,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:30:35.497Z",
-      "locationsCheckedAt": "2026-11-24T23:30:38.756Z"
+      "countsCheckedAt": "2026-11-25T22:57:10.791Z",
+      "locationsCheckedAt": "2026-11-25T22:57:13.752Z"
     },
     {
       "id": "60206505",
@@ -4674,8 +5215,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:30:43.516Z",
-      "locationsCheckedAt": "2026-11-24T23:30:46.693Z"
+      "countsCheckedAt": "2026-11-25T22:57:18.855Z",
+      "locationsCheckedAt": "2026-11-25T22:57:22.016Z"
     },
     {
       "id": "166997",
@@ -4683,10 +5224,10 @@
       "status": "ok",
       "copies": 21,
       "available": 0,
-      "holds": 132,
+      "holds": 131,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:30:51.638Z",
-      "locationsCheckedAt": "2026-11-24T23:30:54.593Z"
+      "countsCheckedAt": "2026-11-25T22:57:27.416Z",
+      "locationsCheckedAt": "2026-11-25T22:57:30.829Z"
     },
     {
       "id": "11298",
@@ -4696,8 +5237,8 @@
       "available": 0,
       "holds": 3,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:30:59.446Z",
-      "locationsCheckedAt": "2026-11-24T23:31:02.575Z"
+      "countsCheckedAt": "2026-11-25T22:57:36.343Z",
+      "locationsCheckedAt": "2026-11-25T22:57:39.014Z"
     },
     {
       "id": "55649652",
@@ -4716,15 +5257,56 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:31:07.362Z",
-      "locationsCheckedAt": "2026-11-24T23:31:10.278Z"
+      "countsCheckedAt": "2026-11-25T22:57:43.608Z",
+      "locationsCheckedAt": "2026-11-25T22:57:46.127Z"
     },
     {
       "id": "60353768",
       "recordId": "S246C1075051",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:31:19.731Z"
+      "status": "ok",
+      "copies": 20,
+      "available": 9,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "International District/Chinatown Branch",
+          "status": "In"
+        },
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        },
+        {
+          "location": "NewHolly Branch",
+          "status": "In"
+        },
+        {
+          "location": "South Park Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        },
+        {
+          "location": "Wallingford Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:57:50.613Z",
+      "locationsCheckedAt": "2026-11-25T22:57:53.262Z"
     },
     {
       "id": "61272658",
@@ -4747,29 +5329,55 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:31:24.478Z",
-      "locationsCheckedAt": "2026-11-24T23:31:27.621Z"
+      "countsCheckedAt": "2026-11-25T22:57:58.029Z",
+      "locationsCheckedAt": "2026-11-25T22:58:01.316Z"
     },
     {
       "id": "35796008",
       "recordId": "S246C799071",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:31:37.133Z"
+      "status": "ok",
+      "copies": 7,
+      "available": 3,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Madrona-Sally Goldmark Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:58:07.550Z",
+      "locationsCheckedAt": "2026-11-25T22:58:10.394Z"
     },
     {
       "id": "18693644",
       "recordId": "S246C599612",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:31:46.495Z"
+      "status": "ok",
+      "copies": 1,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "High Point Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:58:15.215Z",
+      "locationsCheckedAt": "2026-11-25T22:58:18.616Z"
     },
     {
       "id": "44107480",
       "recordId": "S246C835807",
       "status": "ok",
       "copies": 5,
-      "available": 2,
+      "available": 3,
       "holds": 0,
       "availableCopies": [
         {
@@ -4777,12 +5385,16 @@
           "status": "In"
         },
         {
+          "location": "Central Library",
+          "status": "Not yet shelved"
+        },
+        {
           "location": "Columbia Branch",
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:31:55.166Z",
-      "locationsCheckedAt": "2026-11-24T23:31:58.299Z"
+      "countsCheckedAt": "2026-11-25T22:58:24.753Z",
+      "locationsCheckedAt": "2026-11-25T22:58:27.670Z"
     },
     {
       "id": "56437694",
@@ -4805,8 +5417,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:32:03.557Z",
-      "locationsCheckedAt": "2026-11-24T23:32:06.471Z"
+      "countsCheckedAt": "2026-11-25T22:58:32.291Z",
+      "locationsCheckedAt": "2026-11-25T22:58:34.603Z"
     },
     {
       "id": "52735921",
@@ -4825,20 +5437,24 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:32:11.071Z",
-      "locationsCheckedAt": "2026-11-24T23:32:14.122Z"
+      "countsCheckedAt": "2026-11-25T22:58:39.036Z",
+      "locationsCheckedAt": "2026-11-25T22:58:41.354Z"
     },
     {
       "id": "56646330",
       "recordId": "S246C1020036",
       "status": "ok",
       "copies": 7,
-      "available": 4,
+      "available": 5,
       "holds": 0,
       "availableCopies": [
         {
           "location": "Capitol Hill Branch",
           "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "Not yet shelved"
         },
         {
           "location": "Douglass-Truth Branch",
@@ -4853,8 +5469,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:32:18.851Z",
-      "locationsCheckedAt": "2026-11-24T23:32:21.927Z"
+      "countsCheckedAt": "2026-11-25T22:58:46.320Z",
+      "locationsCheckedAt": "2026-11-25T22:58:48.982Z"
     },
     {
       "id": "54173267",
@@ -4881,8 +5497,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:32:26.640Z",
-      "locationsCheckedAt": "2026-11-24T23:32:29.587Z"
+      "countsCheckedAt": "2026-11-25T22:58:54.657Z",
+      "locationsCheckedAt": "2026-11-25T22:58:58.136Z"
     },
     {
       "id": "43763",
@@ -4890,10 +5506,10 @@
       "status": "ok",
       "copies": 5,
       "available": 0,
-      "holds": 3,
+      "holds": 2,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:32:34.215Z",
-      "locationsCheckedAt": "2026-11-24T23:32:37.185Z"
+      "countsCheckedAt": "2026-11-25T22:59:02.687Z",
+      "locationsCheckedAt": "2026-11-25T22:59:06.018Z"
     },
     {
       "id": "26854212",
@@ -4928,8 +5544,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:32:41.898Z",
-      "locationsCheckedAt": "2026-11-24T23:32:44.807Z"
+      "countsCheckedAt": "2026-11-25T22:59:10.554Z",
+      "locationsCheckedAt": "2026-11-25T22:59:13.593Z"
     },
     {
       "id": "61030718",
@@ -4952,8 +5568,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:32:49.494Z",
-      "locationsCheckedAt": "2026-11-24T23:32:52.606Z"
+      "countsCheckedAt": "2026-11-25T22:59:18.136Z",
+      "locationsCheckedAt": "2026-11-25T22:59:21.266Z"
     },
     {
       "id": "59576064",
@@ -4996,15 +5612,24 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:32:57.271Z",
-      "locationsCheckedAt": "2026-11-24T23:33:00.244Z"
+      "countsCheckedAt": "2026-11-25T22:59:26.068Z",
+      "locationsCheckedAt": "2026-11-25T22:59:28.949Z"
     },
     {
       "id": "60018643",
       "recordId": "S246C1077556",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:33:09.641Z"
+      "status": "ok",
+      "copies": 3,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:59:33.779Z",
+      "locationsCheckedAt": "2026-11-25T22:59:36.656Z"
     },
     {
       "id": "41104077",
@@ -5012,10 +5637,10 @@
       "status": "ok",
       "copies": 8,
       "available": 0,
-      "holds": 4,
+      "holds": 5,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:33:14.194Z",
-      "locationsCheckedAt": "2026-11-24T23:33:17.222Z"
+      "countsCheckedAt": "2026-11-25T22:59:41.363Z",
+      "locationsCheckedAt": "2026-11-25T22:59:44.369Z"
     },
     {
       "id": "26032825",
@@ -5023,17 +5648,38 @@
       "status": "ok",
       "copies": 12,
       "available": 0,
-      "holds": 4,
+      "holds": 5,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:33:22.092Z",
-      "locationsCheckedAt": "2026-11-24T23:33:25.185Z"
+      "countsCheckedAt": "2026-11-25T22:59:49.185Z",
+      "locationsCheckedAt": "2026-11-25T22:59:51.947Z"
     },
     {
       "id": "54621096",
       "recordId": "S246C1046592",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:33:34.678Z"
+      "status": "ok",
+      "copies": 11,
+      "available": 4,
+      "holds": 1,
+      "availableCopies": [
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T22:59:56.953Z",
+      "locationsCheckedAt": "2026-11-25T23:00:00.004Z"
     },
     {
       "id": "61054804",
@@ -5092,8 +5738,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:33:39.461Z",
-      "locationsCheckedAt": "2026-11-24T23:33:42.453Z"
+      "countsCheckedAt": "2026-11-25T23:00:05.460Z",
+      "locationsCheckedAt": "2026-11-25T23:00:08.496Z"
     },
     {
       "id": "52366322",
@@ -5124,8 +5770,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:33:47.206Z",
-      "locationsCheckedAt": "2026-11-24T23:33:50.174Z"
+      "countsCheckedAt": "2026-11-25T23:00:13.672Z",
+      "locationsCheckedAt": "2026-11-25T23:00:17.108Z"
     },
     {
       "id": "60097451",
@@ -5135,8 +5781,8 @@
       "available": 0,
       "holds": 2,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:33:54.742Z",
-      "locationsCheckedAt": "2026-11-24T23:33:57.683Z"
+      "countsCheckedAt": "2026-11-25T23:00:21.807Z",
+      "locationsCheckedAt": "2026-11-25T23:00:25.290Z"
     },
     {
       "id": "31945128",
@@ -5151,15 +5797,24 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:34:02.294Z",
-      "locationsCheckedAt": "2026-11-24T23:34:05.356Z"
+      "countsCheckedAt": "2026-11-25T23:00:29.938Z",
+      "locationsCheckedAt": "2026-11-25T23:00:32.905Z"
     },
     {
       "id": "16131077",
       "recordId": "S246C562806",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:34:14.858Z"
+      "status": "ok",
+      "copies": 1,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T23:00:37.916Z",
+      "locationsCheckedAt": "2026-11-25T23:00:40.956Z"
     },
     {
       "id": "853510",
@@ -5169,8 +5824,8 @@
       "available": 0,
       "holds": 1,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:34:19.311Z",
-      "locationsCheckedAt": "2026-11-24T23:34:22.203Z"
+      "countsCheckedAt": "2026-11-25T23:00:46.067Z",
+      "locationsCheckedAt": "2026-11-25T23:00:49.462Z"
     },
     {
       "id": "60147181",
@@ -5193,8 +5848,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:34:26.871Z",
-      "locationsCheckedAt": "2026-11-24T23:34:29.758Z"
+      "countsCheckedAt": "2026-11-25T23:00:54.416Z",
+      "locationsCheckedAt": "2026-11-25T23:00:58.058Z"
     },
     {
       "id": "60613406",
@@ -5209,15 +5864,15 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:34:34.381Z",
-      "locationsCheckedAt": "2026-11-24T23:34:37.517Z"
+      "countsCheckedAt": "2026-11-25T23:01:02.755Z",
+      "locationsCheckedAt": "2026-11-25T23:01:05.958Z"
     },
     {
       "id": "60243188",
       "recordId": "S246C1082873",
       "status": "ok",
       "copies": 11,
-      "available": 5,
+      "available": 6,
       "holds": 0,
       "availableCopies": [
         {
@@ -5237,12 +5892,16 @@
           "status": "In"
         },
         {
+          "location": "Northgate Branch",
+          "status": "Not yet shelved"
+        },
+        {
           "location": "Queen Anne Branch",
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:34:42.073Z",
-      "locationsCheckedAt": "2026-11-24T23:34:45.246Z"
+      "countsCheckedAt": "2026-11-25T23:01:10.831Z",
+      "locationsCheckedAt": "2026-11-25T23:01:14.101Z"
     },
     {
       "id": "60417443",
@@ -5281,8 +5940,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:34:50.270Z",
-      "locationsCheckedAt": "2026-11-24T23:34:53.310Z"
+      "countsCheckedAt": "2026-11-25T23:01:19.012Z",
+      "locationsCheckedAt": "2026-11-25T23:01:21.979Z"
     },
     {
       "id": "60149573",
@@ -5333,28 +5992,37 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:34:58.075Z",
-      "locationsCheckedAt": "2026-11-24T23:35:01.290Z"
+      "countsCheckedAt": "2026-11-25T23:01:27.092Z",
+      "locationsCheckedAt": "2026-11-25T23:01:30.078Z"
     },
     {
       "id": "59678834",
       "recordId": "S246C1077489",
       "status": "ok",
       "copies": 1,
-      "available": 0,
+      "available": 1,
       "holds": 0,
-      "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:35:06.016Z",
-      "locationsCheckedAt": "2026-11-24T23:35:09.133Z"
+      "availableCopies": [
+        {
+          "location": "Greenwood Branch",
+          "status": "Not yet shelved"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T23:01:34.962Z",
+      "locationsCheckedAt": "2026-11-25T23:01:38.008Z"
     },
     {
       "id": "55209468",
       "recordId": "S246C960824",
       "status": "ok",
       "copies": 4,
-      "available": 2,
+      "available": 3,
       "holds": 0,
       "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "Not yet shelved"
+        },
         {
           "location": "High Point Branch",
           "status": "In"
@@ -5364,8 +6032,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:35:13.928Z",
-      "locationsCheckedAt": "2026-11-24T23:35:17.131Z"
+      "countsCheckedAt": "2026-11-25T23:01:42.806Z",
+      "locationsCheckedAt": "2026-11-25T23:01:46.181Z"
     },
     {
       "id": "55959443",
@@ -5380,8 +6048,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:35:21.776Z",
-      "locationsCheckedAt": "2026-11-24T23:35:24.821Z"
+      "countsCheckedAt": "2026-11-25T23:01:51.508Z",
+      "locationsCheckedAt": "2026-11-25T23:01:54.587Z"
     },
     {
       "id": "6514",
@@ -5391,8 +6059,8 @@
       "available": 0,
       "holds": 16,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:35:29.429Z",
-      "locationsCheckedAt": "2026-11-24T23:35:32.391Z"
+      "countsCheckedAt": "2026-11-25T23:01:59.964Z",
+      "locationsCheckedAt": "2026-11-25T23:02:03.083Z"
     },
     {
       "id": "11297",
@@ -5400,10 +6068,10 @@
       "status": "ok",
       "copies": 6,
       "available": 0,
-      "holds": 10,
+      "holds": 9,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:35:37.053Z",
-      "locationsCheckedAt": "2026-11-24T23:35:39.982Z"
+      "countsCheckedAt": "2026-11-25T23:02:07.861Z",
+      "locationsCheckedAt": "2026-11-25T23:02:11.202Z"
     },
     {
       "id": "55881109",
@@ -5426,15 +6094,15 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:35:44.792Z",
-      "locationsCheckedAt": "2026-11-24T23:35:47.854Z"
+      "countsCheckedAt": "2026-11-25T23:02:16.421Z",
+      "locationsCheckedAt": "2026-11-25T23:02:19.612Z"
     },
     {
       "id": "58673067",
       "recordId": "S246C995137",
       "status": "ok",
       "copies": 8,
-      "available": 3,
+      "available": 2,
       "holds": 0,
       "availableCopies": [
         {
@@ -5442,24 +6110,20 @@
           "status": "In"
         },
         {
-          "location": "Greenwood Branch",
-          "status": "In"
-        },
-        {
           "location": "Lake City Branch",
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:35:52.683Z",
-      "locationsCheckedAt": "2026-11-24T23:35:55.809Z"
+      "countsCheckedAt": "2026-11-25T23:02:24.802Z",
+      "locationsCheckedAt": "2026-11-25T23:02:28.270Z"
     },
     {
       "id": "38787",
       "recordId": "S246C1168562",
       "status": "ok",
       "copies": 18,
-      "available": 8,
-      "holds": 1,
+      "available": 10,
+      "holds": 0,
       "availableCopies": [
         {
           "location": "Ballard Branch",
@@ -5467,6 +6131,14 @@
         },
         {
           "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Central Library",
           "status": "In"
         },
         {
@@ -5494,33 +6166,67 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:36:00.683Z",
-      "locationsCheckedAt": "2026-11-24T23:36:03.630Z"
+      "countsCheckedAt": "2026-11-25T23:02:33.586Z",
+      "locationsCheckedAt": "2026-11-25T23:02:36.567Z"
     },
     {
       "id": "50202953",
       "recordId": "S246C936906",
       "status": "ok",
-      "copies": 18,
+      "copies": 17,
       "available": 0,
-      "holds": 165,
+      "holds": 164,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:36:08.636Z",
-      "locationsCheckedAt": "2026-11-24T23:36:11.699Z"
+      "countsCheckedAt": "2026-11-25T23:02:41.246Z",
+      "locationsCheckedAt": "2026-11-25T23:02:44.771Z"
     },
     {
       "id": "58690308",
       "recordId": "S246C1053988",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:36:21.155Z"
+      "status": "ok",
+      "copies": 15,
+      "available": 5,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Broadview Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "International District/Chinatown Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T23:02:49.695Z",
+      "locationsCheckedAt": "2026-11-25T23:02:52.958Z"
     },
     {
       "id": "31196",
       "recordId": "S246C362993",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:36:30.706Z"
+      "status": "ok",
+      "copies": 5,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T23:02:58.307Z",
+      "locationsCheckedAt": "2026-11-25T23:03:01.591Z"
     },
     {
       "id": "55425310",
@@ -5530,8 +6236,8 @@
       "available": 0,
       "holds": 0,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:36:36.720Z",
-      "locationsCheckedAt": "2026-11-24T23:36:39.611Z"
+      "countsCheckedAt": "2026-11-25T23:03:06.522Z",
+      "locationsCheckedAt": "2026-11-25T23:03:09.519Z"
     },
     {
       "id": "41150380",
@@ -5558,8 +6264,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:36:44.285Z",
-      "locationsCheckedAt": "2026-11-24T23:36:47.347Z"
+      "countsCheckedAt": "2026-11-25T23:03:14.610Z",
+      "locationsCheckedAt": "2026-11-25T23:03:17.610Z"
     },
     {
       "id": "50523477",
@@ -5569,8 +6275,8 @@
       "available": 0,
       "holds": 1,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:36:52.003Z",
-      "locationsCheckedAt": "2026-11-24T23:36:54.986Z"
+      "countsCheckedAt": "2026-11-25T23:03:22.469Z",
+      "locationsCheckedAt": "2026-11-25T23:03:25.701Z"
     },
     {
       "id": "50887097",
@@ -5578,30 +6284,43 @@
       "status": "ok",
       "copies": 8,
       "available": 0,
-      "holds": 13,
+      "holds": 14,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:36:59.701Z",
-      "locationsCheckedAt": "2026-11-24T23:37:02.631Z"
+      "countsCheckedAt": "2026-11-25T23:03:30.602Z",
+      "locationsCheckedAt": "2026-11-25T23:03:33.702Z"
     },
     {
       "id": "320",
       "recordId": "S246C483330",
       "status": "ok",
       "copies": 25,
-      "available": 0,
+      "available": 2,
       "holds": 0,
-      "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:37:07.220Z",
-      "locationsCheckedAt": "2026-11-24T23:37:10.250Z"
+      "availableCopies": [
+        {
+          "location": "Northeast Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Northgate Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T23:03:38.748Z",
+      "locationsCheckedAt": "2026-11-25T23:03:42.049Z"
     },
     {
       "id": "58536014",
       "recordId": "S246C1059451",
       "status": "ok",
       "copies": 7,
-      "available": 3,
+      "available": 4,
       "holds": 1,
       "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "Not yet shelved"
+        },
         {
           "location": "Lake City Branch",
           "status": "In"
@@ -5615,8 +6334,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:37:15.203Z",
-      "locationsCheckedAt": "2026-11-24T23:37:18.348Z"
+      "countsCheckedAt": "2026-11-25T23:03:47.115Z",
+      "locationsCheckedAt": "2026-11-25T23:03:50.524Z"
     },
     {
       "id": "35068946",
@@ -5639,17 +6358,21 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:37:23.053Z",
-      "locationsCheckedAt": "2026-11-24T23:37:25.927Z"
+      "countsCheckedAt": "2026-11-25T23:03:55.269Z",
+      "locationsCheckedAt": "2026-11-25T23:03:58.595Z"
     },
     {
       "id": "57717410",
       "recordId": "S246C1030745",
       "status": "ok",
       "copies": 21,
-      "available": 7,
+      "available": 8,
       "holds": 0,
       "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
         {
           "location": "Douglass-Truth Branch",
           "status": "In"
@@ -5679,8 +6402,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:37:30.327Z",
-      "locationsCheckedAt": "2026-11-24T23:37:32.901Z"
+      "countsCheckedAt": "2026-11-25T23:04:03.906Z",
+      "locationsCheckedAt": "2026-11-25T23:04:06.922Z"
     },
     {
       "id": "42201995",
@@ -5695,8 +6418,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:37:37.448Z",
-      "locationsCheckedAt": "2026-11-24T23:37:39.878Z"
+      "countsCheckedAt": "2026-11-25T23:04:11.778Z",
+      "locationsCheckedAt": "2026-11-25T23:04:14.767Z"
     },
     {
       "id": "57850266",
@@ -5715,8 +6438,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:37:44.572Z",
-      "locationsCheckedAt": "2026-11-24T23:37:47.379Z"
+      "countsCheckedAt": "2026-11-25T23:04:19.667Z",
+      "locationsCheckedAt": "2026-11-25T23:04:22.849Z"
     },
     {
       "id": "36510722",
@@ -5726,8 +6449,8 @@
       "available": 0,
       "holds": 0,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:37:51.876Z",
-      "locationsCheckedAt": "2026-11-24T23:37:54.986Z"
+      "countsCheckedAt": "2026-11-25T23:04:27.940Z",
+      "locationsCheckedAt": "2026-11-25T23:04:30.896Z"
     },
     {
       "id": "18774964",
@@ -5735,10 +6458,10 @@
       "status": "ok",
       "copies": 7,
       "available": 0,
-      "holds": 8,
+      "holds": 7,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:38:00.073Z",
-      "locationsCheckedAt": "2026-11-24T23:38:03.194Z"
+      "countsCheckedAt": "2026-11-25T23:04:35.606Z",
+      "locationsCheckedAt": "2026-11-25T23:04:38.734Z"
     },
     {
       "id": "58812994",
@@ -5757,15 +6480,36 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:38:08.021Z",
-      "locationsCheckedAt": "2026-11-24T23:38:11.003Z"
+      "countsCheckedAt": "2026-11-25T23:04:43.372Z",
+      "locationsCheckedAt": "2026-11-25T23:04:46.571Z"
     },
     {
       "id": "662",
       "recordId": "S246C530641",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:38:20.575Z"
+      "status": "ok",
+      "copies": 5,
+      "available": 4,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Green Lake Branch",
+          "status": "In"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T23:04:51.470Z",
+      "locationsCheckedAt": "2026-11-25T23:04:55.201Z"
     },
     {
       "id": "13623848",
@@ -5773,10 +6517,10 @@
       "status": "ok",
       "copies": 26,
       "available": 0,
-      "holds": 125,
+      "holds": 124,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:38:25.140Z",
-      "locationsCheckedAt": "2026-11-24T23:38:28.128Z"
+      "countsCheckedAt": "2026-11-25T23:05:00.770Z",
+      "locationsCheckedAt": "2026-11-25T23:05:04.103Z"
     },
     {
       "id": "29589074",
@@ -5784,21 +6528,26 @@
       "status": "ok",
       "copies": 5,
       "available": 0,
-      "holds": 2,
+      "holds": 1,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:38:32.937Z",
-      "locationsCheckedAt": "2026-11-24T23:38:35.966Z"
+      "countsCheckedAt": "2026-11-25T23:05:09.552Z",
+      "locationsCheckedAt": "2026-11-25T23:05:12.682Z"
     },
     {
       "id": "40595446",
       "recordId": "S246C826332",
       "status": "ok",
       "copies": 6,
-      "available": 0,
+      "available": 1,
       "holds": 0,
-      "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:38:40.591Z",
-      "locationsCheckedAt": "2026-11-24T23:38:43.090Z"
+      "availableCopies": [
+        {
+          "location": "Northgate Branch",
+          "status": "Not yet shelved"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T23:05:17.628Z",
+      "locationsCheckedAt": "2026-11-25T23:05:20.724Z"
     },
     {
       "id": "51152447",
@@ -5857,8 +6606,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:38:47.763Z",
-      "locationsCheckedAt": "2026-11-24T23:38:50.767Z"
+      "countsCheckedAt": "2026-11-25T23:05:25.425Z",
+      "locationsCheckedAt": "2026-11-25T23:05:28.517Z"
     },
     {
       "id": "58772722",
@@ -5881,15 +6630,56 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:38:55.657Z",
-      "locationsCheckedAt": "2026-11-24T23:38:58.641Z"
+      "countsCheckedAt": "2026-11-25T23:05:34.603Z",
+      "locationsCheckedAt": "2026-11-25T23:05:37.799Z"
     },
     {
       "id": "41880609",
       "recordId": "S246C829911",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:39:08.077Z"
+      "status": "ok",
+      "copies": 29,
+      "available": 9,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Ballard Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Ballard Branch",
+          "status": "In"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Queen Anne Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T23:05:42.378Z",
+      "locationsCheckedAt": "2026-11-25T23:05:45.776Z"
     },
     {
       "id": "34184307",
@@ -5936,22 +6726,44 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:39:12.844Z",
-      "locationsCheckedAt": "2026-11-24T23:39:15.307Z"
+      "countsCheckedAt": "2026-11-25T23:05:50.920Z",
+      "locationsCheckedAt": "2026-11-25T23:05:54.011Z"
     },
     {
       "id": "58353827",
       "recordId": "S246C1156616",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:39:25.474Z"
+      "status": "ok",
+      "copies": 2,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Lake City Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T23:05:58.869Z",
+      "locationsCheckedAt": "2026-11-25T23:06:02.138Z"
     },
     {
       "id": "57658071",
       "recordId": "S246C1136874",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:39:34.779Z"
+      "status": "ok",
+      "copies": 3,
+      "available": 2,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Central Library",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T23:06:07.185Z",
+      "locationsCheckedAt": "2026-11-25T23:06:10.483Z"
     },
     {
       "id": "59228212",
@@ -5966,8 +6778,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:39:39.254Z",
-      "locationsCheckedAt": "2026-11-24T23:39:42.109Z"
+      "countsCheckedAt": "2026-11-25T23:06:15.710Z",
+      "locationsCheckedAt": "2026-11-25T23:06:18.730Z"
     },
     {
       "id": "30983000",
@@ -5986,15 +6798,24 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:39:46.820Z",
-      "locationsCheckedAt": "2026-11-24T23:39:49.705Z"
+      "countsCheckedAt": "2026-11-25T23:06:25.081Z",
+      "locationsCheckedAt": "2026-11-25T23:06:28.227Z"
     },
     {
       "id": "1099301",
       "recordId": "S246C376782",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:39:58.954Z"
+      "status": "ok",
+      "copies": 3,
+      "available": 1,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Magnolia Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T23:06:33.559Z",
+      "locationsCheckedAt": "2026-11-25T23:06:37.593Z"
     },
     {
       "id": "357209",
@@ -6013,24 +6834,28 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:40:03.880Z",
-      "locationsCheckedAt": "2026-11-24T23:40:06.970Z"
+      "countsCheckedAt": "2026-11-25T23:06:42.744Z",
+      "locationsCheckedAt": "2026-11-25T23:06:45.863Z"
     },
     {
       "id": "42863088",
       "recordId": "S246C883451",
       "status": "ok",
       "copies": 3,
-      "available": 1,
+      "available": 2,
       "holds": 0,
       "availableCopies": [
+        {
+          "location": "Central Library",
+          "status": "Not yet shelved"
+        },
         {
           "location": "Magnolia Branch",
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:40:11.585Z",
-      "locationsCheckedAt": "2026-11-24T23:40:14.534Z"
+      "countsCheckedAt": "2026-11-25T23:06:51.238Z",
+      "locationsCheckedAt": "2026-11-25T23:06:54.347Z"
     },
     {
       "id": "241375385",
@@ -6057,8 +6882,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:40:19.432Z",
-      "locationsCheckedAt": "2026-11-24T23:40:22.236Z"
+      "countsCheckedAt": "2026-11-25T23:06:59.368Z",
+      "locationsCheckedAt": "2026-11-25T23:07:02.211Z"
     },
     {
       "id": "255420470",
@@ -6068,15 +6893,15 @@
       "available": 0,
       "holds": 93,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:40:26.927Z",
-      "locationsCheckedAt": "2026-11-24T23:40:30.270Z"
+      "countsCheckedAt": "2026-11-25T23:07:06.874Z",
+      "locationsCheckedAt": "2026-11-25T23:07:09.860Z"
     },
     {
       "id": "231126885",
       "recordId": "S246C1319980",
       "status": "ok",
       "copies": 169,
-      "available": 53,
+      "available": 51,
       "holds": 0,
       "availableCopies": [
         {
@@ -6108,14 +6933,6 @@
           "status": "In"
         },
         {
-          "location": "Broadview Branch",
-          "status": "In"
-        },
-        {
-          "location": "Broadview Branch",
-          "status": "In"
-        },
-        {
           "location": "Capitol Hill Branch",
           "status": "In"
         },
@@ -6133,6 +6950,14 @@
         },
         {
           "location": "Central Library",
+          "status": "In"
+        },
+        {
+          "location": "Columbia Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Delridge Branch",
           "status": "In"
         },
         {
@@ -6140,23 +6965,7 @@
           "status": "In"
         },
         {
-          "location": "Green Lake Branch",
-          "status": "In"
-        },
-        {
           "location": "Greenwood Branch",
-          "status": "In"
-        },
-        {
-          "location": "Greenwood Branch",
-          "status": "In"
-        },
-        {
-          "location": "Greenwood Branch",
-          "status": "In"
-        },
-        {
-          "location": "High Point Branch",
           "status": "In"
         },
         {
@@ -6188,16 +6997,16 @@
           "status": "In"
         },
         {
-          "location": "Lake City Branch",
-          "status": "In"
-        },
-        {
           "location": "Madrona-Sally Goldmark Branch",
           "status": "In"
         },
         {
           "location": "Madrona-Sally Goldmark Branch",
           "status": "In"
+        },
+        {
+          "location": "Magnolia Branch",
+          "status": "Not yet shelved"
         },
         {
           "location": "Magnolia Branch",
@@ -6241,6 +7050,14 @@
         },
         {
           "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northgate Branch",
           "status": "In"
         },
         {
@@ -6292,15 +7109,48 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:40:35.831Z",
-      "locationsCheckedAt": "2026-11-24T23:40:38.860Z"
+      "countsCheckedAt": "2026-11-25T23:07:15.112Z",
+      "locationsCheckedAt": "2026-11-25T23:07:18.186Z"
     },
     {
       "id": "195391751",
       "recordId": "S246C1192666",
-      "status": "error",
-      "error": "Contradictory availability labels.",
-      "checkedAt": "2026-11-24T23:40:49.116Z"
+      "status": "ok",
+      "copies": 10,
+      "available": 7,
+      "holds": 0,
+      "availableCopies": [
+        {
+          "location": "Beacon Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Broadview Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Capitol Hill Branch",
+          "status": "In"
+        },
+        {
+          "location": "Douglass-Truth Branch",
+          "status": "In"
+        },
+        {
+          "location": "Greenwood Branch",
+          "status": "In"
+        },
+        {
+          "location": "Northeast Branch",
+          "status": "Not yet shelved"
+        },
+        {
+          "location": "Southwest Branch",
+          "status": "In"
+        }
+      ],
+      "countsCheckedAt": "2026-11-25T23:07:22.958Z",
+      "locationsCheckedAt": "2026-11-25T23:07:25.917Z"
     },
     {
       "id": "4981",
@@ -6308,10 +7158,10 @@
       "status": "ok",
       "copies": 12,
       "available": 0,
-      "holds": 8,
+      "holds": 6,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:40:53.710Z",
-      "locationsCheckedAt": "2026-11-24T23:40:57.016Z"
+      "countsCheckedAt": "2026-11-25T23:07:31.576Z",
+      "locationsCheckedAt": "2026-11-25T23:07:35.048Z"
     },
     {
       "id": "7144",
@@ -6321,19 +7171,19 @@
       "available": 0,
       "holds": 17,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:41:01.717Z",
-      "locationsCheckedAt": "2026-11-24T23:41:04.714Z"
+      "countsCheckedAt": "2026-11-25T23:07:39.971Z",
+      "locationsCheckedAt": "2026-11-25T23:07:43.156Z"
     },
     {
       "id": "24800",
       "recordId": "S246C251968",
       "status": "ok",
-      "copies": 20,
+      "copies": 19,
       "available": 0,
       "holds": 75,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:41:09.241Z",
-      "locationsCheckedAt": "2026-11-24T23:41:12.193Z"
+      "countsCheckedAt": "2026-11-25T23:07:48.079Z",
+      "locationsCheckedAt": "2026-11-25T23:07:50.993Z"
     },
     {
       "id": "164154",
@@ -6343,8 +7193,8 @@
       "available": 0,
       "holds": 13,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:41:17.123Z",
-      "locationsCheckedAt": "2026-11-24T23:41:20.740Z"
+      "countsCheckedAt": "2026-11-25T23:07:55.971Z",
+      "locationsCheckedAt": "2026-11-25T23:07:59.513Z"
     },
     {
       "id": "1329610",
@@ -6359,15 +7209,15 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:41:25.587Z",
-      "locationsCheckedAt": "2026-11-24T23:41:28.710Z"
+      "countsCheckedAt": "2026-11-25T23:08:04.737Z",
+      "locationsCheckedAt": "2026-11-25T23:08:07.730Z"
     },
     {
       "id": "9317452",
       "recordId": "S246C464209",
       "status": "error",
       "error": "locator.waitFor: Timeout 20000ms exceeded.\nCall log:\n  - waiting for getByRole('main').getByText(/^\\d+ on hold$/).first() to be visible\n",
-      "checkedAt": "2026-11-24T23:41:52.904Z"
+      "checkedAt": "2026-11-25T23:08:32.497Z"
     },
     {
       "id": "32718027",
@@ -6377,8 +7227,8 @@
       "available": 0,
       "holds": 15,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:41:57.884Z",
-      "locationsCheckedAt": "2026-11-24T23:42:00.986Z"
+      "countsCheckedAt": "2026-11-25T23:08:38.278Z",
+      "locationsCheckedAt": "2026-11-25T23:08:41.666Z"
     },
     {
       "id": "40796176",
@@ -6388,8 +7238,8 @@
       "available": 0,
       "holds": 2,
       "availableCopies": [],
-      "countsCheckedAt": "2026-11-24T23:42:06.092Z",
-      "locationsCheckedAt": "2026-11-24T23:42:09.561Z"
+      "countsCheckedAt": "2026-11-25T23:08:47.226Z",
+      "locationsCheckedAt": "2026-11-25T23:08:50.374Z"
     },
     {
       "id": "42366547",
@@ -6408,8 +7258,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:42:14.708Z",
-      "locationsCheckedAt": "2026-11-24T23:42:17.418Z"
+      "countsCheckedAt": "2026-11-25T23:08:55.780Z",
+      "locationsCheckedAt": "2026-11-25T23:08:58.990Z"
     },
     {
       "id": "51102251",
@@ -6428,8 +7278,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:42:22.408Z",
-      "locationsCheckedAt": "2026-11-24T23:42:25.388Z"
+      "countsCheckedAt": "2026-11-25T23:09:04.218Z",
+      "locationsCheckedAt": "2026-11-25T23:09:08.177Z"
     },
     {
       "id": "52045757",
@@ -6476,8 +7326,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:42:30.431Z",
-      "locationsCheckedAt": "2026-11-24T23:42:33.441Z"
+      "countsCheckedAt": "2026-11-25T23:09:12.966Z",
+      "locationsCheckedAt": "2026-11-25T23:09:16.405Z"
     },
     {
       "id": "54776198",
@@ -6496,8 +7346,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:42:38.160Z",
-      "locationsCheckedAt": "2026-11-24T23:42:41.227Z"
+      "countsCheckedAt": "2026-11-25T23:09:21.262Z",
+      "locationsCheckedAt": "2026-11-25T23:09:24.368Z"
     },
     {
       "id": "59808133",
@@ -6540,8 +7390,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:42:46.504Z",
-      "locationsCheckedAt": "2026-11-24T23:42:49.495Z"
+      "countsCheckedAt": "2026-11-25T23:09:29.033Z",
+      "locationsCheckedAt": "2026-11-25T23:09:33.393Z"
     },
     {
       "id": "75596597",
@@ -6568,8 +7418,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:42:54.088Z",
-      "locationsCheckedAt": "2026-11-24T23:42:56.979Z"
+      "countsCheckedAt": "2026-11-25T23:09:38.544Z",
+      "locationsCheckedAt": "2026-11-25T23:09:41.527Z"
     },
     {
       "id": "199396641",
@@ -6600,8 +7450,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:43:02.291Z",
-      "locationsCheckedAt": "2026-11-24T23:43:05.188Z"
+      "countsCheckedAt": "2026-11-25T23:09:46.569Z",
+      "locationsCheckedAt": "2026-11-25T23:09:49.466Z"
     },
     {
       "id": "203020280",
@@ -6644,8 +7494,8 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:43:09.725Z",
-      "locationsCheckedAt": "2026-11-24T23:43:12.614Z"
+      "countsCheckedAt": "2026-11-25T23:09:54.330Z",
+      "locationsCheckedAt": "2026-11-25T23:09:57.658Z"
     },
     {
       "id": "203648169",
@@ -6680,9 +7530,9 @@
           "status": "In"
         }
       ],
-      "countsCheckedAt": "2026-11-24T23:43:17.393Z",
-      "locationsCheckedAt": "2026-11-24T23:43:20.243Z"
+      "countsCheckedAt": "2026-11-25T23:10:02.567Z",
+      "locationsCheckedAt": "2026-11-25T23:10:05.849Z"
     }
   ],
-  "completedAt": "2026-11-24T23:43:20.286Z"
+  "completedAt": "2026-11-25T23:10:05.890Z"
 }
